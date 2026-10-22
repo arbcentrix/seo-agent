@@ -24,6 +24,8 @@ def main(argv=None) -> int:
     parser.add_argument("--skip-sources", action="store_true", help="daily: do not sync GSC/GA4/PSI")
     parser.add_argument("--only", default="gsc,ga4,psi", help="sync: comma-separated sources")
     parser.add_argument("--force-psi", action="store_true", help="run PSI even if run recently")
+    parser.add_argument("--full", action="store_true",
+                        help="watch: re-fetch every page even if nothing looks published")
     parser.add_argument("--labels", type=Path, help="weekly: apply Claude's intents/scores; qa: check them")
     parser.add_argument("--recommendations", type=Path, help="qa: recommendations JSON to check")
     parser.add_argument("--email", type=Path, help="qa: email JSON to check")
@@ -75,7 +77,7 @@ def main(argv=None) -> int:
                 from .sync import run_sync
                 sync_result = run_sync(cfg, state or store(), force_psi=args.force_psi)
             run_scan(args.command, cfg, args.out, state, args.fixtures, previous,
-                     sync_result=sync_result)
+                     sync_result=sync_result, full=args.full)
         except StateError as e:
             print(f"state error: {e}", file=sys.stderr)
             return 1

@@ -28,7 +28,7 @@ def normalize_url(url: str) -> str:
 
 
 def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str = "arbcentrix.com",
-               booking_pattern: str | None = None) -> dict:
+               booking_pattern: str | None = None, build_asset_pattern: str | None = None) -> dict:
     headers = {k.lower(): v for k, v in (headers or {}).items()}
     soup = BeautifulSoup(html, "lxml")
     head = soup.head or soup
@@ -45,6 +45,9 @@ def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str 
     noindex = "noindex" in robots_meta.lower() or "noindex" in x_robots.lower()
 
     scripts = [s.get("src") for s in soup.find_all("script") if s.get("src")]
+    preloads = [l.get("href") for l in soup.find_all("link", rel=lambda r: r and "modulepreload" in r)
+                if l.get("href")]
+    build_assets = sorted({u for u in scripts + preloads if build_asset_pattern and build_asset_pattern in u})
     links, internal, external = [], [], []
     for a in soup.find_all("a", href=True):
         href = a["href"].strip()
@@ -77,6 +80,7 @@ def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str 
         "internal_links": internal,
         "external_links": external,
         "script_srcs": scripts,
+        "build_assets": build_assets,
         "tracking_ids": sorted(set(TRACKING_ID.findall(html))),
         "has_form": soup.find("form") is not None,
         "has_booking": bool(booking_pattern) and any(booking_pattern in u for u in external),

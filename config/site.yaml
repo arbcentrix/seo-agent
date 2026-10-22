@@ -52,4 +52,8 @@ schedule:               # the scheduled tasks (README "Schedule"); weekly.json c
   watch:   {task: SEO publish watch,  cron: "27 */4 * * *", per_week: 42}   # plus API-triggered runs
   weekly:  {task: SEO weekly report,  cron: "43 6 * * 1",   per_week: 1}
   monthly: {task: SEO monthly report, cron: "43 7 3 * *",   per_week: null}  # 3rd of the month
+watch:
+  # The homepage's own Framer bundles (hashed file names) form the build signature; it
+  # changes on every publish. Third-party scripts (events.framer.com, Calendly) are ignored.
+  build_asset_pattern: framerusercontent.com/sites/
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)
