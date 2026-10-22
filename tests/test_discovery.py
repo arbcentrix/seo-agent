@@ -47,3 +47,23 @@ def test_cold_render_shell_is_refetched_not_reported(cfg):
     src = _ShellOnce(FixtureSource(FIXTURES), url, persistent=True)
     snap = crawl(src, cfg)
     assert [f["url"] for f in run_checks(snap, cfg) if f["rule"] == "empty_shell"] == [url]
+
+
+def test_no_page_has_jsonld(snapshot, cfg):
+    assert all(p["jsonld_types"] == [] for p in snapshot["pages"].values())
+    assert len([f for f in run_checks(snapshot, cfg) if f["rule"] == "jsonld_missing"]) == 61
+
+
+def test_jsonld_types_are_extracted():
+    from seo_agent.crawl.parser import parse_page
+    html = ('<html><head><title>t</title><script type="application/ld+json">'
+            '{"@graph":[{"@type":"Organization"},{"@type":["Service","Thing"]}]}</script>'
+            '<script type="application/ld+json">{bad json</script></head><body>x</body></html>')
+    assert parse_page(html, "https://arbcentrix.com/")["jsonld_types"] == ["Organization", "Service", "Thing"]
+
+
+def test_overlapping_accounting_pages(snapshot, cfg):
+    hits = {f["url"].rsplit("/", 1)[1]: f for f in run_checks(snapshot, cfg) if f["rule"] == "overlapping_content"}
+    assert sorted(hits) == ["accounting-services", "audit", "tax"]
+    assert sorted(hits["accounting-services"]["evidence"]["overlaps_with"]) == [
+        "https://arbcentrix.com/audit", "https://arbcentrix.com/tax"]
