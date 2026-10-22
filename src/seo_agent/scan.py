@@ -30,7 +30,7 @@ def _dump(path: Path, data) -> None:
 
 
 def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = None,
-             previous: dict | None = None, log=print) -> dict:
+             previous: dict | None = None, log=print, sync_result: dict | None = None) -> dict:
     assert kind in ("daily", "watch")
     source = FixtureSource(fixtures) if fixtures else LiveSource(
         Fetcher(cfg.user_agent, interval=cfg.site.get("request_interval_seconds", 1)))
@@ -72,7 +72,10 @@ def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = 
             old = state.read_text(RESOLVED) or ""
             state.write_text(RESOLVED, old + "".join(json.dumps(r, sort_keys=True) + "\n"
                                                      for r in result["resolved"]))
+        extra = {k: v for k, v in summary.items() if k != "findings"}
+        if sync_result:
+            extra["sources"] = sync_result["sources"]
         state.append_run(kind, findings=len(findings) if findings is not None else len(alerts),
-                         **{k: v for k, v in summary.items() if k != "findings"})
+                         suspicious=(sync_result or {}).get("suspicious"), **extra)
         state.commit_and_push(f"{kind} {now}: {status['new']} new, {status['ongoing']} ongoing alerts")
     return {"summary": summary, "alerts": alerts, "resolved": result["resolved"]}

@@ -82,6 +82,10 @@ class StateBranch:
             f.write(json.dumps(entry, sort_keys=True) + "\n")
         return entry
 
+    def listdir(self, rel_dir: str) -> list[str]:
+        d = self._file(rel_dir)
+        return sorted(p.name for p in d.iterdir()) if d.exists() else []
+
     def read_runs(self) -> list[dict]:
         text = self.read_text(RUNS_FILE) or ""
         return [json.loads(line) for line in text.splitlines() if line.strip()]
