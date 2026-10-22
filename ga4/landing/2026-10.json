@@ -18,19 +18,28 @@
     "2026-10-16": "2026-10-22T04:58:41+00:00",
     "2026-10-17": "2026-10-22T04:58:41+00:00",
     "2026-10-18": "2026-10-22T04:58:41+00:00",
-    "2026-10-19": "2026-10-22T04:58:41+00:00",
-    "2026-10-20": "2026-10-22T04:58:41+00:00",
-    "2026-10-21": "2026-10-22T04:58:41+00:00"
+    "2026-10-19": "2026-10-22T22:14:43+00:00",
+    "2026-10-20": "2026-10-22T22:14:43+00:00",
+    "2026-10-21": "2026-10-22T22:14:43+00:00"
   },
   "rows": [
+    {
+      "date": "2026-10-21",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 2
+    },
     {
       "date": "2026-10-21",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-10-21",
@@ -45,8 +54,8 @@
       "date": "2026-10-21",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Unassigned",
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     }
