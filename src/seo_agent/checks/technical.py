@@ -53,6 +53,19 @@ def sitemap_drop(snapshot, ctx):
     sm = snapshot["sitemap"]
     if sm.get("error") or not sm.get("urls"):
         yield sm["url"], {"status": sm.get("status"), "error": sm.get("error") or "no URLs"}
+        return
+    # Compare with the URL set from before an open alert, else the previous snapshot.
+    opened = (ctx.baseline or {}).get(sm["url"], {})
+    before = opened.get("urls_before") or (
+        (ctx.previous or {}).get("sitemap", {}).get("urls") if ctx.previous else None)
+    if not before:
+        return
+    lost = sorted(set(before) - set(sm["urls"]))
+    t = ctx.threshold
+    if lost and (len(lost) >= t.get("min_urls_lost", 3)
+                 or len(lost) / len(before) >= t.get("min_fraction_lost", 0.10)):
+        yield sm["url"], {"urls_before": sorted(before), "count_before": len(before),
+                          "count_now": len(sm["urls"]), "lost": lost}
 
 
 def broken_internal_link(snapshot, ctx):

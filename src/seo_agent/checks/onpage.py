@@ -40,8 +40,9 @@ def cta_broken(snapshot, ctx):
         for path in cta.get(key) or []:
             url = base + path
             p = snapshot["pages"].get(url)
-            if p is None or p.get("status") != 200 or not p.get(field):
-                yield url, {"missing": kind, "status": p.get("status") if p else None}
+            # A page that is down or redirecting is status_change's alert, not a second one here.
+            if p and p.get("status") == 200 and not p.get("redirects") and not p.get(field):
+                yield url, {"missing": kind}
 
 
 def h1_missing(snapshot, ctx):
@@ -65,15 +66,16 @@ def thin_content(snapshot, ctx):
 
 
 def content_shrink(snapshot, ctx):
-    """Diff-only: needs the previous snapshot (wired in stage 3)."""
-    if not ctx.previous:
-        return
+    """Comparative: words now vs. before an open alert, else the previous snapshot."""
     frac = ctx.threshold.get("min_fraction_lost", 0.4)
     for url in ctx.cfg.critical_urls:
-        old = (ctx.previous["pages"].get(url) or {}).get("word_count") or 0
+        old = (ctx.baseline or {}).get(url, {}).get("words_before")
+        if old is None and ctx.previous:
+            old = (ctx.previous["pages"].get(url) or {}).get("word_count")
         new = (snapshot["pages"].get(url) or {}).get("word_count") or 0
         if old and (old - new) / old >= frac:
-            yield url, {"words_before": old, "words_now": new}
+            yield url, {"words_before": old, "words_now": new,
+                        "fraction_lost": round((old - new) / old, 3)}
 
 
 CHECKS = {f.__name__: f for f in (title_meta_regression, tracking_missing, cta_broken, h1_missing,
