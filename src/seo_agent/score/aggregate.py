@@ -45,7 +45,7 @@ def delta(now, before) -> dict:
 def ga4_dates(cfg) -> dict:
     """The two GA4 start dates from site.yaml (None when not set); shown on every report."""
     g = cfg.site.get("ga4") or {}
-    return {"data_from": g.get("data_from"), "key_events_from": g.get("key_events_from")}
+    return {k: str(g[k]) if g.get(k) else None for k in ("data_from", "key_events_from")}
 
 
 def _from(rows, start):
