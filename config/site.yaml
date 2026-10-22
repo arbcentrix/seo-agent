@@ -1,0 +1,5 @@
+domain: arbcentrix.com
+critical_pages: []   # TODO: list critical page paths
+monday:
+  board_id_env: MONDAY_BOARD_ID
+  workspace_id_env: MONDAY_WORKSPACE_ID
