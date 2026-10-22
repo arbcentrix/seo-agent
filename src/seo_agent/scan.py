@@ -60,6 +60,7 @@ def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = 
         findings = run_checks(snapshot, cfg, previous)
         _dump(out_dir / "findings.json", findings)
 
+    page_flags = [f for p in snapshot["pages"].values() for f in p.get("suspicious") or []]
     status = Counter(a["status"] for a in alerts)
     summary = {"pages": len(snapshot["pages"]), "baseline": previous is None,
                "alerts_new": status["new"], "alerts_ongoing": status["ongoing"],
@@ -90,6 +91,6 @@ def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = 
         if sync_result:
             extra["sources"] = sync_result["sources"]
         state.append_run(kind, findings=len(findings) if findings is not None else len(alerts),
-                         suspicious=(sync_result or {}).get("suspicious"), **extra)
+                         suspicious=((sync_result or {}).get("suspicious") or []) + page_flags, **extra)
         state.commit_and_push(f"{kind} {now}: {status['new']} new, {status['ongoing']} ongoing alerts")
     return {"summary": summary, "alerts": alerts, "resolved": result["resolved"]}

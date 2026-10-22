@@ -2,7 +2,9 @@
 import re
 from urllib.parse import urldefrag, urljoin, urlsplit
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
+
+from .. import security
 
 TRACKING_ID = re.compile(r"\b(GTM-[A-Z0-9]{4,10}|G-[A-Z0-9]{8,12})\b")
 _SPACE = re.compile(r"\s+")
@@ -58,11 +60,19 @@ def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str 
         (internal if host == domain or host.endswith("." + domain) else external).append(absolute)
     internal, external = _unique(internal), _unique(external)
 
+    # Untrusted text that could address an AI reader: flag it, never act on it.
+    texts = [_text(head.find("title")), meta("description") or ""]
+    texts += [c.strip() for c in soup.find_all(string=lambda x: isinstance(x, Comment))]
+    texts += [i.get(a, "") for i in soup.find_all(True) for a in ("alt", "title", "aria-label") if i.get(a)]
+
     for t in soup(["script", "style", "noscript", "template"]):
         t.extract()
     body = soup.body
     main = soup.find(id="main")
     words = len(_text(body).split()) if body else 0
+    texts += [_text(e) for e in (body.find_all(["h1", "h2", "h3", "p", "li", "div", "span"]) if body else [])
+              if not e.find(["p", "li", "div"])]
+    suspicious = security.flag(texts, f"page:{url}")
 
     return {
         "url": url,
@@ -84,4 +94,5 @@ def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str 
         "tracking_ids": sorted(set(TRACKING_ID.findall(html))),
         "has_form": soup.find("form") is not None,
         "has_booking": bool(booking_pattern) and any(booking_pattern in u for u in external),
+        "suspicious": suspicious,
     }
