@@ -175,3 +175,14 @@ def test_regression_during_outage_is_still_caught(snapshot, cfg):
     back = copy.deepcopy(prev)
     back["pages"][TAX]["title"] = ""  # came back broken
     assert ("title_meta_regression", TAX, "new") in keys(run(cfg, back, down))
+
+
+def test_title_regression_while_meta_already_bad(snapshot, cfg):
+    # Today every page's meta description is brand-only; a good title breaking must still alert.
+    snapshot["pages"][TAX]["title"] = "Offshore tax support | Arbcentrix"
+    prev = copy.deepcopy(snapshot)
+    assert run(cfg, copy.deepcopy(snapshot), prev)["alerts"] == []
+    snapshot["pages"][TAX]["title"] = "Arbcentrix"
+    r = run(cfg, snapshot, prev)
+    assert keys(r) == {("title_meta_regression", TAX, "new")}
+    assert set(r["alerts"][0]["evidence"]) == {"title", "meta_description"}

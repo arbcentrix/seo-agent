@@ -47,4 +47,9 @@ sources:
   gsc_refresh_days: 4     # re-fetch the newest days each run (GSC finalises late)
   ga4_refresh_days: 3
   psi_every_days: 7       # PSI on critical pages, mobile + desktop
+schedule:               # the scheduled tasks (README "Schedule"); weekly.json counts runs against this
+  daily:   {task: SEO daily watch,    cron: "13 6 * * *",   per_week: 7}
+  watch:   {task: SEO publish watch,  cron: "27 */4 * * *", per_week: 42}   # plus API-triggered runs
+  weekly:  {task: SEO weekly report,  cron: "43 6 * * 1",   per_week: 1}
+  monthly: {task: SEO monthly report, cron: "43 7 3 * *",   per_week: null}  # 3rd of the month
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)

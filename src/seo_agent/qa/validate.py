@@ -167,3 +167,62 @@ def validate_email(email: dict, env, known: set[str], domain: str, passed_ids: s
         if rid not in passed_ids:
             errors.append(f"recommendation {rid!r} has not passed qa")
     return errors
+
+
+SCRIPT_ALERT_FIELDS = ("rule", "severity", "url", "status", "evidence", "evidence_now", "first_seen", "last_seen")
+NUMBER = re.compile(r"(?<![\w.])\d+(?:[.,]\d+)?")
+SENTENCE_END = re.compile(r"[.!?](?:\s|$)")
+
+
+def _numbers_in(value) -> set[str]:
+    out = set()
+    if isinstance(value, dict):
+        for v in value.values():
+            out |= _numbers_in(v)
+    elif isinstance(value, (list, tuple)):
+        for v in value:
+            out |= _numbers_in(v)
+    elif isinstance(value, bool) or value is None:
+        pass
+    elif isinstance(value, (int, float)):
+        out |= {str(value), f"{value:g}"}
+        if isinstance(value, float) and 0 < abs(value) < 1:
+            out.add(f"{value * 100:g}")  # 0.596 may be written as 59.6%
+    else:
+        out |= set(NUMBER.findall(str(value)))
+    return out
+
+
+def sentences(text: str) -> int:
+    text = text.strip()
+    return len(SENTENCE_END.findall(text)) + (0 if not text or text[-1] in ".!?" else 1)
+
+
+def validate_alert(alert: dict, raw: dict | None, approval_levels: list[str],
+                   rule: dict | None = None) -> list[str]:
+    """rule: the rules.yaml entry; numbers in its description/threshold (e.g. 200, 40%) may be quoted."""
+    if raw is None:
+        return ["not an alert the script produced (no match in alerts_raw.json)"]
+    errors = [f"script field {f!r} was changed" for f in SCRIPT_ALERT_FIELDS if alert.get(f) != raw.get(f)]
+    cause, fix = alert.get("cause"), alert.get("fix")
+    if not _nonempty(cause):
+        errors.append("missing cause")
+    if not _nonempty(fix):
+        errors.append("missing fix")
+    if _nonempty(cause) and _nonempty(fix):
+        n = sentences(cause) + sentences(fix)
+        if n > 3:
+            errors.append(f"cause + fix is {n} sentences; keep it to 3 or fewer")
+        allowed = _numbers_in(raw.get("evidence")) | _numbers_in(raw.get("evidence_now")) | \
+            set(NUMBER.findall(raw.get("url", ""))) | \
+            _numbers_in((rule or {}).get("description")) | _numbers_in((rule or {}).get("threshold"))
+        for num in sorted(set(NUMBER.findall(f"{cause} {fix}"))):
+            if num not in allowed and num.replace(",", "") not in allowed:
+                errors.append(f"number {num} is not in this alert's evidence")
+    for f in ("effort", "confidence"):
+        v = alert.get(f)
+        if not (isinstance(v, int) and not isinstance(v, bool) and 1 <= v <= 5):
+            errors.append(f"{f} must be an integer 1-5")
+    if alert.get("approval_level") not in approval_levels:
+        errors.append(f"approval_level must be one of {approval_levels}")
+    return errors

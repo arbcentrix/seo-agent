@@ -6,10 +6,10 @@ This is the only place the agent commits to (CLAUDE.md).
 import json
 import subprocess
 import time
-from datetime import datetime, timezone
 from pathlib import Path
 
-RUNS_FILE = "runs.jsonl"
+from .runs import RunLog
+
 BACKOFF = (2, 4, 8, 16)
 
 
@@ -24,7 +24,7 @@ def _git(cwd, *args, check=True):
     return r
 
 
-class StateBranch:
+class StateBranch(RunLog):
     def __init__(self, repo: Path, branch: str = "state", worktree: Path | None = None,
                  remote: str = "origin"):
         self.repo = Path(repo)
@@ -69,26 +69,6 @@ class StateBranch:
 
     def write_json(self, rel: str, data) -> None:
         self.write_text(rel, json.dumps(data, indent=2, sort_keys=True) + "\n")
-
-    def append_run(self, command: str, status: str = "ok", findings: int = 0,
-                   suspicious: list | None = None, **extra) -> dict:
-        """Append one line to runs.jsonl. Call on every run, even empty ones."""
-        entry = {"ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-                 "command": command, "status": status, "findings": findings,
-                 "suspicious": suspicious or [], **extra}
-        p = self._file(RUNS_FILE)
-        p.parent.mkdir(parents=True, exist_ok=True)
-        with p.open("a") as f:
-            f.write(json.dumps(entry, sort_keys=True) + "\n")
-        return entry
-
-    def listdir(self, rel_dir: str) -> list[str]:
-        d = self._file(rel_dir)
-        return sorted(p.name for p in d.iterdir()) if d.exists() else []
-
-    def read_runs(self) -> list[dict]:
-        text = self.read_text(RUNS_FILE) or ""
-        return [json.loads(line) for line in text.splitlines() if line.strip()]
 
     # -- publish -------------------------------------------------------
     def commit(self, message: str) -> bool:

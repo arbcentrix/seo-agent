@@ -4,6 +4,8 @@
 - mode: diff   -> alert only when the rule fires now and did not fire on the previous
                   snapshot (a regression). Comparative rules (sitemap URL loss,
                   content_shrink) compare against ctx.previous directly.
+- Rules with `compare: evidence_keys` also regress when a URL that already failed gains a
+  new failing field (e.g. the title breaks while the meta description was already bad).
 - An alert stays open, reported as "ongoing", until its rule stops firing for that URL.
   Open alerts carry the evidence they opened with, so comparative rules keep measuring
   against the pre-regression value.
@@ -74,7 +76,8 @@ def evaluate(snapshot: dict, cfg, previous: dict | None, open_alerts: dict | Non
             if key in open_alerts:
                 opened = open_alerts[key]
                 alert = {**opened, "status": "ongoing", "last_seen": now, "evidence_now": evidence}
-            elif url not in prev_hits:
+            elif url not in prev_hits or (
+                    rule.get("compare") == "evidence_keys" and set(evidence) - set(prev_hits[url])):
                 alert = {"rule": rid, "severity": rule["severity"], "url": url, "evidence": evidence,
                          "status": "new", "first_seen": now, "last_seen": now}
             else:

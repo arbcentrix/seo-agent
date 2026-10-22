@@ -189,6 +189,29 @@ def _psi_latest(store) -> tuple[str | None, list[dict]]:
     return day, store.read_json(f"psi/{day}.json") or []
 
 
+def runs_summary(cfg, store, generated_at: str, days: int = 7) -> dict:
+    """Runs per scheduled task over the last `days` days, from runs.jsonl, against the schedule.
+
+    A green task status only means a session started; this is the real check.
+    """
+    since = (dt.datetime.fromisoformat(generated_at) - dt.timedelta(days=days)).isoformat()
+    runs = [r for r in (store.read_runs() if hasattr(store, "read_runs") else []) if r.get("ts", "") >= since]
+    out = {"since": since, "tasks": {}}
+    for command, sched in (cfg.site.get("schedule") or {}).items():
+        mine = [r for r in runs if r.get("command") == command]
+        expected = sched.get("per_week")
+        out["tasks"][command] = {
+            "task": sched.get("task"), "expected": round(expected * days / 7) if expected else None,
+            "runs": len(mine), "ok": sum(1 for r in mine if r.get("status", "ok") == "ok"),
+            "errors": sum(1 for r in mine if r.get("status") == "error"),
+            "not_closed": sum(1 for r in mine if not r.get("closed")),
+            "last_run": max((r["ts"] for r in mine), default=None)}
+        t = out["tasks"][command]
+        t["missing"] = max(0, t["expected"] - t["runs"]) if t["expected"] is not None else None
+    out["suspicious"] = [s for r in runs for s in r.get("suspicious") or []]
+    return out
+
+
 def build_weekly(cfg, store, snapshot, findings, open_alerts, generated_at: str) -> dict:
     end = _gsc_end(store)
     if end is None:
@@ -207,6 +230,7 @@ def build_weekly(cfg, store, snapshot, findings, open_alerts, generated_at: str)
                                              for c in candidates if c["type"].startswith("crawl_")},
                         "open_alerts": len(open_alerts or {})},
         "psi": {"date": psi_day, "results": psi_rows},
+        "runs": runs_summary(cfg, store, generated_at),
         "changes": _changes(store, w),
         "query_page": query_page,
         "candidates": candidates,
