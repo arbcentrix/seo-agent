@@ -314,3 +314,13 @@ def test_ga4_counts_respect_start_dates():
     assert m["sessions"] == 8 and m["key_events"] == 1 and m["key_events_by_name"] == {"generate_lead": 1.0}
     assert agg.ga4_metrics(landing, events, None, {"data_from": "2026-10-05"})["sessions"] == 3
     assert agg.ga4_metrics(landing, events, None)["sessions"] == 8
+
+
+def test_report_email_needs_ga4_dates_line():
+    from seo_agent.config import Env
+    from seo_agent.qa.validate import validate_email
+    env = Env.from_environ({"DELIVERY_MODE": "live", "REPORTS_TO": "a@x.com"})
+    mail = {"kind": "report", "to": ["a@x.com"], "subject": "[SEO WEEKLY] arbcentrix.com", "body": "KPIs"}
+    assert any("GA4" in e for e in validate_email(mail, env, set(), "arbcentrix.com", set()))
+    mail["body"] = "GA4 data counted from 2026-10-01 (new property go-live); key events from 2026-10-05\nKPIs"
+    assert not validate_email(mail, env, set(), "arbcentrix.com", set())

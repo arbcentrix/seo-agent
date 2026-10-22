@@ -152,6 +152,9 @@ def validate_email(email: dict, env, known: set[str], domain: str, passed_ids: s
     if not _nonempty(body):
         errors.append("missing body")
         body = ""
+    if kind == "report" and any(t in (subject or "") for t in ("[SEO WEEKLY]", "[SEO MONTHLY]")) \
+            and "GA4 data counted from" not in body:
+        errors.append("report body must state the GA4 go-live and key-event dates ('GA4 data counted from ...')")
     text = f"{subject or ''}\n{body}"
     if any(m in text for m in SECRET_MARKERS) or (secret and secret[:24] in text):
         errors.append("email contains credential material")
