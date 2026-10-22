@@ -39,5 +39,5 @@ cta:
     - /go-to-market-strategy-and-business-development
     - /order-fulfillment-management
   form_pages:
-    - /contact
+    - /contact          # form + Calendly popup, no booking link (intended, confirmed 2026-10-22)
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)

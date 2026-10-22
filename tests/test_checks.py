@@ -32,8 +32,9 @@ def test_robots_block_and_missing(snapshot, cfg):
 
 
 def test_noindex(snapshot, cfg):
+    assert not fired(snapshot, cfg, "noindex_added")  # /terms, /privacy-policy are excluded
     snapshot["pages"][TAX]["noindex"] = True
-    assert TAX in fired(snapshot, cfg, "noindex_added")
+    assert fired(snapshot, cfg, "noindex_added") == {TAX}
 
 
 def test_canonical_elsewhere(snapshot, cfg):

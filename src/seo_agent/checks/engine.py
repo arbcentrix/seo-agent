@@ -50,7 +50,10 @@ def run_checks(snapshot: dict, cfg, previous: dict | None = None, only_watch: bo
         if rule.get("enabled", True) is False or (only_watch and not rule.get("watch")):
             continue
         ctx = Ctx(cfg, rule, previous)
+        excluded = {cfg.base_url + path for path in rule.get("exclude") or []}
         for url, evidence in REGISTRY[rule["id"]](snapshot, ctx):
+            if url in excluded:
+                continue
             findings.append({"rule": rule["id"], "severity": rule["severity"], "url": url,
                              "evidence": evidence})
     findings.sort(key=lambda f: (SEVERITY_ORDER[f["severity"]], f["rule"], f["url"] or ""))

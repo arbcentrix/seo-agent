@@ -6,6 +6,7 @@
 #   scope      critical = critical pages only, all = every crawled page
 #   threshold  rule-specific numbers
 #   watch      true = also run by the publish watch
+#   exclude    paths this rule never reports (intentional exceptions)
 
 checks:
   # --- Daily / publish-watch rules -----------------------------------------
@@ -28,6 +29,7 @@ checks:
     mode: diff
     scope: all
     watch: true
+    exclude: [/terms, /privacy-policy]   # intentionally noindex (confirmed 2026-10-22)
     description: A page gains noindex (meta robots or X-Robots-Tag).
 
   - id: canonical_changed
