@@ -198,6 +198,8 @@ def runs_summary(cfg, store, generated_at: str, days: int = 7) -> dict:
     runs = [r for r in (store.read_runs() if hasattr(store, "read_runs") else []) if r.get("ts", "") >= since]
     out = {"since": since, "tasks": {}}
     for command, sched in (cfg.site.get("schedule") or {}).items():
+        if not isinstance(sched, dict):
+            continue  # e.g. timezone
         mine = [r for r in runs if r.get("command") == command]
         expected = sched.get("per_week")
         out["tasks"][command] = {

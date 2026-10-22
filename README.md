@@ -141,6 +141,9 @@ and sorts the candidates by it.
 
 ### Scheduled tasks and prompts (stage 6)
 
+All times are Asia/Manila (UTC+8); when creating the tasks, write each cron as
+`CRON_TZ=Asia/Manila <cron>`.
+
 | Task name | Prompt | Model | Trigger | Connectors |
 |---|---|---|---|---|
 | SEO daily watch | Follow prompts/daily.md in the repository exactly. | Sonnet 5.5 | Daily, 06:13 | Microsoft 365, monday.com |
@@ -161,7 +164,9 @@ items, close the run.
   `out/alerts_raw.json` for this.
 - **Shadow mode** (`DELIVERY_MODE=shadow`): every email goes only to `SHADOW_EMAIL` (the
   technical owner) with `[SHADOW]` in front of the subject, and qa enforces both.
-  monday.com items and docs are still created, named with a `[SHADOW]` prefix.
+  Nothing is written to monday.com: no items, no docs, no Applied -> Verified moves.
+  Each email instead ends with the monday.com changes the run would have made. The board
+  may still be read (to skip existing items and to verify Applied ones).
 - **One line per run in `runs.jsonl`**: the script writes it; the prompt's last step,
   `python -m seo_agent log --run <task> --note "..."`, closes that line with what was
   sent and commits. If the script crashed before logging, `log --status error` adds the line.

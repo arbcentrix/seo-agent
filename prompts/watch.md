@@ -27,12 +27,15 @@ the run started.
    Subject: `[SEO ALERT][<Severity>] <short summary>`, using the highest severity among the
    new alerts; in shadow mode put `[SHADOW]` in front. Body: the new alerts only (severity,
    URL, cause, fix, evidence numbers), and one line saying whether a publish was detected
-   (`mode` and `reasons` in out/changes.json). Write it to out/email.json as
+   (`mode` and `reasons` in out/changes.json). In shadow mode, end the body with
+   "monday.com items this run would add" and list each item from step 6 (name and update
+   text). Write it to out/email.json as
    `{"kind": "alert", "to": [...], "subject": "...", "body": "..."}`, run
    `python -m seo_agent qa out/email.json`, and send exactly what passed. No cc or bcc.
-6. Add each new alert as an item on the monday.com board MONDAY_BOARD_ID
-   (SEO Recommendations) with Status = Proposed, named and filled as in prompts/daily.md
-   step 6. Skip alerts that already have an item. Never change Status, Approver or
+6. Only when DELIVERY_MODE=live (in shadow mode write nothing to monday.com; the items are
+   listed in the step 5 email): add each new alert as an item on the monday.com board
+   MONDAY_BOARD_ID (SEO Recommendations) with Status = Proposed, named and filled as in
+   prompts/daily.md step 6. Skip alerts that already have an item. Never change Status, Approver or
    Decision reason on existing items.
-7. Run `python -m seo_agent log --run watch --note "<n> new alerts emailed, <m> items added>"`,
+7. Run `python -m seo_agent log --run watch --note "<n> new alerts emailed, <m> items added (or listed, in shadow mode)>"`,
    adding `--suspicious "<text>"` for anything noted in step 3. End with one line.
