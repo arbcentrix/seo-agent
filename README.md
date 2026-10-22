@@ -7,7 +7,7 @@ PYTHONPATH=src python -m seo_agent smoke
 python -m pytest
 ```
 
-Commands: `python -m seo_agent daily | watch | weekly | monthly | qa | smoke`.
+Commands: `python -m seo_agent daily | watch | weekly | monthly | qa | smoke | sync`.
 
 ### Environment
 
@@ -64,6 +64,33 @@ python -m seo_agent daily --no-state --previous old/snapshot.json   # local diff
 
 State branch files: `snapshots/latest.json` (diff baseline, updated by every run),
 `snapshots/<date>.json` (daily), `alerts/open.json`, `alerts/resolved.jsonl`, `runs.jsonl`.
+
+### Data sources (stage 4)
+
+```
+python -m seo_agent sync                    # GSC + GA4 + PSI into the state branch
+python -m seo_agent sync --only gsc,ga4     # one or more sources
+python -m seo_agent sync --force-psi        # PSI even if it ran in the last 7 days
+python -m seo_agent sync --no-state --out tmp   # into tmp/state-local, nothing pushed
+```
+
+`daily` runs the same sync before crawling (skip with `--skip-sources`). GSC and GA4 sync
+every missing day in a 16-month window, so the first run is the one-time backfill
+(~40 s for GSC today) and later runs fetch new days plus the last few, which Google
+still revises. A source that fails is logged in `runs.jsonl`; the others still run.
+GSC search queries are untrusted: ones that read like instructions are flagged in the
+run's `suspicious` list.
+
+| Path on the state branch | Contents |
+|---|---|
+| `gsc/page_query/<YYYY-MM>.json` | date × page × query: clicks, impressions, position (final data, up to today − 3) |
+| `gsc/page/<YYYY-MM>.json` | date × page totals — use these for page KPIs: query rows omit anonymised queries |
+| `ga4/landing/<YYYY-MM>.json` | date × landingPage: sessions, engagedSessions, totalUsers, keyEvents |
+| `ga4/key_events/<YYYY-MM>.json` | date × landingPage × eventName: keyEvents |
+| `psi/<YYYY-MM-DD>.json` | critical pages × mobile/desktop: lab (performance, LCP, FCP, TBT, SI, CLS) and field CrUX (page and origin) |
+
+Each month file lists the days it has synced (`days`), including days with no rows.
+Settings are under `sources:` in `config/site.yaml`.
 
 ### State branch
 

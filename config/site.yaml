@@ -40,4 +40,10 @@ cta:
     - /order-fulfillment-management
   form_pages:
     - /contact          # form + Calendly popup, no booking link (intended, confirmed 2026-10-22)
+sources:
+  backfill_months: 16     # GSC keeps 16 months; the first sync backfills all of it
+  gsc_lag_days: 3         # sync GSC final data up to today - 3
+  gsc_refresh_days: 4     # re-fetch the newest days each run (GSC finalises late)
+  ga4_refresh_days: 3
+  psi_every_days: 7       # PSI on critical pages, mobile + desktop
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)
