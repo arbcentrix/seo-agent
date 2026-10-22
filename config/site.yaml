@@ -40,6 +40,7 @@ cta:
     - /order-fulfillment-management
   form_pages:
     - /contact          # form + Calendly popup, no booking link (intended, confirmed 2026-10-22)
+brand_terms: [arbcentrix, absentrix, arbcentrix corp]   # queries containing these are branded
 sources:
   backfill_months: 16     # GSC keeps 16 months; the first sync backfills all of it
   gsc_lag_days: 3         # sync GSC final data up to today - 3

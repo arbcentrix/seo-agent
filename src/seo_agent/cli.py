@@ -22,6 +22,10 @@ def main(argv=None) -> int:
     parser.add_argument("--skip-sources", action="store_true", help="daily: do not sync GSC/GA4/PSI")
     parser.add_argument("--only", default="gsc,ga4,psi", help="sync: comma-separated sources")
     parser.add_argument("--force-psi", action="store_true", help="run PSI even if run recently")
+    parser.add_argument("--labels", type=Path, help="weekly: apply Claude's intents/scores; qa: check them")
+    parser.add_argument("--recommendations", type=Path, help="qa: recommendations JSON to check")
+    parser.add_argument("--email", type=Path, help="qa: email JSON to check")
+    parser.add_argument("--weekly", type=Path, help="qa: weekly.json (default out/weekly.json)")
     args = parser.parse_args(argv)
     try:
         cfg = load_config()
@@ -68,6 +72,32 @@ def main(argv=None) -> int:
             print(f"state error: {e}", file=sys.stderr)
             return 1
         return 0
+
+    if args.command == "qa":
+        from .reporting import run_qa
+        st = DirStore(args.out / "state-local") if args.no_state else StateBranch(ROOT, cfg.env.state_branch).open()
+        return run_qa(cfg, st, args.out, args.recommendations, args.email, args.labels, args.weekly)
+
+    if args.command == "weekly":
+        from .reporting import run_weekly
+        try:
+            st = store()
+            sync_result = None
+            if not args.labels and not args.skip_sources:
+                from .sync import run_sync
+                sync_result = run_sync(cfg, st, force_psi=args.force_psi)
+
+            def commit(kind, summary, sync_res):
+                if args.no_state:
+                    return
+                extra = {"sources": sync_res["sources"]} if sync_res else {}
+                st.append_run(kind, suspicious=(sync_res or {}).get("suspicious"), **summary, **extra)
+                st.commit_and_push(f"{kind}: {json.dumps(summary)[:120]}")
+
+            return run_weekly(cfg, st, args.out, args.labels, commit, sync_result)
+        except StateError as e:
+            print(f"state error: {e}", file=sys.stderr)
+            return 1
 
     print(f"{args.command}: not implemented yet", file=sys.stderr)
     return 1

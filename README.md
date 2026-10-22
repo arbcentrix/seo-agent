@@ -92,6 +92,49 @@ run's `suspicious` list.
 Each month file lists the days it has synced (`days`), including days with no rows.
 Settings are under `sources:` in `config/site.yaml`.
 
+### Weekly report, scoring and QA (stage 5)
+
+```
+python -m seo_agent weekly                          # sync sources, write out/weekly.json
+python -m seo_agent qa --labels out/labels.json     # Claude's intents + scores
+python -m seo_agent weekly --labels out/labels.json # apply them: Priority computed, candidates ranked
+python -m seo_agent qa --recommendations out/recommendations.json --email out/email.json
+```
+
+`out/weekly.json` holds, all computed by scripts:
+- `kpis`: GSC clicks, impressions, CTR, impression-weighted position, and GA4 sessions,
+  engaged sessions and key events (organic and all channels), for 7 days vs the previous
+  7, 28 vs the previous 28, and 28 vs the same 28 days last year. Windows end on the
+  latest day of final GSC data.
+- `changes`: page and query movers over 28 days (gainers, losers, new, lost).
+- `query_page`: every query × page pair over 28 days, with `branded` (from
+  `brand_terms` in site.yaml) and an empty `intent` for Claude.
+- `candidates`: one per crawl rule with findings, one per open alert, and the data
+  candidates in `rules.yaml` (`striking_distance`, `low_ctr`, `page_decline`,
+  `cannibalisation`, `critical_no_impressions`, `psi_poor`), each with its evidence and
+  empty `scores`.
+- `psi` (latest run) and `site_health`.
+
+Claude writes a labels file: `{"intents": {query: intent}, "scores": {candidate_id:
+{impact, relevance, confidence, effort, risk, rationale}}}`, every score an integer 1–5.
+`weekly --labels` computes **Priority = (Impact × Relevance × Confidence) / (Effort × Risk)**
+and sorts the candidates by it.
+
+`qa` rejects:
+- labels with an unknown intent or query, a missing or out-of-range score, or a priority
+  Claude supplied itself;
+- recommendations missing any of finding, evidence, URLs/queries, impact, action, steps,
+  effort, confidence, validation criteria and approval level; with an invalid URL
+  (not https, not on arbcentrix.com, or unknown to the crawl and GSC data); with a query
+  not in the GSC data; with a number that does not match the candidate's evidence in
+  weekly.json; or with a priority that is not the computed one;
+- emails to anyone outside the allowed recipients for the delivery mode, with cc/bcc, a
+  shadow-mode subject not starting with `[SHADOW]`, credential material, non-https or
+  unknown arbcentrix.com links, or a recommendation that has not passed qa.
+
+`qa` exits 0 when everything passed, 1 when anything was rejected (details in
+`out/qa.json`), 2 when there was nothing to check.
+
 ### State branch
 
 `seo_agent.state.StateBranch` checks out the state branch in `.state-worktree/`
