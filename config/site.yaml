@@ -48,6 +48,7 @@ sources:
   ga4_refresh_days: 3
   psi_every_days: 7       # PSI on critical pages, mobile + desktop
 schedule:               # the scheduled tasks (README "Schedule"); weekly.json counts runs against this
+  timezone: Asia/Manila   # every cron below is Manila time (UTC+8)
   daily:   {task: SEO daily watch,    cron: "13 6 * * *",   per_week: 7}
   watch:   {task: SEO publish watch,  cron: "27 */4 * * *", per_week: 42}   # plus API-triggered runs
   weekly:  {task: SEO weekly report,  cron: "43 6 * * 1",   per_week: 1}

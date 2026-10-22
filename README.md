@@ -141,6 +141,9 @@ and sorts the candidates by it.
 
 ### Scheduled tasks and prompts (stage 6)
 
+All times are Asia/Manila (UTC+8); when creating the tasks, write each cron as
+`CRON_TZ=Asia/Manila <cron>`.
+
 | Task name | Prompt | Model | Trigger | Connectors |
 |---|---|---|---|---|
 | SEO daily watch | Follow prompts/daily.md in the repository exactly. | Sonnet 5.5 | Daily, 06:13 | Microsoft 365, monday.com |
