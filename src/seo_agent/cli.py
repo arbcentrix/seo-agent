@@ -6,7 +6,7 @@ from pathlib import Path
 from .config import ROOT, ConfigError, load_config
 from .state import DirStore, StateBranch, StateError
 
-COMMANDS = ("daily", "watch", "weekly", "monthly", "qa", "smoke", "sync", "verify", "log")
+COMMANDS = ("daily", "watch", "weekly", "monthly", "qa", "smoke", "sync", "verify", "log", "compare-sf")
 
 
 def main(argv=None) -> int:
@@ -30,6 +30,8 @@ def main(argv=None) -> int:
     parser.add_argument("--email", type=Path, help="qa: email JSON to check")
     parser.add_argument("--weekly", type=Path, help="qa/verify: weekly.json (default out/weekly.json)")
     parser.add_argument("--items", type=Path, help="verify: Applied items JSON")
+    parser.add_argument("--snapshot", type=Path, help="compare-sf: snapshot.json (default out/snapshot.json)")
+    parser.add_argument("--threshold", type=float, default=0.95, help="compare-sf: minimum agreement per field")
     parser.add_argument("--run", help="log: the run this line records (daily, watch, weekly, monthly)")
     parser.add_argument("--status", default="ok", help="log: ok | error | skipped")
     parser.add_argument("--note", help="log: short note (what failed, what was sent)")
@@ -50,6 +52,15 @@ def main(argv=None) -> int:
         if args.no_state:
             return DirStore(args.out / "state-local")
         return StateBranch(ROOT, cfg.env.state_branch).open()
+
+    if args.command == "compare-sf":
+        from .sfcompare import compare, ours, read_sf, report
+        if not args.target:
+            parser.error("compare-sf needs the Screaming Frog internal_all.csv as its target")
+        snap = json.loads((args.snapshot or args.out / "snapshot.json").read_text())
+        result = compare(read_sf(args.target), ours(snap), args.threshold)
+        print(report(result))
+        return 0 if result["pass"] else 1
 
     if args.command == "sync":
         from .sync import run_sync

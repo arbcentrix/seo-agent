@@ -64,6 +64,14 @@ holds the gzipped HTML of the 59 sitemap pages plus /privacy-policy and /terms;
 `tests/gold/discovery_2026-10-22.json` is the expected findings, and
 `tests/test_discovery.py` asserts the checks reproduce them exactly.
 
+### Cross-check against Screaming Frog
+
+Crawl the 59 URLs in Screaming Frog (free mode), export Internal > HTML as `internal_all.csv`,
+then run `python -m seo_agent compare-sf internal_all.csv [--snapshot out/snapshot.json]`.
+It reports agreement per field (status code, title, canonical, unique inlinks), lists every
+mismatch, and exits 1 unless each field is at least 95% (`--threshold`). A URL only one tool
+found counts as a mismatch. For redirects it compares SF's first-hop status; inlinks include self-links, as SF counts them.
+
 ### Regression diff and alerts (stage 3)
 
 ```
