@@ -42,14 +42,29 @@ def delta(now, before) -> dict:
     return out
 
 
-def ga4_metrics(landing_rows, event_rows, channel: str | None) -> dict:
+def ga4_dates(cfg) -> dict:
+    """The two GA4 start dates from site.yaml (None when not set); shown on every report."""
+    g = cfg.site.get("ga4") or {}
+    return {k: str(g[k]) if g.get(k) else None for k in ("data_from", "key_events_from")}
+
+
+def _from(rows, start):
+    return [r for r in rows if not start or r["date"] >= str(start)]
+
+
+def ga4_metrics(landing_rows, event_rows, channel: str | None, dates: dict | None = None) -> dict:
+    """GA4 counts. Sessions count from dates["data_from"] (new property go-live); key events
+    count from dates["key_events_from"]. Rows before those dates are ignored."""
+    dates = dates or {}
     lr = [r for r in landing_rows if channel is None or r.get("sessionDefaultChannelGroup") == channel]
     er = [r for r in event_rows if channel is None or r.get("sessionDefaultChannelGroup") == channel]
-    sessions = sum(r["sessions"] for r in lr)
-    engaged = sum(r["engagedSessions"] for r in lr)
+    ke_from = dates.get("key_events_from") or dates.get("data_from")
+    sess_rows, ke_landing, er = _from(lr, dates.get("data_from")), _from(lr, ke_from), _from(er, ke_from)
+    sessions = sum(r["sessions"] for r in sess_rows)
+    engaged = sum(r["engagedSessions"] for r in sess_rows)
     events = defaultdict(float)
     for r in er:
         events[r["eventName"]] += r["keyEvents"]
     return {"sessions": sessions, "engaged_sessions": engaged, "engagement_rate": ratio(engaged, sessions),
-            "key_events": round(sum(r["keyEvents"] for r in lr), 2),
+            "key_events": round(sum(r["keyEvents"] for r in ke_landing), 2),
             "key_events_by_name": {k: round(v, 2) for k, v in sorted(events.items())}}

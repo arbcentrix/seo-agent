@@ -14,7 +14,9 @@ GOLD = Path(__file__).parent / "gold" / "discovery_2026-10-22.json"
 
 @pytest.fixture(scope="session")
 def cfg():
-    return load_config(environ={})
+    c = load_config(environ={})
+    c.site["ga4"] = {"data_from": None, "key_events_from": None}  # fixtures predate the real go-live
+    return c
 
 
 @pytest.fixture(scope="session")

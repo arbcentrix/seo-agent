@@ -26,7 +26,7 @@ def _windows(end: dt.date) -> dict:
             "28d_last_year": agg.window(end, 28, 364)}
 
 
-def _kpis(store, w) -> dict:
+def _kpis(store, w, dates) -> dict:
     page, landing, events = DayStore(store, "gsc/page"), DayStore(store, "ga4/landing"), DayStore(store, "ga4/key_events")
     out = {}
     for label, (now_w, before_w) in {"7d_vs_prev": ("7d", "prev_7d"), "28d_vs_prev": ("28d", "prev_28d"),
@@ -34,8 +34,8 @@ def _kpis(store, w) -> dict:
         gsc_now, gsc_before = (agg.gsc_metrics(page.rows(*w[k])) for k in (now_w, before_w))
         ga = {}
         for name, channel in (("organic", ORGANIC), ("all_channels", None)):
-            now_m = agg.ga4_metrics(landing.rows(*w[now_w]), events.rows(*w[now_w]), channel)
-            before_m = agg.ga4_metrics(landing.rows(*w[before_w]), events.rows(*w[before_w]), channel)
+            now_m = agg.ga4_metrics(landing.rows(*w[now_w]), events.rows(*w[now_w]), channel, dates)
+            before_m = agg.ga4_metrics(landing.rows(*w[before_w]), events.rows(*w[before_w]), channel, dates)
             ga[name] = {"metrics": agg.delta(now_m, before_m),
                         "key_events_by_name": now_m["key_events_by_name"]}
         out[label] = {"gsc": agg.delta(gsc_now, gsc_before), "ga4": ga}
@@ -225,7 +225,8 @@ def build_weekly(cfg, store, snapshot, findings, open_alerts, generated_at: str)
     return {
         "generated_at": generated_at,
         "windows": w,
-        "kpis": _kpis(store, w),
+        "ga4_dates": agg.ga4_dates(cfg),
+        "kpis": _kpis(store, w, agg.ga4_dates(cfg)),
         "site_health": {"pages_crawled": len(snapshot["pages"]) if snapshot else None,
                         "crawled_at": snapshot.get("fetched_at") if snapshot else None,
                         "findings_by_rule": {c["id"].split(":", 1)[1]: c["evidence"]["pages"]

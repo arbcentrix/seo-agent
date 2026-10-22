@@ -40,6 +40,9 @@ cta:
     - /order-fulfillment-management
   form_pages:
     - /contact          # form + Calendly popup, no booking link (intended, confirmed 2026-10-22)
+ga4:                  # shown on every report; GA4 counts nothing before these dates
+  data_from: "2026-10-22" # Step 2 go-live date of the new property, YYYY-MM-DD (sessions, users)
+  key_events_from: "2026-10-23" # Step 3 date key events were set up, YYYY-MM-DD
 brand_terms: [arbcentrix, absentrix, arbcentrix corp]   # queries containing these are branded
 sources:
   backfill_months: 16     # GSC keeps 16 months; the first sync backfills all of it
