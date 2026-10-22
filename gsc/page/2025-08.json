@@ -1,0 +1,2536 @@
+{
+  "days": {
+    "2025-08-01": "2026-10-22T04:37:33+00:00",
+    "2025-08-02": "2026-10-22T04:37:33+00:00",
+    "2025-08-03": "2026-10-22T04:37:33+00:00",
+    "2025-08-04": "2026-10-22T04:37:33+00:00",
+    "2025-08-05": "2026-10-22T04:37:33+00:00",
+    "2025-08-06": "2026-10-22T04:37:33+00:00",
+    "2025-08-07": "2026-10-22T04:37:33+00:00",
+    "2025-08-08": "2026-10-22T04:37:33+00:00",
+    "2025-08-09": "2026-10-22T04:37:33+00:00",
+    "2025-08-10": "2026-10-22T04:37:33+00:00",
+    "2025-08-11": "2026-10-22T04:37:33+00:00",
+    "2025-08-12": "2026-10-22T04:37:33+00:00",
+    "2025-08-13": "2026-10-22T04:37:33+00:00",
+    "2025-08-14": "2026-10-22T04:37:33+00:00",
+    "2025-08-15": "2026-10-22T04:37:33+00:00",
+    "2025-08-16": "2026-10-22T04:37:33+00:00",
+    "2025-08-17": "2026-10-22T04:37:33+00:00",
+    "2025-08-18": "2026-10-22T04:37:33+00:00",
+    "2025-08-19": "2026-10-22T04:37:33+00:00",
+    "2025-08-20": "2026-10-22T04:37:33+00:00",
+    "2025-08-21": "2026-10-22T04:37:33+00:00",
+    "2025-08-22": "2026-10-22T04:37:33+00:00",
+    "2025-08-23": "2026-10-22T04:37:34+00:00",
+    "2025-08-24": "2026-10-22T04:37:34+00:00",
+    "2025-08-25": "2026-10-22T04:37:34+00:00",
+    "2025-08-26": "2026-10-22T04:37:34+00:00",
+    "2025-08-27": "2026-10-22T04:37:34+00:00",
+    "2025-08-28": "2026-10-22T04:37:34+00:00",
+    "2025-08-29": "2026-10-22T04:37:34+00:00",
+    "2025-08-30": "2026-10-22T04:37:34+00:00",
+    "2025-08-31": "2026-10-22T04:37:34+00:00"
+  },
+  "rows": [
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.64
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 19,
+      "page": "https://arbcentrix.com/",
+      "position": 3.42
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-01",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.22
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 9.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-02",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.56
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/about",
+      "position": 4.56
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-03",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.62
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights",
+      "position": 4.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 9.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-04",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 8.25
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.64
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/locations",
+      "position": 8.36
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-05",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.09
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.82
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 6.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 12.4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-06",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.44
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 4.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.29
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.59
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 8.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 8.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 31,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.97
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 2.4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-07",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 7
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.18
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.79
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-08",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/",
+      "position": 5.64
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-09",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.18
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.77
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.22
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.89
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 3.83
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-10",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 7
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 15.25
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-11",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 2.22
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.36
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1.83
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.07
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 21,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.76
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-12",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/compliance-operations-specialist",
+      "position": 6.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 7.4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-13",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/compliance-operations-specialist",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.71
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-14",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.79
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.59
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights",
+      "position": 6.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 3.83
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-15",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 30.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-16",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/the-2025-compliance-crunch",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/about",
+      "position": 4.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-17",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/compliance-operations-specialist",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 4.29
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.39
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 3.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 4.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights",
+      "position": 4.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-18",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3.57
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/the-2025-compliance-crunch",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.38
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 7
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 9.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 21,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.48
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 10.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 4.2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-19",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1.71
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 25
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/locations",
+      "position": 10.85
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 13.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 5.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-20",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3.42
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 3.08
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.41
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 24.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-21",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 7.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 5.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 4.2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 4.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-22",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.5
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-01",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.92
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-04",
+      "impressions": 19,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.16
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-04",
+      "impressions": 22,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.95
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-05",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.64
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-06",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.64
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-06",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1.86
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-07",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-07",
+      "impressions": 35,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.89
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 2
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-11",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/locations",
+      "position": 10
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-11",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.93
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-12",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.88
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-13",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.44
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-13",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.35
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-14",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-15",
+      "impressions": 21,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.81
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-16",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/about",
+      "position": 3
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-17",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/",
+      "position": 2.82
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-18",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.17
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-18",
+      "impressions": 27,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.15
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-19",
+      "impressions": 20,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.65
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-20",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.2
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-20",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.25
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-21",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/locations",
+      "position": 7.94
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-22",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/locations",
+      "position": 4
+    },
+    {
+      "clicks": 10,
+      "date": "2025-08-13",
+      "impressions": 35,
+      "page": "https://arbcentrix.com/",
+      "position": 4.31
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-02",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/",
+      "position": 2.12
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-03",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.2
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-12",
+      "impressions": 22,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.95
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-13",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 4
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-22",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/",
+      "position": 20.18
+    },
+    {
+      "clicks": 4,
+      "date": "2025-08-23",
+      "impressions": 34,
+      "page": "https://arbcentrix.com/",
+      "position": 18.38
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.08
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 21,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3.38
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.84
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5.57
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 8.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 11.86
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights/the-2025-compliance-crunch",
+      "position": 2.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 34,
+      "page": "https://arbcentrix.com/locations",
+      "position": 17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-23",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.33
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-24",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/",
+      "position": 22.77
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.38
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 4.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 93
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/locations",
+      "position": 18.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.67
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-25",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/",
+      "position": 10.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.22
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3.33
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-25",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/careers",
+      "position": 4.78
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 3.17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+      "position": 9.78
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-25",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-25",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 12,
+      "date": "2025-08-26",
+      "impressions": 46,
+      "page": "https://arbcentrix.com/",
+      "position": 1.48
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-26",
+      "impressions": 44,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 33,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.36
+    },
+    {
+      "clicks": 7,
+      "date": "2025-08-26",
+      "impressions": 43,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.44
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/compliance-operations-specialist",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2.62
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 35,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.46
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 6.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights/the-2025-compliance-crunch",
+      "position": 3.33
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-26",
+      "impressions": 44,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.34
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 2.9
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-26",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.25
+    },
+    {
+      "clicks": 6,
+      "date": "2025-08-27",
+      "impressions": 22,
+      "page": "https://arbcentrix.com/",
+      "position": 7.36
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/about",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.43
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-27",
+      "impressions": 20,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 4.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 20,
+      "page": "https://arbcentrix.com/locations",
+      "position": 6.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-27",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-28",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/",
+      "position": 6.35
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.45
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.45
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.08
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.25
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+      "position": 9
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-28",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/locations",
+      "position": 8.86
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 4.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1
+    },
+    {
+      "clicks": 7,
+      "date": "2025-08-29",
+      "impressions": 32,
+      "page": "https://arbcentrix.com/",
+      "position": 3.38
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 30,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.63
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 29,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.79
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-29",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.92
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/compliance-operations-specialist",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5.83
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 19,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.05
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 10
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-29",
+      "impressions": 29,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.76
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 6
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-29",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/",
+      "position": 7.1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5.71
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+      "position": 10.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/locations",
+      "position": 8.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 2
+    },
+    {
+      "clicks": 1,
+      "date": "2025-08-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-30",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 3
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-31",
+      "impressions": 29,
+      "page": "https://arbcentrix.com/",
+      "position": 3.03
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-31",
+      "impressions": 27,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.63
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 22,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.23
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/business-dev-officer",
+      "position": 12
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.83
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights",
+      "position": 4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+      "position": 4.67
+    },
+    {
+      "clicks": 2,
+      "date": "2025-08-31",
+      "impressions": 27,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.22
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/onboarding-specialist",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 7
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 7.33
+    },
+    {
+      "clicks": 0,
+      "date": "2025-08-31",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.33
+    },
+    {
+      "clicks": 3,
+      "date": "2025-08-02",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.7
+    },
+    {
+      "clicks": 3,
+      "date": "2025-08-07",
+      "impressions": 50,
+      "page": "https://arbcentrix.com/",
+      "position": 3.08
+    },
+    {
+      "clicks": 3,
+      "date": "2025-08-13",
+      "impressions": 20,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.9
+    },
+    {
+      "clicks": 3,
+      "date": "2025-08-18",
+      "impressions": 30,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.23
+    },
+    {
+      "clicks": 4,
+      "date": "2025-08-06",
+      "impressions": 23,
+      "page": "https://arbcentrix.com/",
+      "position": 3.04
+    },
+    {
+      "clicks": 4,
+      "date": "2025-08-15",
+      "impressions": 24,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.71
+    },
+    {
+      "clicks": 5,
+      "date": "2025-08-03",
+      "impressions": 27,
+      "page": "https://arbcentrix.com/",
+      "position": 5.37
+    },
+    {
+      "clicks": 5,
+      "date": "2025-08-04",
+      "impressions": 28,
+      "page": "https://arbcentrix.com/",
+      "position": 1.07
+    },
+    {
+      "clicks": 5,
+      "date": "2025-08-08",
+      "impressions": 25,
+      "page": "https://arbcentrix.com/",
+      "position": 3.36
+    },
+    {
+      "clicks": 5,
+      "date": "2025-08-20",
+      "impressions": 15,
+      "page": "https://arbcentrix.com/",
+      "position": 9
+    },
+    {
+      "clicks": 6,
+      "date": "2025-08-05",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/",
+      "position": 3.41
+    },
+    {
+      "clicks": 6,
+      "date": "2025-08-14",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/",
+      "position": 7.81
+    },
+    {
+      "clicks": 6,
+      "date": "2025-08-18",
+      "impressions": 36,
+      "page": "https://arbcentrix.com/",
+      "position": 2.08
+    },
+    {
+      "clicks": 6,
+      "date": "2025-08-21",
+      "impressions": 19,
+      "page": "https://arbcentrix.com/",
+      "position": 4.11
+    },
+    {
+      "clicks": 7,
+      "date": "2025-08-12",
+      "impressions": 28,
+      "page": "https://arbcentrix.com/",
+      "position": 5.54
+    },
+    {
+      "clicks": 8,
+      "date": "2025-08-10",
+      "impressions": 31,
+      "page": "https://arbcentrix.com/",
+      "position": 2.97
+    },
+    {
+      "clicks": 8,
+      "date": "2025-08-15",
+      "impressions": 28,
+      "page": "https://arbcentrix.com/",
+      "position": 6.43
+    },
+    {
+      "clicks": 8,
+      "date": "2025-08-19",
+      "impressions": 29,
+      "page": "https://arbcentrix.com/",
+      "position": 8.86
+    },
+    {
+      "clicks": 9,
+      "date": "2025-08-11",
+      "impressions": 28,
+      "page": "https://arbcentrix.com/",
+      "position": 8.32
+    }
+  ]
+}

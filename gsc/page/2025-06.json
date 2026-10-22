@@ -1,0 +1,470 @@
+{
+  "days": {
+    "2025-06-22": "2026-10-22T04:37:32+00:00",
+    "2025-06-23": "2026-10-22T04:37:32+00:00",
+    "2025-06-24": "2026-10-22T04:37:32+00:00",
+    "2025-06-25": "2026-10-22T04:37:32+00:00",
+    "2025-06-26": "2026-10-22T04:37:32+00:00",
+    "2025-06-27": "2026-10-22T04:37:32+00:00",
+    "2025-06-28": "2026-10-22T04:37:32+00:00",
+    "2025-06-29": "2026-10-22T04:37:32+00:00",
+    "2025-06-30": "2026-10-22T04:37:32+00:00"
+  },
+  "rows": [
+    {
+      "clicks": 3,
+      "date": "2025-06-22",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-22",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 6,
+      "date": "2025-06-23",
+      "impressions": 30,
+      "page": "https://arbcentrix.com/",
+      "position": 2.13
+    },
+    {
+      "clicks": 2,
+      "date": "2025-06-23",
+      "impressions": 19,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.53
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-23",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.71
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-23",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-23",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.56
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-23",
+      "impressions": 17,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2.12
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-23",
+      "impressions": 18,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.67
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-24",
+      "impressions": 23,
+      "page": "https://arbcentrix.com/",
+      "position": 3
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-24",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.36
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-24",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.55
+    },
+    {
+      "clicks": 2,
+      "date": "2025-06-24",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.15
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-24",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-24",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 3,
+      "date": "2025-06-24",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 3,
+      "date": "2025-06-25",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about/",
+      "position": 4
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-25",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-25",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.22
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-26",
+      "impressions": 21,
+      "page": "https://arbcentrix.com/",
+      "position": 2.62
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.29
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.64
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.82
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.75
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-26",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 6,
+      "date": "2025-06-27",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/",
+      "position": 1.67
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.25
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about/",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-27",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 3,
+      "date": "2025-06-28",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/",
+      "position": 4.17
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.6
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-28",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 2,
+      "date": "2025-06-29",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-29",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.09
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-29",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-29",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.46
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-29",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2.5
+    },
+    {
+      "clicks": 1,
+      "date": "2025-06-29",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.14
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-29",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.14
+    },
+    {
+      "clicks": 5,
+      "date": "2025-06-30",
+      "impressions": 23,
+      "page": "https://arbcentrix.com/",
+      "position": 7.04
+    },
+    {
+      "clicks": 2,
+      "date": "2025-06-30",
+      "impressions": 16,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.44
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-30",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.8
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-30",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.08
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-30",
+      "impressions": 9,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 2.11
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-30",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1.46
+    },
+    {
+      "clicks": 0,
+      "date": "2025-06-30",
+      "impressions": 14,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.14
+    }
+  ]
+}

@@ -1,0 +1,6988 @@
+{
+  "days": {
+    "2025-09-01": "2026-10-22T04:37:34+00:00",
+    "2025-09-02": "2026-10-22T04:37:34+00:00",
+    "2025-09-03": "2026-10-22T04:37:34+00:00",
+    "2025-09-04": "2026-10-22T04:37:34+00:00",
+    "2025-09-05": "2026-10-22T04:37:34+00:00",
+    "2025-09-06": "2026-10-22T04:37:34+00:00",
+    "2025-09-07": "2026-10-22T04:37:34+00:00",
+    "2025-09-08": "2026-10-22T04:37:34+00:00",
+    "2025-09-09": "2026-10-22T04:37:34+00:00",
+    "2025-09-10": "2026-10-22T04:37:34+00:00",
+    "2025-09-11": "2026-10-22T04:37:34+00:00",
+    "2025-09-12": "2026-10-22T04:37:34+00:00",
+    "2025-09-13": "2026-10-22T04:37:34+00:00",
+    "2025-09-14": "2026-10-22T04:37:34+00:00",
+    "2025-09-15": "2026-10-22T04:37:34+00:00",
+    "2025-09-16": "2026-10-22T04:37:34+00:00",
+    "2025-09-17": "2026-10-22T04:37:34+00:00",
+    "2025-09-18": "2026-10-22T04:37:34+00:00",
+    "2025-09-19": "2026-10-22T04:37:34+00:00",
+    "2025-09-20": "2026-10-22T04:37:34+00:00",
+    "2025-09-21": "2026-10-22T04:37:34+00:00",
+    "2025-09-22": "2026-10-22T04:37:34+00:00",
+    "2025-09-23": "2026-10-22T04:37:35+00:00",
+    "2025-09-24": "2026-10-22T04:37:35+00:00",
+    "2025-09-25": "2026-10-22T04:37:35+00:00",
+    "2025-09-26": "2026-10-22T04:37:35+00:00",
+    "2025-09-27": "2026-10-22T04:37:35+00:00",
+    "2025-09-28": "2026-10-22T04:37:35+00:00",
+    "2025-09-29": "2026-10-22T04:37:35+00:00",
+    "2025-09-30": "2026-10-22T04:37:35+00:00"
+  },
+  "rows": [
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 89,
+      "query": "accountant bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 11,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 86,
+      "query": "arca south corporate center"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-04",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 10,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 34,
+      "query": "concentrix taguig address"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 92,
+      "query": "accountant bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-07",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 3,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 3,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 10,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 2,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 20,
+      "query": "arbcentrix reddit"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-11",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/silent-attrition",
+      "position": 47,
+      "query": "silent attrition"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-12",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 2,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights/silent-attrition",
+      "position": 9,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp reviews"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix taguig bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-15",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 9,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 6,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.67,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 2,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 8,
+      "query": "arb location"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix taguig bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "concentrix bgc"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-01",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-01",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-02",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-03",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-04",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-05",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-07",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-07",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-07",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-08",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-10",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-16",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-19",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-19",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-19",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-20",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-21",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-01",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-01",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-02",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-04",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-07",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-08",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-14",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1.5,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-15",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-19",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-23",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-23",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-23",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 4,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-24",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-24",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-25",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 2,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-26",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 5,
+      "query": "savya financial center hiring"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-27",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-27",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-28",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 3,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 2,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 6.5,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 5,
+      "query": "savya financial center hiring"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-29",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-29",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arb services"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/general-bpo",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 0,
+      "date": "2025-09-30",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix corp."
+    },
+    {
+      "clicks": 3,
+      "date": "2025-09-08",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 3,
+      "date": "2025-09-19",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 4,
+      "date": "2025-09-03",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 5,
+      "date": "2025-09-09",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp taguig"
+    },
+    {
+      "clicks": 5,
+      "date": "2025-09-12",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    }
+  ]
+}
