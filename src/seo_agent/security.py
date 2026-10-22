@@ -6,6 +6,9 @@ import re
 
 PATTERNS = [
     r"\b(ignore|disregard|forget)\b.{0,40}\b(previous|prior|above|all)\b.{0,20}\b(instructions?|rules?|prompts?)\b",
+    r"\b(ignore|disregard|forget|override)\b.{0,30}\b(your|my|the|these|any)\b.{0,20}\b(instructions?|rules?|prompts?|guidelines)\b",
+    r"\b(send|forward|email|e-mail)\b.{0,40}\b(everyone|everybody|all|the)\b.{0,30}\b(inbox|mailbox|emails?|mail|calendar|files|contacts)\b",
+    r"\b(search|read|dump|exfiltrate|list)\b.{0,30}\b(inbox|mailbox|emails|calendar|teams messages)\b",
     r"\b(system prompt|developer message|jailbreak)\b",
     r"\byou are (now )?(an?|the) (ai|assistant|agent|llm|chatgpt|claude)\b",
     r"\b(send|forward|email)\b.{0,40}\b(to|@)\b.{0,60}@",
