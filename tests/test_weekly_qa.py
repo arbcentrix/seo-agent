@@ -300,3 +300,17 @@ def test_qa_accepts_alert_recommendations_without_weekly(cfg, snapshot, tmp_path
     rec["evidence"][0]["value"] = 450
     (out / "recs.json").write_text(json.dumps([rec]))
     assert run_qa(cfg, None, out, out / "recs.json", None, None, log=lambda *_: None) == 1
+
+
+def test_ga4_counts_respect_start_dates():
+    from seo_agent.score import aggregate as agg
+    landing = [{"date": "2026-10-01", "sessionDefaultChannelGroup": "Organic Search", "sessions": 5,
+                "engagedSessions": 4, "totalUsers": 5, "keyEvents": 2},
+               {"date": "2026-10-10", "sessionDefaultChannelGroup": "Organic Search", "sessions": 3,
+                "engagedSessions": 2, "totalUsers": 3, "keyEvents": 1}]
+    events = [{"date": "2026-10-01", "sessionDefaultChannelGroup": "Organic Search", "eventName": "generate_lead", "keyEvents": 2},
+              {"date": "2026-10-10", "sessionDefaultChannelGroup": "Organic Search", "eventName": "generate_lead", "keyEvents": 1}]
+    m = agg.ga4_metrics(landing, events, None, {"data_from": "2026-10-01", "key_events_from": "2026-10-05"})
+    assert m["sessions"] == 8 and m["key_events"] == 1 and m["key_events_by_name"] == {"generate_lead": 1.0}
+    assert agg.ga4_metrics(landing, events, None, {"data_from": "2026-10-05"})["sessions"] == 3
+    assert agg.ga4_metrics(landing, events, None)["sessions"] == 8

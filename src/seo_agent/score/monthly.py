@@ -48,20 +48,20 @@ def slope(values: list[float]) -> float | None:
     return round(sum((i - mx) * (v - my) for i, v in enumerate(values)) / den, 3)
 
 
-def _site_month(page, landing, events, month):
+def _site_month(page, landing, events, month, dates):
     r = month_range(month)
     g = agg.gsc_metrics(page.rows(*r))
-    o = agg.ga4_metrics(landing.rows(*r), events.rows(*r), ORGANIC)
+    o = agg.ga4_metrics(landing.rows(*r), events.rows(*r), ORGANIC, dates)
     return {"month": month, **g, "organic_sessions": o["sessions"], "organic_key_events": o["key_events"]}
 
 
-def _compare(page, landing, events, now_months, before_months):
+def _compare(page, landing, events, now_months, before_months, dates):
     if not before_months:
         return None
     now_r, before_r = span(now_months), span(before_months)
     g = agg.delta(agg.gsc_metrics(page.rows(*now_r)), agg.gsc_metrics(page.rows(*before_r)))
-    o_now = agg.ga4_metrics(landing.rows(*now_r), events.rows(*now_r), ORGANIC)
-    o_before = agg.ga4_metrics(landing.rows(*before_r), events.rows(*before_r), ORGANIC)
+    o_now = agg.ga4_metrics(landing.rows(*now_r), events.rows(*now_r), ORGANIC, dates)
+    o_before = agg.ga4_metrics(landing.rows(*before_r), events.rows(*before_r), ORGANIC, dates)
     return {"now": now_r, "before": before_r, "gsc": g,
             "ga4_organic": agg.delta({k: o_now[k] for k in ("sessions", "engaged_sessions", "key_events")},
                                      {k: o_before[k] for k in ("sessions", "engaged_sessions", "key_events")})}
@@ -162,7 +162,8 @@ def build_monthly(cfg, store, generated_at: str) -> dict:
     ly3 = [m for m in (shift(m, -12) for m in last3) if m in months]
     series = [m for m in (shift(last, -i) for i in range(12, -1, -1)) if m in months]  # up to 13 months
 
-    site = [_site_month(page, landing, events, m) for m in series]
+    dates = agg.ga4_dates(cfg)
+    site = [_site_month(page, landing, events, m, dates) for m in series]
     twelve = site[-12:]
     brand = cfg.site.get("brand_terms") or []
 
@@ -198,10 +199,11 @@ def build_monthly(cfg, store, generated_at: str) -> dict:
 
     return {
         "generated_at": generated_at,
+        "ga4_dates": dates,
         "months": {"last_complete": last, "last_3": last3, "previous_3": prev3, "last_3_last_year": ly3,
                    "series": series, "available": months},
-        "trend_3m": {"vs_previous_3": _compare(page, landing, events, last3, prev3),
-                     "vs_last_year": _compare(page, landing, events, last3, ly3) if len(ly3) == 3 else None},
+        "trend_3m": {"vs_previous_3": _compare(page, landing, events, last3, prev3, dates),
+                     "vs_last_year": _compare(page, landing, events, last3, ly3, dates) if len(ly3) == 3 else None},
         "trend_12m": {"series": site, "months": len(twelve),
                       "slope_per_month": {k: slope([s[k] or 0 for s in twelve])
                                           for k in ("clicks", "impressions", "position", "organic_sessions")},
