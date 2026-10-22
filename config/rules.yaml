@@ -169,6 +169,24 @@ candidates:
       lab_max_lcp_ms: 4000      # Lighthouse "poor"
       lab_max_cls: 0.25
 
+# --- Monthly brief candidates (computed by `monthly`) --------------------------
+# Windows are the last 3 complete calendar months vs the 3 before.
+monthly_candidates:
+  - id: content_gap
+    description: A non-branded query with real impressions where the best page ranks off page one.
+    threshold: {min_impressions: 5, min_best_position: 10.5}   # low because non-branded volume is small today
+
+  - id: rising_query
+    description: A non-branded query whose impressions at least doubled.
+    threshold: {min_impressions: 5, min_growth: 2.0}
+
+  - id: declining_page
+    description: A page that lost clicks over the last 3 months.
+    threshold: {min_clicks_before: 10, min_fraction_lost: 0.30}
+
+  - id: critical_page_flat
+    description: A critical page with no clicks in the last 3 months.
+
 # --- Scoring and QA ----------------------------------------------------------
 scoring:
   # Priority = (Impact x Relevance x Confidence) / (Effort x Risk), each scored 1-5 by Claude.
