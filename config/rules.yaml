@@ -55,6 +55,7 @@ checks:
     scope: all
     watch: true
     threshold: {brand_only: ["Arbcentrix"]}
+    compare: evidence_keys   # regression per field: a newly failing title alerts even if the meta already failed
     description: A title or meta description goes empty, or reverts to the brand-only "Arbcentrix".
 
   - id: tracking_missing

@@ -66,7 +66,7 @@ def store(tmp_path):
 
 @pytest.fixture
 def weekly(cfg, store, snapshot):
-    return build_weekly(cfg, store, snapshot, run_checks(snapshot, cfg), {}, "now")
+    return build_weekly(cfg, store, snapshot, run_checks(snapshot, cfg), {}, "2026-10-20T06:43:00+00:00")
 
 
 def cands(w, type_):
@@ -113,12 +113,12 @@ def test_low_ctr_and_striking_distance_are_disjoint(cfg, store, snapshot):
     pq = DayStore(store, "gsc/page_query")
     pq.put([day(0)], [{"date": day(0), "page": f"{B}/tax", "query": "q edge", "clicks": 0,
                        "impressions": 40, "position": 3.49}], "t")
-    w = build_weekly(cfg, store, snapshot, [], {}, "now")
+    w = build_weekly(cfg, store, snapshot, [], {}, "2026-10-20T06:43:00+00:00")
     ids = {c["id"] for c in w["candidates"] if "q edge" in c["queries"]}
     assert ids == {f"low_ctr:q edge|{B}/tax"}
     pq.put([day(0)], [{"date": day(0), "page": f"{B}/tax", "query": "q edge", "clicks": 0,
                        "impressions": 40, "position": 3.5}], "t")
-    w = build_weekly(cfg, store, snapshot, [], {}, "now")
+    w = build_weekly(cfg, store, snapshot, [], {}, "2026-10-20T06:43:00+00:00")
     assert {c["id"] for c in w["candidates"] if "q edge" in c["queries"]} == {f"striking_distance:q edge|{B}/tax"}
 
 
@@ -276,3 +276,27 @@ def test_qa_cli_exit_codes(cfg, weekly, snapshot, tmp_path, capsys):
     assert run_qa(cfg, None, out, bad, None, None, log=lambda *_: None) == 1
     assert json.loads((out / "qa.json").read_text())["recommendations"]["r9"]
     assert run_qa(cfg, None, out, None, None, None, log=lambda *_: None) == 2
+
+
+def test_qa_accepts_alert_recommendations_without_weekly(cfg, snapshot, tmp_path):
+    from seo_agent.reporting import run_qa
+    out = tmp_path / "out"
+    out.mkdir()
+    (out / "snapshot.json").write_text(json.dumps(snapshot))
+    (out / "alerts.json").write_text(json.dumps([{
+        "rule": "content_shrink", "severity": "medium", "url": f"{B}/tax", "status": "new",
+        "evidence": {"words_before": 991, "words_now": 400, "fraction_lost": 0.596},
+        "first_seen": "t", "last_seen": "t"}]))
+    scores = {"impact": 3, "relevance": 5, "confidence": 4, "effort": 2, "risk": 1}
+    rec = {"id": "a1", "candidate_id": f"alert_content_shrink:{B}/tax", "title": "Restore /tax copy",
+           "finding": "/tax lost most of its words.",
+           "evidence": [{"source": "alert", "metric": "words_now", "value": 400}],
+           "urls": [f"{B}/tax"], "impact": "Rankings for tax queries.", "action": "Restore the copy.",
+           "steps": ["Compare with the previous publish"], "effort": 2, "confidence": 4,
+           "scores": scores, "priority": priority(scores), "validation": "Words back over 900 at the next daily.",
+           "approval_level": "editor"}
+    (out / "recs.json").write_text(json.dumps([rec]))
+    assert run_qa(cfg, None, out, out / "recs.json", None, None, log=lambda *_: None) == 0
+    rec["evidence"][0]["value"] = 450
+    (out / "recs.json").write_text(json.dumps([rec]))
+    assert run_qa(cfg, None, out, out / "recs.json", None, None, log=lambda *_: None) == 1

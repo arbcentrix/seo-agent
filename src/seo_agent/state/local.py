@@ -2,8 +2,10 @@
 import json
 from pathlib import Path
 
+from .runs import RunLog
 
-class DirStore:
+
+class DirStore(RunLog):
     def __init__(self, path: Path):
         self.path = Path(path)
         self.path.mkdir(parents=True, exist_ok=True)

@@ -3,11 +3,15 @@
 
 ```
 pip install -r requirements.txt        # pinned package list
-PYTHONPATH=src python -m seo_agent smoke
+pip install -e .                       # makes `python -m seo_agent` work from anywhere
+python -m seo_agent smoke
 python -m pytest
 ```
 
-Commands: `python -m seo_agent daily | watch | weekly | monthly | qa | smoke | sync`.
+The scheduled tasks' environment needs the same two `pip install` lines in its setup
+script, and the variables below.
+
+Commands: `python -m seo_agent daily | watch | weekly | monthly | qa | smoke | sync | verify | log`.
 
 ### Environment
 
@@ -134,6 +138,53 @@ and sorts the candidates by it.
 
 `qa` exits 0 when everything passed, 1 when anything was rejected (details in
 `out/qa.json`), 2 when there was nothing to check.
+
+### Scheduled tasks and prompts (stage 6)
+
+| Task name | Prompt | Model | Trigger | Connectors |
+|---|---|---|---|---|
+| SEO daily watch | Follow prompts/daily.md in the repository exactly. | Sonnet 5.5 | Daily, 06:13 | Microsoft 365, monday.com |
+| SEO publish watch | Follow prompts/watch.md in the repository exactly. | Sonnet 5.5 | Every 4 hours at :27 (cron `27 */4 * * *`), plus an API trigger | Microsoft 365, monday.com |
+| SEO weekly report | Follow prompts/weekly.md in the repository exactly. | Sonnet 5.5 | Weekly, Monday 06:43 | Microsoft 365, monday.com |
+| SEO monthly report | Follow prompts/monthly.md in the repository exactly. | Opus 5.5 | 3rd of each month, 07:43 (cron `43 7 3 * *`) | Microsoft 365, monday.com |
+
+Each prompt is a short numbered list in the same shape: run the script, stop early when
+there is nothing to report, let Claude add only the words (causes, fixes, labels,
+scores, write-ups), run `qa` on every file before it is used, email, add monday.com
+items, close the run.
+
+- **`qa <file>`** detects what the file is (alerts, recommendations, labels or email).
+  For alerts, Claude adds `cause` and `fix` (3 sentences or fewer together), `effort`,
+  `confidence` and `approval_level`; qa rejects an alert whose script fields changed or
+  whose text uses a number that is not in that alert's evidence (or in its rule's
+  description/threshold in rules.yaml). `daily`/`watch` keep an untouched copy in
+  `out/alerts_raw.json` for this.
+- **Shadow mode** (`DELIVERY_MODE=shadow`): every email goes only to `SHADOW_EMAIL` (the
+  technical owner) with `[SHADOW]` in front of the subject, and qa enforces both.
+  monday.com items and docs are still created, named with a `[SHADOW]` prefix.
+- **One line per run in `runs.jsonl`**: the script writes it; the prompt's last step,
+  `python -m seo_agent log --run <task> --note "..."`, closes that line with what was
+  sent and commits. If the script crashed before logging, `log --status error` adds the line.
+- **`verify --items`**: answers whether an Applied monday.com item's issue has cleared
+  (`resolved`, `still_present`, `too_early` for data candidates whose 28-day window
+  still includes days before the change, or `unknown`). Only `resolved` lets the weekly
+  run move an item from Applied to Verified.
+- **Run count**: `weekly.json` → `runs` counts each task's runs, errors and missing runs
+  over the past 7 days against `schedule:` in site.yaml. The weekly email reports it.
+
+### Usage and limits
+
+- Runs draw down the seat's plan usage the same way chat and Claude Code sessions do.
+  During shadow mode, check claude.ai/settings/usage once a week.
+- This schedule is about 50 runs a week (7 daily, 42 publish watch, 1 weekly, plus the
+  monthly and any API-triggered watches), far below the 100-runs-per-hour cap on
+  scheduled runs.
+- If the seat runs out of usage, runs are rejected unless the Owner has turned on usage
+  credits.
+- If the GitHub connection lapses, runs are skipped for up to 72 hours, then the task
+  turns itself off.
+- A green status means only that the session ran, not that the work succeeded. The
+  Monday email's run count from `runs.jsonl` is the real check.
 
 ### State branch
 

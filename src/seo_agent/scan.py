@@ -48,6 +48,7 @@ def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = 
     out_dir.mkdir(parents=True, exist_ok=True)
     _dump(out_dir / "snapshot.json", snapshot)
     _dump(out_dir / "alerts.json", alerts)
+    _dump(out_dir / "alerts_raw.json", alerts)  # untouched copy: qa compares Claude's edits against it
     findings = None
     if kind == "daily":
         findings = run_checks(snapshot, cfg, previous)

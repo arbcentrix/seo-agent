@@ -7,12 +7,14 @@ from .config import ROOT, ConfigError, load_config
 from .smoke import run_smoke
 from .state import DirStore, StateBranch, StateError
 
-COMMANDS = ("daily", "watch", "weekly", "monthly", "qa", "smoke", "sync")
+COMMANDS = ("daily", "watch", "weekly", "monthly", "qa", "smoke", "sync", "verify", "log")
 
 
 def main(argv=None) -> int:
     parser = argparse.ArgumentParser(prog="seo_agent")
     parser.add_argument("command", choices=COMMANDS)
+    parser.add_argument("target", nargs="?", type=Path,
+                        help="qa: the file to check (alerts, recommendations, labels or email JSON)")
     parser.add_argument("--out", type=Path, default=ROOT / "out", help="output directory")
     parser.add_argument("--no-state", action="store_true",
                         help="do not write or push the state branch (local runs)")
@@ -25,7 +27,13 @@ def main(argv=None) -> int:
     parser.add_argument("--labels", type=Path, help="weekly: apply Claude's intents/scores; qa: check them")
     parser.add_argument("--recommendations", type=Path, help="qa: recommendations JSON to check")
     parser.add_argument("--email", type=Path, help="qa: email JSON to check")
-    parser.add_argument("--weekly", type=Path, help="qa: weekly.json (default out/weekly.json)")
+    parser.add_argument("--weekly", type=Path, help="qa/verify: weekly.json (default out/weekly.json)")
+    parser.add_argument("--items", type=Path, help="verify: Applied items JSON")
+    parser.add_argument("--run", help="log: the run this line records (daily, watch, weekly, monthly)")
+    parser.add_argument("--status", default="ok", help="log: ok | error | skipped")
+    parser.add_argument("--note", help="log: short note (what failed, what was sent)")
+    parser.add_argument("--suspicious", action="append", default=[],
+                        help="log: untrusted text that read like instructions (repeatable)")
     args = parser.parse_args(argv)
     try:
         cfg = load_config()
@@ -73,10 +81,42 @@ def main(argv=None) -> int:
             return 1
         return 0
 
+    if args.command == "log":
+        if not args.run:
+            parser.error("log needs --run")
+        try:
+            st = store()
+            st.close_run(args.run, status=args.status, note=args.note,
+                         suspicious=[{"source": "claude", "text": t[:200]} for t in args.suspicious])
+            if not args.no_state:
+                st.commit_and_push(f"{args.run}: {args.status}")
+        except StateError as e:
+            print(f"state error: {e}", file=sys.stderr)
+            return 1
+        return 0
+
+    if args.command == "verify":
+        from .reporting import run_verify
+        if not args.items:
+            parser.error("verify needs --items")
+        st = DirStore(args.out / "state-local") if args.no_state else StateBranch(ROOT, cfg.env.state_branch).open()
+        return run_verify(cfg, st, args.out, args.items, args.weekly)
+
     if args.command == "qa":
         from .reporting import run_qa
         st = DirStore(args.out / "state-local") if args.no_state else StateBranch(ROOT, cfg.env.state_branch).open()
-        return run_qa(cfg, st, args.out, args.recommendations, args.email, args.labels, args.weekly)
+        recs, email, labels = args.recommendations, args.email, args.labels
+        if args.target:
+            from .reporting import detect_kind, run_qa_alerts
+            kind = detect_kind(args.target)
+            if kind == "alerts":
+                return run_qa_alerts(cfg, args.target, args.out)
+            if kind is None:
+                print(f"qa: cannot tell what {args.target} contains", file=sys.stderr)
+                return 2
+            recs, email, labels = (args.target if kind == k else v for k, v in
+                                   (("recommendations", recs), ("email", email), ("labels", labels)))
+        return run_qa(cfg, st, args.out, recs, email, labels, args.weekly)
 
     if args.command == "weekly":
         from .reporting import run_weekly
