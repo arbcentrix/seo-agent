@@ -1,2 +1,129 @@
-# Each check: id, severity, threshold
-checks: []
+# Every scripted check. Fields:
+#   id         check function name in seo_agent/checks
+#   severity   critical | high | medium | low
+#   mode       state = judged on today's crawl alone
+#              diff  = also compares with the previous snapshot (regression diff, stage 3)
+#   scope      critical = critical pages only, all = every crawled page
+#   threshold  rule-specific numbers
+#   watch      true = also run by the publish watch
+#   exclude    paths this rule never reports (intentional exceptions)
+
+checks:
+  # --- Daily / publish-watch rules -----------------------------------------
+  - id: status_change
+    severity: critical
+    mode: diff
+    scope: critical
+    watch: true
+    description: A critical page stops returning 200, or starts redirecting.
+
+  - id: robots_block
+    severity: critical
+    mode: diff
+    scope: critical
+    watch: true
+    description: robots.txt adds a Disallow that matches a critical page, or disappears.
+
+  - id: noindex_added
+    severity: critical
+    mode: diff
+    scope: all
+    watch: true
+    exclude: [/terms, /privacy-policy]   # intentionally noindex (confirmed 2026-10-22)
+    description: A page gains noindex (meta robots or X-Robots-Tag).
+
+  - id: canonical_changed
+    severity: high
+    mode: state
+    scope: all
+    watch: true
+    description: A canonical points somewhere other than the page itself.
+
+  - id: sitemap_drop
+    severity: high
+    mode: diff
+    scope: all
+    watch: true
+    threshold: {min_urls_lost: 3, min_fraction_lost: 0.10}
+    description: The sitemap fails to load, or loses 3+ URLs or 10%+ of URLs.
+
+  - id: title_meta_regression
+    severity: high
+    mode: diff
+    scope: all
+    watch: true
+    threshold: {brand_only: ["Arbcentrix"]}
+    description: A title or meta description goes empty, or reverts to the brand-only "Arbcentrix".
+
+  - id: tracking_missing
+    severity: high
+    mode: state
+    scope: critical
+    watch: true
+    description: The GTM container in site.yaml is missing from a critical page, or a forbidden ID (e.g. GTM-PG3F2KGJ) reappears on any page.
+
+  - id: cta_broken
+    severity: high
+    mode: state
+    scope: critical
+    watch: true
+    description: The booking link is missing from a booking page, or the form is missing from /contact.
+
+  - id: content_shrink
+    severity: medium
+    mode: diff
+    scope: critical
+    watch: true
+    threshold: {min_fraction_lost: 0.40}
+    description: A critical page loses 40%+ of its words.
+
+  # --- Discovery / technical and on-page checks -----------------------------
+  - id: empty_shell
+    severity: high
+    mode: state
+    scope: all
+    description: Page returns 200 but its server-rendered HTML has no content (empty #main).
+
+  - id: broken_internal_link
+    severity: high
+    mode: state
+    scope: all
+    description: An internal link points at a URL that errors or returns 4xx/5xx.
+
+  - id: orphan_page
+    severity: medium
+    mode: state
+    scope: all
+    description: A sitemap URL that no crawled page links to.
+
+  - id: h1_missing
+    severity: medium
+    mode: state
+    scope: all
+    description: A content page has no H1.
+
+  - id: h1_multiple
+    severity: low
+    mode: state
+    scope: all
+    threshold: {max_distinct: 1}
+    description: A page has more than one distinct H1 text.
+
+  - id: canonical_missing
+    severity: low
+    mode: state
+    scope: all
+    description: A content page has no canonical link.
+
+  - id: not_in_sitemap
+    severity: low
+    mode: state
+    scope: all
+    description: A linked internal page returns 200 but is not in the sitemap.
+
+  - id: thin_content
+    severity: low
+    mode: state
+    scope: all
+    threshold: {min_words: 300}
+    description: A content page has fewer words than min_words.
