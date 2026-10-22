@@ -72,7 +72,10 @@ def content_shrink(snapshot, ctx):
         old = (ctx.baseline or {}).get(url, {}).get("words_before")
         if old is None and ctx.previous:
             old = (ctx.previous["pages"].get(url) or {}).get("word_count")
-        new = (snapshot["pages"].get(url) or {}).get("word_count") or 0
+        page = snapshot["pages"].get(url) or {}
+        if page.get("status") != 200 or page.get("redirects"):
+            continue  # a page that is gone or redirects is status_change's alert, not a shrink
+        new = page.get("word_count") or 0
         if old and (old - new) / old >= frac:
             yield url, {"words_before": old, "words_now": new,
                         "fraction_lost": round((old - new) / old, 3)}

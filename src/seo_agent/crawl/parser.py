@@ -34,8 +34,10 @@ def parse_page(html: str, url: str, headers: dict | None = None, *, domain: str 
     head = soup.head or soup
 
     def meta(name):
-        tag = head.find("meta", attrs={"name": re.compile(f"^{name}$", re.I)})
-        return tag.get("content", "").strip() if tag else None
+        # Several tags with one name are combined, as search engines do (Framer already adds
+        # a robots tag for max-image-preview, so a later noindex tag must not be shadowed).
+        tags = head.find_all("meta", attrs={"name": re.compile(f"^{name}$", re.I)})
+        return ", ".join(t.get("content", "").strip() for t in tags) if tags else None
 
     canonicals = _unique(urljoin(url, l.get("href", "").strip())
                          for l in soup.find_all("link", rel=lambda r: r and "canonical" in r)
