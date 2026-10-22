@@ -142,3 +142,18 @@ def test_runs_summary_against_schedule(cfg, tmp_path):
                                    "not_closed": 0, "last_run": "2026-10-19T06:13:00+00:00", "missing": 1}
     assert r["tasks"]["watch"]["errors"] == 1 and r["tasks"]["watch"]["missing"] == 41
     assert r["tasks"]["monthly"]["expected"] is None
+
+
+def test_log_works_without_google_auth(tmp_path):
+    """A run must still be able to record its failure if google-auth is missing."""
+    import subprocess
+    import sys
+    code = (
+        "import sys\n"
+        "for m in ('google', 'google.auth', 'google.oauth2'): sys.modules[m] = None\n"
+        "from seo_agent.cli import main\n"
+        f"sys.exit(main(['log', '--no-state', '--out', {str(tmp_path)!r}, '--run', 'watch',"
+        " '--status', 'error', '--note', 'google-auth missing']))\n")
+    r = subprocess.run([sys.executable, "-c", code], capture_output=True, text=True)
+    assert r.returncode == 0, r.stderr
+    assert '"status": "error"' in (tmp_path / "state-local" / "runs.jsonl").read_text()

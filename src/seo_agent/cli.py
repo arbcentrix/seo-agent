@@ -4,7 +4,6 @@ import sys
 from pathlib import Path
 
 from .config import ROOT, ConfigError, load_config
-from .smoke import run_smoke
 from .state import DirStore, StateBranch, StateError
 
 COMMANDS = ("daily", "watch", "weekly", "monthly", "qa", "smoke", "sync", "verify", "log")
@@ -44,6 +43,7 @@ def main(argv=None) -> int:
         return 2
 
     if args.command == "smoke":
+        from .smoke import run_smoke  # imported here: google-auth is only needed by smoke/sync
         return 0 if run_smoke(cfg) else 1
 
     def store():

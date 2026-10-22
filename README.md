@@ -1,6 +1,8 @@
 # seo-agent
 ## Setup
 
+Locally, from the repository root:
+
 ```
 pip install -r requirements.txt        # pinned package list
 pip install -e .                       # makes `python -m seo_agent` work from anywhere
@@ -8,8 +10,24 @@ python -m seo_agent smoke
 python -m pytest
 ```
 
-The scheduled tasks' environment needs the same two `pip install` lines in its setup
-script, and the variables below.
+**Scheduled tasks' environment.** The environment's setup script runs *before* the
+repository is cloned, so it cannot read `requirements.txt` or run `pip install -e .`
+(that fails with "Could not open requirements file"). Set it up in the environment's
+settings instead:
+
+- **Setup script** — install the pinned packages by name (keep in step with
+  `requirements.txt`):
+  ```
+  pip install PyYAML==6.0.3 requests==2.34.2 beautifulsoup4==4.15.0 lxml==6.1.3 google-auth==2.62.0 cryptography==50.0.1
+  ```
+- **Environment variable** `PYTHONPATH=/home/user/seo-agent/src`, so `python -m seo_agent`
+  works without `pip install -e .` (the repository is cloned to `/home/user/seo-agent`).
+- The variables in the table below.
+
+As a fallback, step 1 of every prompt checks `python -m seo_agent --help` and, if it
+fails, runs `pip install -q -r requirements.txt && pip install -q -e .` from the
+repository root before continuing. Only `smoke` and source syncs import `google-auth`,
+so `log` still works to record a failed run if a package is missing.
 
 Commands: `python -m seo_agent daily | watch | weekly | monthly | qa | smoke | sync | verify | log`.
 
