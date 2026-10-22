@@ -1,4 +1,6 @@
 """On-page checks: titles, meta, headings, content, tracking, CTAs."""
+from collections import Counter
+
 from .technical import _content_pages
 
 
@@ -65,6 +67,32 @@ def thin_content(snapshot, ctx):
             yield url, {"word_count": p["word_count"], "min_words": minimum}
 
 
+def jsonld_missing(snapshot, ctx):
+    for url, p in _content_pages(snapshot):
+        if "jsonld_types" in p and not p["jsonld_types"] and ctx.in_scope(url):
+            yield url, {"jsonld_types": []}
+
+
+def overlapping_content(snapshot, ctx):
+    """Pages whose own text (site-wide boilerplate removed) largely repeats another page's."""
+    t = ctx.threshold
+    max_pages, min_shared, min_unique = t.get("boilerplate_max_pages", 3), t.get("min_overlap", 0.5), t.get("min_unique", 20)
+    pages = {u: set(p["text_sample"]) for u, p in _content_pages(snapshot) if p.get("text_sample")}
+    df = Counter(h for s in pages.values() for h in s)
+    own = {u: {h for h in s if df[h] <= max_pages} for u, s in pages.items()}
+    own = {u: s for u, s in own.items() if len(s) >= min_unique and ctx.in_scope(u)}
+    urls = sorted(own)
+    partners = {}
+    for i, a in enumerate(urls):
+        for b in urls[i + 1:]:
+            share = len(own[a] & own[b]) / min(len(own[a]), len(own[b]))
+            if share >= min_shared:
+                partners.setdefault(a, {})[b] = round(share, 2)
+                partners.setdefault(b, {})[a] = round(share, 2)
+    for url, others in partners.items():
+        yield url, {"overlaps_with": dict(sorted(others.items())), "min_overlap": min_shared}
+
+
 def content_shrink(snapshot, ctx):
     """Comparative: words now vs. before an open alert, else the previous snapshot."""
     frac = ctx.threshold.get("min_fraction_lost", 0.4)
@@ -79,4 +107,5 @@ def content_shrink(snapshot, ctx):
 
 
 CHECKS = {f.__name__: f for f in (title_meta_regression, tracking_missing, cta_broken, h1_missing,
-                                  h1_multiple, thin_content, content_shrink)}
+                                  h1_multiple, thin_content, jsonld_missing,
+                                  overlapping_content, content_shrink)}

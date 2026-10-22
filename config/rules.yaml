@@ -131,6 +131,22 @@ checks:
     threshold: {min_words: 300}
     description: A content page has fewer words than min_words.
 
+  - id: jsonld_missing
+    severity: medium
+    mode: state
+    scope: all
+    description: A content page has no JSON-LD structured data.
+
+  - id: overlapping_content
+    severity: medium
+    mode: state
+    scope: all
+    threshold: {min_overlap: 0.5, boilerplate_max_pages: 3, min_unique: 20}
+    description: >-
+      A page shares min_overlap or more of its own text with another page, after text that
+      appears on more than boilerplate_max_pages pages (nav, footer) is ignored. Such pages
+      compete for the same queries.
+
 # --- Weekly candidate issues (data-driven; computed by `weekly`) -------------
 # Windows are the last 28 days of final GSC data vs. the 28 days before.
 candidates:
