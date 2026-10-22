@@ -1,1 +1,2 @@
 {"command": "sync", "findings": 0, "sources": {"gsc": {"days": 485, "rows": {"page": 5972, "page_query": 9394}}}, "status": "ok", "suspicious": [], "ts": "2026-10-22T04:37:52+00:00"}
+{"command": "sync", "findings": 0, "psi_errors": 0, "psi_runs": 30, "sources": ["psi"], "status": "ok", "suspicious": [], "ts": "2026-10-22T04:49:40+00:00"}
