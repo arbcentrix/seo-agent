@@ -1,0 +1,695 @@
+{
+  "https://arbcentrix.com/": {
+    "error": null,
+    "file": "pages/index.html.gz",
+    "final_url": "https://arbcentrix.com/",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/about": {
+    "error": null,
+    "file": "pages/about.html.gz",
+    "final_url": "https://arbcentrix.com/about",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/accounting": {
+    "error": null,
+    "file": "pages/accounting.html.gz",
+    "final_url": "https://arbcentrix.com/accounting",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/accounting-services": {
+    "error": null,
+    "file": "pages/accounting-services.html.gz",
+    "final_url": "https://arbcentrix.com/accounting-services",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:59 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/audit": {
+    "error": null,
+    "file": "pages/audit.html.gz",
+    "final_url": "https://arbcentrix.com/audit",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/careers": {
+    "error": null,
+    "file": "pages/careers.html.gz",
+    "final_url": "https://arbcentrix.com/careers",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/case-study": {
+    "error": null,
+    "file": "pages/case-study.html.gz",
+    "final_url": "https://arbcentrix.com/case-study",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer": {
+    "error": null,
+    "file": "pages/case-study__business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer.html.gz",
+    "final_url": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:05 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth": {
+    "error": null,
+    "file": "pages/case-study__the-vendor-dispute-how-evidence-revealed-the-truth.html.gz",
+    "final_url": "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:02 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground": {
+    "error": null,
+    "file": "pages/case-study__when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground.html.gz",
+    "final_url": "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:03 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/case-study/why-capacity-feels-fragile": {
+    "error": null,
+    "file": "pages/case-study__why-capacity-feels-fragile.html.gz",
+    "final_url": "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:02 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/client-accounting-services": {
+    "error": null,
+    "file": "pages/client-accounting-services.html.gz",
+    "final_url": "https://arbcentrix.com/client-accounting-services",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:44 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/compliance-operations-specialist": {
+    "error": null,
+    "file": "pages/compliance-operations-specialist.html.gz",
+    "final_url": "https://arbcentrix.com/compliance-operations-specialist",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:51 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/contact": {
+    "error": null,
+    "file": "pages/contact.html.gz",
+    "final_url": "https://arbcentrix.com/contact",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/customer-care": {
+    "error": null,
+    "file": "pages/customer-care.html.gz",
+    "final_url": "https://arbcentrix.com/customer-care",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/digital-transformation": {
+    "error": null,
+    "file": "pages/digital-transformation.html.gz",
+    "final_url": "https://arbcentrix.com/digital-transformation",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/go-to-market-strategy-and-business-development": {
+    "error": null,
+    "file": "pages/go-to-market-strategy-and-business-development.html.gz",
+    "final_url": "https://arbcentrix.com/go-to-market-strategy-and-business-development",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/growth-marketing-officer": {
+    "error": null,
+    "file": "pages/growth-marketing-officer.html.gz",
+    "final_url": "https://arbcentrix.com/growth-marketing-officer",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:50 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights": {
+    "error": null,
+    "file": "pages/insights.html.gz",
+    "final_url": "https://arbcentrix.com/insights",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/automation-without-anxiety": {
+    "error": null,
+    "file": "pages/insights__automation-without-anxiety.html.gz",
+    "final_url": "https://arbcentrix.com/insights/automation-without-anxiety",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:15 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/bridging-the-talent-gap": {
+    "error": null,
+    "file": "pages/insights__bridging-the-talent-gap.html.gz",
+    "final_url": "https://arbcentrix.com/insights/bridging-the-talent-gap",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:17 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms": {
+    "error": null,
+    "file": "pages/insights__building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms.html.gz",
+    "final_url": "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:25 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/burnout-in-the-numbers-business": {
+    "error": null,
+    "file": "pages/insights__burnout-in-the-numbers-business.html.gz",
+    "final_url": "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:21:43 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/capacity-planning": {
+    "error": null,
+    "file": "pages/insights__capacity-planning.html.gz",
+    "final_url": "https://arbcentrix.com/insights/capacity-planning",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:57:47 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/client-experience-upgrade": {
+    "error": null,
+    "file": "pages/insights__client-experience-upgrade.html.gz",
+    "final_url": "https://arbcentrix.com/insights/client-experience-upgrade",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:14 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape": {
+    "error": null,
+    "file": "pages/insights__compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape.html.gz",
+    "final_url": "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:28 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/data-driven-accounting": {
+    "error": null,
+    "file": "pages/insights__data-driven-accounting.html.gz",
+    "final_url": "https://arbcentrix.com/insights/data-driven-accounting",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:16 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/future-proofing-your-cpa-firm": {
+    "error": null,
+    "file": "pages/insights__future-proofing-your-cpa-firm.html.gz",
+    "final_url": "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:22 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams": {
+    "error": null,
+    "file": "pages/insights__how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams.html.gz",
+    "final_url": "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 02:14:22 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/metrics-that-matter": {
+    "error": null,
+    "file": "pages/insights__metrics-that-matter.html.gz",
+    "final_url": "https://arbcentrix.com/insights/metrics-that-matter",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:10 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/offshoring-myths-debunked": {
+    "error": null,
+    "file": "pages/insights__offshoring-myths-debunked.html.gz",
+    "final_url": "https://arbcentrix.com/insights/offshoring-myths-debunked",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:23 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/people-tech": {
+    "error": null,
+    "file": "pages/insights__people-tech.html.gz",
+    "final_url": "https://arbcentrix.com/insights/people-tech",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:09 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/reinventing-the-partner-role": {
+    "error": null,
+    "file": "pages/insights__reinventing-the-partner-role.html.gz",
+    "final_url": "https://arbcentrix.com/insights/reinventing-the-partner-role",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:09 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/retention-over-recruitment": {
+    "error": null,
+    "file": "pages/insights__retention-over-recruitment.html.gz",
+    "final_url": "https://arbcentrix.com/insights/retention-over-recruitment",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:24 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/retention-starts-with-respect": {
+    "error": null,
+    "file": "pages/insights__retention-starts-with-respect.html.gz",
+    "final_url": "https://arbcentrix.com/insights/retention-starts-with-respect",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:08 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/silent-attrition": {
+    "error": null,
+    "file": "pages/insights__silent-attrition.html.gz",
+    "final_url": "https://arbcentrix.com/insights/silent-attrition",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:28 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/smarter-business-scaling-beyond-headcount": {
+    "error": null,
+    "file": "pages/insights__smarter-business-scaling-beyond-headcount.html.gz",
+    "final_url": "https://arbcentrix.com/insights/smarter-business-scaling-beyond-headcount",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:06 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms": {
+    "error": null,
+    "file": "pages/insights__solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms.html.gz",
+    "final_url": "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:18 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity": {
+    "error": null,
+    "file": "pages/insights__supporting-cpa-firms-in-maintaining-real-time-audit-continuity.html.gz",
+    "final_url": "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:06 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/the-advisory-advantage": {
+    "error": null,
+    "file": "pages/insights__the-advisory-advantage.html.gz",
+    "final_url": "https://arbcentrix.com/insights/the-advisory-advantage",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:11 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/the-modern-cpa-tech-stack": {
+    "error": null,
+    "file": "pages/insights__the-modern-cpa-tech-stack.html.gz",
+    "final_url": "https://arbcentrix.com/insights/the-modern-cpa-tech-stack",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 02:58:16 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/the-price-of-delay": {
+    "error": null,
+    "file": "pages/insights__the-price-of-delay.html.gz",
+    "final_url": "https://arbcentrix.com/insights/the-price-of-delay",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:26 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently": {
+    "error": null,
+    "file": "pages/insights__what-top-cpa-firms-are-doing-differently.html.gz",
+    "final_url": "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:23 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/it-services": {
+    "error": null,
+    "file": "pages/it-services.html.gz",
+    "final_url": "https://arbcentrix.com/it-services",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:00 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/kevin-mairs": {
+    "error": null,
+    "file": "pages/kevin-mairs.html.gz",
+    "final_url": "https://arbcentrix.com/kevin-mairs",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:33 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/locations": {
+    "error": null,
+    "file": "pages/locations.html.gz",
+    "final_url": "https://arbcentrix.com/locations",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/loss-prevention": {
+    "error": null,
+    "file": "pages/loss-prevention.html.gz",
+    "final_url": "https://arbcentrix.com/loss-prevention",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:07:01 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/maan-sacdalan": {
+    "error": null,
+    "file": "pages/maan-sacdalan.html.gz",
+    "final_url": "https://arbcentrix.com/maan-sacdalan",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/newsletter": {
+    "error": null,
+    "file": "pages/newsletter.html.gz",
+    "final_url": "https://arbcentrix.com/newsletter",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:45 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/onboarding-specialist": {
+    "error": null,
+    "file": "pages/onboarding-specialist.html.gz",
+    "final_url": "https://arbcentrix.com/onboarding-specialist",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:52 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/operations-specialist": {
+    "error": null,
+    "file": "pages/operations-specialist.html.gz",
+    "final_url": "https://arbcentrix.com/operations-specialist",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 02:20:50 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/order-fulfillment-management": {
+    "error": null,
+    "file": "pages/order-fulfillment-management.html.gz",
+    "final_url": "https://arbcentrix.com/order-fulfillment-management",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/privacy-policy": {
+    "error": null,
+    "file": "pages/privacy-policy.html.gz",
+    "final_url": "https://arbcentrix.com/privacy-policy",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:08:57 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/property-management": {
+    "error": null,
+    "file": "pages/property-management.html.gz",
+    "final_url": "https://arbcentrix.com/property-management",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/recruitment-and-onboarding": {
+    "error": null,
+    "file": "pages/recruitment-and-onboarding.html.gz",
+    "final_url": "https://arbcentrix.com/recruitment-and-onboarding",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/remote-auditor": {
+    "error": null,
+    "file": "pages/remote-auditor.html.gz",
+    "final_url": "https://arbcentrix.com/remote-auditor",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 03:06:48 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/robots.txt": {
+    "error": null,
+    "file": "robots.txt",
+    "final_url": "https://arbcentrix.com/robots.txt",
+    "headers": {
+      "content-type": "text/plain",
+      "last-modified": "Thu, 22 Oct 2026 01:12:38 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/services": {
+    "error": null,
+    "file": "pages/services.html.gz",
+    "final_url": "https://arbcentrix.com/services",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/sitemap.xml": {
+    "error": null,
+    "file": "sitemap.xml",
+    "final_url": "https://arbcentrix.com/sitemap.xml",
+    "headers": {
+      "content-type": "text/xml",
+      "last-modified": "Thu, 22 Oct 2026 01:12:38 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/tax": {
+    "error": null,
+    "file": "pages/tax.html.gz",
+    "final_url": "https://arbcentrix.com/tax",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/terms": {
+    "error": null,
+    "file": "pages/terms.html.gz",
+    "final_url": "https://arbcentrix.com/terms",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 02:19:43 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/trust-center": {
+    "error": null,
+    "file": "pages/trust-center.html.gz",
+    "final_url": "https://arbcentrix.com/trust-center",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:39 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  },
+  "https://arbcentrix.com/ystevie-ty": {
+    "error": null,
+    "file": "pages/ystevie-ty.html.gz",
+    "final_url": "https://arbcentrix.com/ystevie-ty",
+    "headers": {
+      "content-type": "text/html",
+      "last-modified": "Thu, 22 Oct 2026 01:12:40 GMT"
+    },
+    "redirects": [],
+    "status": 200
+  }
+}

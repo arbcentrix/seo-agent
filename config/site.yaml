@@ -25,4 +25,19 @@ tracking:
   forbidden_ids:        # alert if either ever reappears
     - GTM-PG3F2KGJ
     - G-LEMVN91XBP
+cta:
+  booking_link: calendly.com/arbcentrix/schedule-a-consultation
+  booking_pages:        # pages that carried the booking link on 2026-10-22
+    - /
+    - /services
+    - /accounting
+    - /audit
+    - /tax
+    - /customer-care
+    - /property-management
+    - /digital-transformation
+    - /go-to-market-strategy-and-business-development
+    - /order-fulfillment-management
+  form_pages:
+    - /contact
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)
