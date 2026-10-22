@@ -27,3 +27,14 @@ def test_recipients_follow_mode():
 def test_secret_not_in_repr():
     env = Env.from_environ({"GOOGLE_SA_JSON_B64": "SECRETVALUE"})
     assert "SECRETVALUE" not in repr(env)
+
+
+def test_site_critical_pages_and_tracking():
+    cfg = load_config(environ={})
+    assert len(cfg.critical_urls) == 15
+    assert cfg.critical_urls[0] == "https://arbcentrix.com/"
+    assert len(set(cfg.critical_urls)) == 15
+    t = cfg.site["tracking"]
+    assert t["gtm_container_id"] == "GTM-N8DDS834"
+    assert t["gtm_container_id"] not in t["forbidden_ids"]
+    assert t["ga4_measurement_id"] not in t["forbidden_ids"]

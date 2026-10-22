@@ -3,8 +3,26 @@ base_url: https://arbcentrix.com
 user_agent: ArbcentrixSEOAgent/1.0
 request_interval_seconds: 1
 sitemap_url: https://arbcentrix.com/sitemap.xml
-critical_pages: []      # TODO: critical page paths, e.g. "/", "/contact"
-gtm:
-  current: null         # TODO: new GTM container ID
-  retired: GTM-PG3F2KGJ
+critical_pages:
+  - /
+  - /services
+  - /accounting
+  - /audit
+  - /tax
+  - /contact
+  - /about
+  - /insights
+  - /case-study
+  - /customer-care
+  - /property-management
+  - /recruitment-and-onboarding
+  - /digital-transformation
+  - /go-to-market-strategy-and-business-development
+  - /order-fulfillment-management
+tracking:
+  gtm_container_id: GTM-N8DDS834
+  ga4_measurement_id: G-S55RXL2QCS
+  forbidden_ids:        # alert if either ever reappears
+    - GTM-PG3F2KGJ
+    - G-LEMVN91XBP
 # monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)
