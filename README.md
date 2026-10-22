@@ -85,8 +85,8 @@ run's `suspicious` list.
 |---|---|
 | `gsc/page_query/<YYYY-MM>.json` | date × page × query: clicks, impressions, position (final data, up to today − 3) |
 | `gsc/page/<YYYY-MM>.json` | date × page totals — use these for page KPIs: query rows omit anonymised queries |
-| `ga4/landing/<YYYY-MM>.json` | date × landingPage: sessions, engagedSessions, totalUsers, keyEvents |
-| `ga4/key_events/<YYYY-MM>.json` | date × landingPage × eventName: keyEvents |
+| `ga4/landing/<YYYY-MM>.json` | date × landingPage × channel (`sessionDefaultChannelGroup`): sessions, engagedSessions, totalUsers, keyEvents |
+| `ga4/key_events/<YYYY-MM>.json` | date × landingPage × channel × eventName: keyEvents |
 | `psi/<YYYY-MM-DD>.json` | critical pages × mobile/desktop: lab (performance, LCP, FCP, TBT, SI, CLS) and field CrUX (page and origin) |
 
 Each month file lists the days it has synced (`days`), including days with no rows.

@@ -119,14 +119,15 @@ def test_ga4_report_parsing_and_paging(monkeypatch):
     def fake(method, url, token=None, json=None, **kw):
         offsets.append(json["offset"])
         assert url.endswith("/properties/560128659:runReport")
-        row = {"dimensionValues": [{"value": "20261020"}, {"value": "/tax"}],
+        row = {"dimensionValues": [{"value": "20261020"}, {"value": "/tax"}, {"value": "Organic Search"}],
                "metricValues": [{"value": "12"}, {"value": "7"}, {"value": "10"}, {"value": "1.5"}]}
         return {"rows": [row], "rowCount": ga4.PAGE_SIZE + 1}
 
     monkeypatch.setattr(ga4, "request", fake)
     rows = ga4.fetch_landing_pages("tok", "properties/560128659", "2026-10-20", "2026-10-20")
     assert offsets == [0, ga4.PAGE_SIZE]
-    assert rows[0] == {"date": "2026-10-20", "landingPage": "/tax", "sessions": 12,
+    assert rows[0] == {"date": "2026-10-20", "landingPage": "/tax",
+                       "sessionDefaultChannelGroup": "Organic Search", "sessions": 12,
                        "engagedSessions": 7, "totalUsers": 10, "keyEvents": 1.5}
 
 

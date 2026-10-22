@@ -2,8 +2,9 @@
 
 GSC  gsc/page_query/<YYYY-MM>.json   date x page x query  (final data)
      gsc/page/<YYYY-MM>.json         date x page totals (includes anonymised queries)
-GA4  ga4/landing/<YYYY-MM>.json      date x landingPage: sessions, engagedSessions, totalUsers, keyEvents
-     ga4/key_events/<YYYY-MM>.json   date x landingPage x eventName: keyEvents
+GA4  ga4/landing/<YYYY-MM>.json      date x landingPage x channel: sessions, engagedSessions,
+                                     totalUsers, keyEvents
+     ga4/key_events/<YYYY-MM>.json   date x landingPage x channel x eventName: keyEvents
 PSI  psi/<YYYY-MM-DD>.json           critical pages x {mobile, desktop}: lab + field metrics
 
 GSC and GA4 sync every missing day in their window, so the first run is the 16-month

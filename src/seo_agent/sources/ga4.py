@@ -1,4 +1,7 @@
-"""GA4 Data API: landing pages by day, and key events by landing page and event name."""
+"""GA4 Data API: landing pages by day and channel, and key events by landing page and event name.
+
+Channel is sessionDefaultChannelGroup, so reports can isolate "Organic Search".
+"""
 from .google_api import request
 
 API = "https://analyticsdata.googleapis.com/v1beta/properties/{pid}:runReport"
@@ -41,11 +44,13 @@ def _report(token, property_id, start, end, dimensions, metrics, metric_filter=N
 
 
 def fetch_landing_pages(token, property_id, start, end) -> list[dict]:
-    return _report(token, property_id, start, end, ["date", "landingPage"], LANDING_METRICS)
+    return _report(token, property_id, start, end, ["date", "landingPage", "sessionDefaultChannelGroup"],
+                   LANDING_METRICS)
 
 
 def fetch_key_events(token, property_id, start, end) -> list[dict]:
-    return _report(token, property_id, start, end, ["date", "landingPage", "eventName"], ["keyEvents"],
+    return _report(token, property_id, start, end,
+                   ["date", "landingPage", "sessionDefaultChannelGroup", "eventName"], ["keyEvents"],
                    {"filter": {"fieldName": "keyEvents",
                                "numericFilter": {"operation": "GREATER_THAN",
                                                  "value": {"int64Value": "0"}}}})
