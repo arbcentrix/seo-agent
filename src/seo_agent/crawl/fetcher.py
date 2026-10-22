@@ -38,13 +38,17 @@ class Fetcher:
                 self._sleep(gap)
         self._last = self._clock()
 
-    def get(self, url: str) -> Response:
-        """GET without auto-redirects; each hop counts as one polite request."""
+    def get(self, url: str, headers: dict | None = None) -> Response:
+        """GET without auto-redirects; each hop counts as one polite request.
+
+        headers (e.g. If-None-Match) go on the first hop only; a 304 comes back as status 304.
+        """
         redirects, current = [], url
         try:
-            for _ in range(MAX_REDIRECTS + 1):
+            for hop in range(MAX_REDIRECTS + 1):
                 self._wait()
-                r = self.session.get(current, timeout=self.timeout, allow_redirects=False)
+                r = self.session.get(current, timeout=self.timeout, allow_redirects=False,
+                                     headers=headers if hop == 0 and headers else None)
                 if r.is_redirect and "location" in r.headers:
                     nxt = urljoin(current, r.headers["location"])
                     redirects.append([r.status_code, nxt])

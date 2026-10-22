@@ -210,6 +210,32 @@ the last complete month:
 like weekly recommendations. The report is also stored as
 `reports/monthly/<YYYY-MM>.json` on the state branch.
 
+### Publish watch fingerprints (stage 8)
+
+```
+python -m seo_agent watch            # incremental: only what changed
+python -m seo_agent watch --full     # re-fetch every page (API-triggered runs)
+```
+
+- Every page in a snapshot carries a **fingerprint**: hashes of status, redirects, title,
+  meta description, canonical, robots meta and X-Robots-Tag, H1/H2, internal links,
+  booking link, form, tracking IDs and word count. Per-field hashes say which changed.
+- The **build signature** hashes the homepage's own Framer bundle URLs
+  (`watch.build_asset_pattern` in site.yaml). Their file names carry a content hash, so
+  the signature changes on every publish. Third-party scripts are ignored.
+- Each watch run fetches robots.txt, the sitemap and the 15 critical pages (homepage
+  included) with `If-None-Match`, so unchanged pages cost a bodiless 304.
+- If the build signature, the sitemap's URL set or robots.txt changed, or with `--full`,
+  it re-fetches every other page too (still conditionally) and follows new links.
+  Otherwise the other pages are carried over unchanged from the previous snapshot; a
+  change to a non-critical page without a publish is picked up by the next daily crawl.
+- `out/changes.json` lists the mode (`quiet`, `publish` or `full`), the reasons, how many
+  pages were fetched, answered 304 or carried, and each changed page with its changed
+  fields, plus new and removed pages.
+
+Live, a quiet watch run takes about 17 requests and 16 seconds instead of a ~60-second
+full crawl.
+
 ### State branch
 
 `seo_agent.state.StateBranch` checks out the state branch in `.state-worktree/`

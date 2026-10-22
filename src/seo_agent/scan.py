@@ -9,6 +9,7 @@ State branch layout:
 Outputs (out/):
   snapshot.json, findings.json (daily only: every rules.yaml check),
   alerts.json (new + ongoing alerts; [] when healthy)
+  changes.json (watch only: what was fetched, which pages changed and which fields)
 """
 import json
 from collections import Counter
@@ -16,7 +17,7 @@ from pathlib import Path
 
 from .checks import run_checks
 from .checks.regression import carry_forward, evaluate
-from .crawl.crawl import crawl
+from .crawl.crawl import crawl, crawl_watch
 from .crawl.fetcher import Fetcher
 from .crawl.sources import FixtureSource, LiveSource
 
@@ -30,17 +31,22 @@ def _dump(path: Path, data) -> None:
 
 
 def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = None,
-             previous: dict | None = None, log=print, sync_result: dict | None = None) -> dict:
+             previous: dict | None = None, log=print, sync_result: dict | None = None,
+             full: bool = False, source=None) -> dict:
     assert kind in ("daily", "watch")
-    source = FixtureSource(fixtures) if fixtures else LiveSource(
-        Fetcher(cfg.user_agent, interval=cfg.site.get("request_interval_seconds", 1)))
+    source = source or (FixtureSource(fixtures) if fixtures else LiveSource(
+        Fetcher(cfg.user_agent, interval=cfg.site.get("request_interval_seconds", 1))))
 
     open_alerts = {}
     if state is not None:
         previous = state.read_json(LATEST)
         open_alerts = state.read_json(OPEN) or {}
 
-    snapshot = carry_forward(crawl(source, cfg), previous)
+    if kind == "watch":
+        snapshot = crawl_watch(source, cfg, previous, full=full)
+    else:
+        snapshot = crawl(source, cfg)
+    snapshot = carry_forward(snapshot, previous)
     now = snapshot["fetched_at"]
     result = evaluate(snapshot, cfg, previous, open_alerts, now)
     alerts = result["alerts"]
@@ -62,6 +68,13 @@ def run_scan(kind: str, cfg, out_dir: Path, state=None, fixtures: Path | None = 
                "truncated": snapshot["truncated"]}
     if findings is not None:
         summary["findings"] = len(findings)
+    if "watch" in snapshot:
+        w = snapshot["watch"]
+        summary["watch"] = {"mode": w["mode"], "reasons": w.get("reasons", []), "fetched": w.get("fetched"),
+                            "not_modified": w.get("not_modified"), "changed": len(w.get("changed") or {}),
+                            "new_pages": len(w.get("new_pages") or []),
+                            "removed_pages": len(w.get("removed_pages") or [])}
+        _dump(out_dir / "changes.json", w)
     log(json.dumps(summary))
 
     if state is not None:
