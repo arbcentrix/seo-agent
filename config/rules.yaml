@@ -1,8 +1,10 @@
 # Every scripted check. Fields:
 #   id         check function name in seo_agent/checks
 #   severity   critical | high | medium | low
-#   mode       state = judged on today's crawl alone
-#              diff  = also compares with the previous snapshot (regression diff, stage 3)
+#   mode       state = alerts whenever it fires
+#              diff  = alerts only on a regression: fires now but not on the previous
+#                      snapshot (first run = baseline, no diff alerts)
+#              Either way an alert stays open ("ongoing") until the rule stops firing.
 #   scope      critical = critical pages only, all = every crawled page
 #   threshold  rule-specific numbers
 #   watch      true = also run by the publish watch
