@@ -83,10 +83,17 @@ def run_qa(cfg, store, out_dir: Path, recommendations: Path | None, email: Path 
            labels: Path | None, weekly_path: Path | None = None, log=print) -> int:
     weekly_path = weekly_path or out_dir / "weekly.json"
     alerts_path = out_dir / "alerts.json"
-    if not weekly_path.exists() and not alerts_path.exists():
-        log(f"qa: neither {weekly_path} nor {alerts_path} exists; run weekly, daily or watch first")
+    if not any(p.exists() for p in (weekly_path, alerts_path, out_dir / "monthly.json")):
+        log(f"qa: no weekly.json, monthly.json or alerts.json in {out_dir}; run a task first")
         return 2
     weekly = _read(weekly_path) if weekly_path.exists() else {"candidates": [], "query_page": []}
+    monthly_path = out_dir / "monthly.json"
+    if monthly_path.exists():  # monthly briefs cite monthly candidates
+        monthly = _read(monthly_path)
+        have = {c["id"] for c in weekly["candidates"]}
+        weekly = {**weekly,
+                  "candidates": weekly["candidates"] + [c for c in monthly["candidates"] if c["id"] not in have],
+                  "query_page": weekly.get("query_page", []) + monthly.get("query_page", [])}
     weekly = with_alert_candidates(weekly, _read(alerts_path) if alerts_path.exists() else [])
     known = known_urls(weekly, _snapshot(store, out_dir))
     domain = cfg.site["domain"]
@@ -191,3 +198,19 @@ def run_qa_alerts(cfg, alerts_path: Path, out_dir: Path, log=print) -> int:
         for e in errs:
             log(f"  - {e}")
     return 1 if failed else 0
+
+
+def run_monthly(cfg, store, out_dir: Path, commit=None, sync_result=None, log=print) -> int:
+    from .score.monthly import build_monthly
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    monthly = build_monthly(cfg, store, now)
+    _dump(out_dir / "monthly.json", monthly)
+    m = monthly["months"]
+    summary = {"months": [m["last_3"][0], m["last_complete"]], "series_months": len(m["series"]),
+               "candidates": len(monthly["candidates"])}
+    log(json.dumps(summary))
+    if store is not None:
+        store.write_json(f"reports/monthly/{m['last_complete']}.json", monthly)
+    if commit:
+        commit("monthly", summary, sync_result)
+    return 0

@@ -186,6 +186,30 @@ items, close the run.
 - A green status means only that the session ran, not that the work succeeded. The
   Monday email's run count from `runs.jsonl` is the real check.
 
+### Monthly trends (stage 7)
+
+```
+python -m seo_agent monthly          # sync sources, write out/monthly.json
+```
+
+Calendar months, complete months only (every day of final GSC data synced), ending on
+the last complete month:
+- `trend_3m`: last 3 months vs the 3 before and vs the same 3 months last year — GSC
+  clicks, impressions, CTR, position; GA4 organic sessions, engaged sessions, key events.
+- `trend_12m`: the month series (13 months, so the latest month also has its year-ago
+  month), totals and a least-squares trend per month. A 12 vs previous-12 comparison
+  is not possible: GSC keeps 16 months.
+- `pages` (3-month comparison, 12-month series for the top 20 pages), `queries`
+  (3-month, all and non-branded), `query_page` (3 months).
+- `psi` (first vs latest run in the 3 months), `history` (runs, errors, new and resolved
+  alerts per month), `runs` (30 days vs the schedule).
+- `candidates` for briefs, defined under `monthly_candidates` in rules.yaml:
+  `content_gap`, `rising_query`, `declining_page`, `critical_page_flat`.
+
+`qa` reads `out/monthly.json` too, so briefs that cite a monthly candidate are checked
+like weekly recommendations. The report is also stored as
+`reports/monthly/<YYYY-MM>.json` on the state branch.
+
 ### State branch
 
 `seo_agent.state.StateBranch` checks out the state branch in `.state-worktree/`

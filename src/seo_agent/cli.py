@@ -118,8 +118,8 @@ def main(argv=None) -> int:
                                    (("recommendations", recs), ("email", email), ("labels", labels)))
         return run_qa(cfg, st, args.out, recs, email, labels, args.weekly)
 
-    if args.command == "weekly":
-        from .reporting import run_weekly
+    if args.command in ("weekly", "monthly"):
+        from .reporting import run_monthly, run_weekly
         try:
             st = store()
             sync_result = None
@@ -134,6 +134,8 @@ def main(argv=None) -> int:
                 st.append_run(kind, suspicious=(sync_res or {}).get("suspicious"), **summary, **extra)
                 st.commit_and_push(f"{kind}: {json.dumps(summary)[:120]}")
 
+            if args.command == "monthly":
+                return run_monthly(cfg, st, args.out, commit, sync_result)
             return run_weekly(cfg, st, args.out, args.labels, commit, sync_result)
         except StateError as e:
             print(f"state error: {e}", file=sys.stderr)
