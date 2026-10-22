@@ -1,5 +1,10 @@
 domain: arbcentrix.com
-critical_pages: []   # TODO: list critical page paths
-monday:
-  board_id_env: MONDAY_BOARD_ID
-  workspace_id_env: MONDAY_WORKSPACE_ID
+base_url: https://arbcentrix.com
+user_agent: ArbcentrixSEOAgent/1.0
+request_interval_seconds: 1
+sitemap_url: https://arbcentrix.com/sitemap.xml
+critical_pages: []      # TODO: critical page paths, e.g. "/", "/contact"
+gtm:
+  current: null         # TODO: new GTM container ID
+  retired: GTM-PG3F2KGJ
+# monday.com IDs come from MONDAY_BOARD_ID / MONDAY_WORKSPACE_ID (environment)
