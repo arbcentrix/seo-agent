@@ -129,3 +129,51 @@ checks:
     scope: all
     threshold: {min_words: 300}
     description: A content page has fewer words than min_words.
+
+# --- Weekly candidate issues (data-driven; computed by `weekly`) -------------
+# Windows are the last 28 days of final GSC data vs. the 28 days before.
+candidates:
+  - id: striking_distance
+    description: Query/page ranking just off the top results with real impressions.
+    threshold: {min_position: 3.5, max_position: 20, min_impressions: 10, include_branded: false}
+
+  - id: low_ctr
+    description: Query/page in the top 3 whose CTR is under half the expected CTR for its position
+      (a title/snippet problem). Positions 4-20 are striking_distance (a ranking problem).
+    threshold:
+      include_branded: false    # branded queries show several site pages, so low CTR is normal
+      max_position: 3.5         # exclusive; striking_distance starts at 3.5
+      min_impressions: 20
+      ratio: 0.5
+      expected_ctr: {1: 0.28, 2: 0.15, 3: 0.10}
+
+  - id: page_decline
+    description: A page lost clicks against the previous 28 days.
+    threshold: {min_clicks_before: 10, min_fraction_lost: 0.30}
+
+  - id: cannibalisation
+    description: Several pages split the impressions for one query.
+    threshold: {min_impressions: 10, min_share: 0.10, include_branded: false}
+
+  - id: critical_no_impressions
+    description: A critical page had no search impressions in the last 28 days.
+
+  - id: psi_poor
+    description: Critical pages that are slow, one candidate per device (mobile, desktop). Field (CrUX) data when available, otherwise lab.
+    threshold:
+      max_lcp_ms: 2500          # field "good" limits
+      max_inp_ms: 200
+      max_cls: 0.1
+      min_lab_performance: 50   # lab, used when there is no field data
+      lab_max_lcp_ms: 4000      # Lighthouse "poor"
+      lab_max_cls: 0.25
+
+# --- Scoring and QA ----------------------------------------------------------
+scoring:
+  # Priority = (Impact x Relevance x Confidence) / (Effort x Risk), each scored 1-5 by Claude.
+  factors: [impact, relevance, confidence, effort, risk]
+  intents: [informational, commercial, transactional, navigational, branded]
+  approval_levels:
+    editor: Copy, titles, meta descriptions, internal links on existing pages
+    owner: New pages, page structure, CTAs, anything customer-facing beyond copy
+    developer: Framer settings, redirects, robots, sitemap, tracking, performance
