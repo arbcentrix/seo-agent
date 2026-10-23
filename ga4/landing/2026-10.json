@@ -19,8 +19,9 @@
     "2026-10-17": "2026-10-22T04:58:41+00:00",
     "2026-10-18": "2026-10-22T04:58:41+00:00",
     "2026-10-19": "2026-10-22T22:14:43+00:00",
-    "2026-10-20": "2026-10-22T22:14:43+00:00",
-    "2026-10-21": "2026-10-22T22:14:43+00:00"
+    "2026-10-20": "2026-10-23T22:15:06+00:00",
+    "2026-10-21": "2026-10-23T22:15:06+00:00",
+    "2026-10-22": "2026-10-23T22:15:06+00:00"
   },
   "rows": [
     {
@@ -57,6 +58,60 @@
       "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 17,
+      "totalUsers": 17
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
       "totalUsers": 1
     }
   ]
