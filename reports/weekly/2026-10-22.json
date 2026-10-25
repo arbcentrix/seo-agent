@@ -3,218 +3,6 @@
     {
       "evidence": {
         "examples": {
-          "https://arbcentrix.com/kevin-mairs": {
-            "h1": []
-          },
-          "https://arbcentrix.com/maan-sacdalan": {
-            "h1": []
-          },
-          "https://arbcentrix.com/newsletter": {
-            "h1": []
-          },
-          "https://arbcentrix.com/ystevie-ty": {
-            "h1": []
-          }
-        },
-        "pages": 4
-      },
-      "id": "crawl_h1_missing:h1_missing",
-      "priority": null,
-      "queries": [],
-      "scores": null,
-      "severity": "medium",
-      "title": "h1_missing: 4 page(s)",
-      "type": "crawl_h1_missing",
-      "urls": [
-        "https://arbcentrix.com/kevin-mairs",
-        "https://arbcentrix.com/maan-sacdalan",
-        "https://arbcentrix.com/newsletter",
-        "https://arbcentrix.com/ystevie-ty"
-      ]
-    },
-    {
-      "evidence": {
-        "examples": {
-          "https://arbcentrix.com/": {
-            "h1": [
-              "Scale your operations without disruption.",
-              "We don't provide support. We enable operations",
-              "The Difference",
-              "Explore Our Solutions",
-              "This is how we operate when we work with you"
-            ],
-            "h1_count": 10
-          },
-          "https://arbcentrix.com/about": {
-            "h1": [
-              "About Us",
-              "Explore Our Solutions",
-              "Our Team"
-            ],
-            "h1_count": 3
-          },
-          "https://arbcentrix.com/accounting": {
-            "h1": [
-              "Let's Extend Your Accounting Team",
-              "The Challenge",
-              "How We Operate Within Your Operations:",
-              "High Impact Roles for US Businesses",
-              "How This is Executed:"
-            ],
-            "h1_count": 7
-          },
-          "https://arbcentrix.com/accounting-services": {
-            "h1": [
-              "The Challenge",
-              "How We Operate Within Your Operations:"
-            ],
-            "h1_count": 2
-          },
-          "https://arbcentrix.com/audit": {
-            "h1": [
-              "Maintain audit continuity without disruption",
-              "The Challenge",
-              "How We Operate Within Your Operations:",
-              "High Impact Roles for US Businesses",
-              "How This is Executed:"
-            ],
-            "h1_count": 8
-          }
-        },
-        "pages": 22
-      },
-      "id": "crawl_h1_multiple:h1_multiple",
-      "priority": null,
-      "queries": [],
-      "scores": null,
-      "severity": "low",
-      "title": "h1_multiple: 22 page(s)",
-      "type": "crawl_h1_multiple",
-      "urls": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/about",
-        "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
-        "https://arbcentrix.com/audit",
-        "https://arbcentrix.com/careers",
-        "https://arbcentrix.com/compliance-operations-specialist",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/customer-care",
-        "https://arbcentrix.com/digital-transformation",
-        "https://arbcentrix.com/go-to-market-strategy-and-business-development",
-        "https://arbcentrix.com/growth-marketing-officer",
-        "https://arbcentrix.com/it-services",
-        "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
-        "https://arbcentrix.com/order-fulfillment-management",
-        "https://arbcentrix.com/property-management",
-        "https://arbcentrix.com/recruitment-and-onboarding",
-        "https://arbcentrix.com/remote-auditor",
-        "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
-        "https://arbcentrix.com/trust-center"
-      ]
-    },
-    {
-      "evidence": {
-        "examples": {
-          "https://arbcentrix.com/accounting-services": {
-            "inlinks": 0
-          },
-          "https://arbcentrix.com/case-study": {
-            "inlinks": 0
-          },
-          "https://arbcentrix.com/client-accounting-services": {
-            "inlinks": 0
-          },
-          "https://arbcentrix.com/compliance-operations-specialist": {
-            "inlinks": 0
-          },
-          "https://arbcentrix.com/growth-marketing-officer": {
-            "inlinks": 0
-          }
-        },
-        "pages": 30
-      },
-      "id": "crawl_orphan_page:orphan_page",
-      "priority": null,
-      "queries": [],
-      "scores": null,
-      "severity": "medium",
-      "title": "orphan_page: 30 page(s)",
-      "type": "crawl_orphan_page",
-      "urls": [
-        "https://arbcentrix.com/accounting-services",
-        "https://arbcentrix.com/case-study",
-        "https://arbcentrix.com/client-accounting-services",
-        "https://arbcentrix.com/compliance-operations-specialist",
-        "https://arbcentrix.com/growth-marketing-officer",
-        "https://arbcentrix.com/insights",
-        "https://arbcentrix.com/insights/automation-without-anxiety",
-        "https://arbcentrix.com/insights/bridging-the-talent-gap",
-        "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
-        "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
-        "https://arbcentrix.com/insights/capacity-planning",
-        "https://arbcentrix.com/insights/client-experience-upgrade",
-        "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
-        "https://arbcentrix.com/insights/data-driven-accounting",
-        "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
-        "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams",
-        "https://arbcentrix.com/insights/offshoring-myths-debunked",
-        "https://arbcentrix.com/insights/retention-over-recruitment",
-        "https://arbcentrix.com/insights/silent-attrition",
-        "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
-        "https://arbcentrix.com/insights/the-advisory-advantage",
-        "https://arbcentrix.com/insights/the-modern-cpa-tech-stack",
-        "https://arbcentrix.com/insights/the-price-of-delay",
-        "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
-        "https://arbcentrix.com/it-services",
-        "https://arbcentrix.com/loss-prevention",
-        "https://arbcentrix.com/newsletter",
-        "https://arbcentrix.com/onboarding-specialist",
-        "https://arbcentrix.com/operations-specialist",
-        "https://arbcentrix.com/remote-auditor"
-      ]
-    },
-    {
-      "evidence": {
-        "examples": {
-          "https://arbcentrix.com/case-study": {
-            "min_words": 300,
-            "word_count": 248
-          },
-          "https://arbcentrix.com/insights": {
-            "min_words": 300,
-            "word_count": 208
-          },
-          "https://arbcentrix.com/locations": {
-            "min_words": 300,
-            "word_count": 213
-          },
-          "https://arbcentrix.com/newsletter": {
-            "min_words": 300,
-            "word_count": 0
-          }
-        },
-        "pages": 4
-      },
-      "id": "crawl_thin_content:thin_content",
-      "priority": null,
-      "queries": [],
-      "scores": null,
-      "severity": "low",
-      "title": "thin_content: 4 page(s)",
-      "type": "crawl_thin_content",
-      "urls": [
-        "https://arbcentrix.com/case-study",
-        "https://arbcentrix.com/insights",
-        "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/newsletter"
-      ]
-    },
-    {
-      "evidence": {
-        "examples": {
           "https://arbcentrix.com/": {
             "meta_description": "brand-only: 'Arbcentrix'",
             "title": "brand-only: 'Arbcentrix'"
@@ -239,9 +27,16 @@
         "pages": 61
       },
       "id": "crawl_title_meta_regression:title_meta_regression",
-      "priority": null,
+      "priority": 37.5,
       "queries": [],
-      "scores": null,
+      "rationale": "Crawl reports brand-only title and meta on all 61 pages; broad and high impact if real, but may be a crawler/Framer rendering artefact so verify first.",
+      "scores": {
+        "confidence": 3,
+        "effort": 2,
+        "impact": 5,
+        "relevance": 5,
+        "risk": 1
+      },
       "severity": "high",
       "title": "title_meta_regression: 61 page(s)",
       "type": "crawl_title_meta_regression",
@@ -311,41 +106,152 @@
     },
     {
       "evidence": {
-        "clicks": 1,
-        "ctr": 0.0667,
-        "impressions": 15,
-        "position": 5.07
+        "examples": {
+          "https://arbcentrix.com/kevin-mairs": {
+            "h1": []
+          },
+          "https://arbcentrix.com/maan-sacdalan": {
+            "h1": []
+          },
+          "https://arbcentrix.com/newsletter": {
+            "h1": []
+          },
+          "https://arbcentrix.com/ystevie-ty": {
+            "h1": []
+          }
+        },
+        "pages": 4
       },
-      "id": "striking_distance:savya financial center hiring|https://arbcentrix.com/careers",
-      "priority": null,
-      "queries": [
-        "savya financial center hiring"
-      ],
-      "scores": null,
-      "severity": null,
-      "title": "'savya financial center hiring' ranks 5.07 for https://arbcentrix.com/careers",
-      "type": "striking_distance",
+      "id": "crawl_h1_missing:h1_missing",
+      "priority": 18.0,
+      "queries": [],
+      "rationale": "4 pages (3 team bios, newsletter) have no H1; easy copy fix, minor SEO value.",
+      "scores": {
+        "confidence": 4,
+        "effort": 2,
+        "impact": 3,
+        "relevance": 3,
+        "risk": 1
+      },
+      "severity": "medium",
+      "title": "h1_missing: 4 page(s)",
+      "type": "crawl_h1_missing",
       "urls": [
-        "https://arbcentrix.com/careers"
+        "https://arbcentrix.com/kevin-mairs",
+        "https://arbcentrix.com/maan-sacdalan",
+        "https://arbcentrix.com/newsletter",
+        "https://arbcentrix.com/ystevie-ty"
       ]
     },
     {
       "evidence": {
-        "impressions": 0,
-        "window": [
-          "2026-09-25",
-          "2026-10-22"
-        ]
+        "examples": {
+          "https://arbcentrix.com/case-study": {
+            "min_words": 300,
+            "word_count": 248
+          },
+          "https://arbcentrix.com/insights": {
+            "min_words": 300,
+            "word_count": 208
+          },
+          "https://arbcentrix.com/locations": {
+            "min_words": 300,
+            "word_count": 213
+          },
+          "https://arbcentrix.com/newsletter": {
+            "min_words": 300,
+            "word_count": 0
+          }
+        },
+        "pages": 4
       },
-      "id": "critical_no_impressions:https://arbcentrix.com/services",
-      "priority": null,
+      "id": "crawl_thin_content:thin_content",
+      "priority": 8.0,
       "queries": [],
-      "scores": null,
-      "severity": null,
-      "title": "https://arbcentrix.com/services had no search impressions",
-      "type": "critical_no_impressions",
+      "rationale": "4 hub pages under 300 words; low-moderate value.",
+      "scores": {
+        "confidence": 4,
+        "effort": 3,
+        "impact": 2,
+        "relevance": 3,
+        "risk": 1
+      },
+      "severity": "low",
+      "title": "thin_content: 4 page(s)",
+      "type": "crawl_thin_content",
       "urls": [
-        "https://arbcentrix.com/services"
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/newsletter"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/accounting-services": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/case-study": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/client-accounting-services": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/compliance-operations-specialist": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/growth-marketing-officer": {
+            "inlinks": 0
+          }
+        },
+        "pages": 30
+      },
+      "id": "crawl_orphan_page:orphan_page",
+      "priority": 6.0,
+      "queries": [],
+      "rationale": "30 pages have zero crawled inlinks, may be crawl scope or Framer nav; internal links would help discovery.",
+      "scores": {
+        "confidence": 3,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 4,
+        "risk": 2
+      },
+      "severity": "medium",
+      "title": "orphan_page: 30 page(s)",
+      "type": "crawl_orphan_page",
+      "urls": [
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/client-accounting-services",
+        "https://arbcentrix.com/compliance-operations-specialist",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/insights/automation-without-anxiety",
+        "https://arbcentrix.com/insights/bridging-the-talent-gap",
+        "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
+        "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+        "https://arbcentrix.com/insights/capacity-planning",
+        "https://arbcentrix.com/insights/client-experience-upgrade",
+        "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
+        "https://arbcentrix.com/insights/data-driven-accounting",
+        "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
+        "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams",
+        "https://arbcentrix.com/insights/offshoring-myths-debunked",
+        "https://arbcentrix.com/insights/retention-over-recruitment",
+        "https://arbcentrix.com/insights/silent-attrition",
+        "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+        "https://arbcentrix.com/insights/the-advisory-advantage",
+        "https://arbcentrix.com/insights/the-modern-cpa-tech-stack",
+        "https://arbcentrix.com/insights/the-price-of-delay",
+        "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
+        "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/newsletter",
+        "https://arbcentrix.com/onboarding-specialist",
+        "https://arbcentrix.com/operations-specialist",
+        "https://arbcentrix.com/remote-auditor"
       ]
     },
     {
@@ -357,9 +263,16 @@
         ]
       },
       "id": "critical_no_impressions:https://arbcentrix.com/accounting",
-      "priority": null,
+      "priority": 5.0,
       "queries": [],
-      "scores": null,
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
       "severity": null,
       "title": "https://arbcentrix.com/accounting had no search impressions",
       "type": "critical_no_impressions",
@@ -376,9 +289,16 @@
         ]
       },
       "id": "critical_no_impressions:https://arbcentrix.com/audit",
-      "priority": null,
+      "priority": 5.0,
       "queries": [],
-      "scores": null,
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
       "severity": null,
       "title": "https://arbcentrix.com/audit had no search impressions",
       "type": "critical_no_impressions",
@@ -394,29 +314,17 @@
           "2026-10-22"
         ]
       },
-      "id": "critical_no_impressions:https://arbcentrix.com/contact",
-      "priority": null,
-      "queries": [],
-      "scores": null,
-      "severity": null,
-      "title": "https://arbcentrix.com/contact had no search impressions",
-      "type": "critical_no_impressions",
-      "urls": [
-        "https://arbcentrix.com/contact"
-      ]
-    },
-    {
-      "evidence": {
-        "impressions": 0,
-        "window": [
-          "2026-09-25",
-          "2026-10-22"
-        ]
-      },
       "id": "critical_no_impressions:https://arbcentrix.com/case-study",
-      "priority": null,
+      "priority": 5.0,
       "queries": [],
-      "scores": null,
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
       "severity": null,
       "title": "https://arbcentrix.com/case-study had no search impressions",
       "type": "critical_no_impressions",
@@ -432,15 +340,74 @@
           "2026-10-22"
         ]
       },
-      "id": "critical_no_impressions:https://arbcentrix.com/go-to-market-strategy-and-business-development",
-      "priority": null,
+      "id": "critical_no_impressions:https://arbcentrix.com/contact",
+      "priority": 5.0,
       "queries": [],
-      "scores": null,
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
+      "severity": null,
+      "title": "https://arbcentrix.com/contact had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/contact"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-09-25",
+          "2026-10-22"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/go-to-market-strategy-and-business-development",
+      "priority": 5.0,
+      "queries": [],
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
       "severity": null,
       "title": "https://arbcentrix.com/go-to-market-strategy-and-business-development had no search impressions",
       "type": "critical_no_impressions",
       "urls": [
         "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-09-25",
+          "2026-10-22"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/services",
+      "priority": 5.0,
+      "queries": [],
+      "rationale": "Critical page with zero impressions in 28 days; possibly GSC data or indexation issue, needs investigation.",
+      "scores": {
+        "confidence": 2,
+        "effort": 3,
+        "impact": 3,
+        "relevance": 5,
+        "risk": 2
+      },
+      "severity": null,
+      "title": "https://arbcentrix.com/services had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/services"
       ]
     },
     {
@@ -631,9 +598,16 @@
         "strategy": "mobile"
       },
       "id": "psi_poor:mobile",
-      "priority": null,
+      "priority": 3.2,
       "queries": [],
-      "scores": null,
+      "rationale": "15 critical pages slow on mobile (lab LCP 4.7-10.9s); fix is a developer project.",
+      "scores": {
+        "confidence": 4,
+        "effort": 5,
+        "impact": 3,
+        "relevance": 4,
+        "risk": 3
+      },
       "severity": null,
       "title": "15 critical page(s) slow on mobile",
       "type": "psi_poor",
@@ -653,6 +627,123 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/services",
         "https://arbcentrix.com/tax"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/": {
+            "h1": [
+              "Scale your operations without disruption.",
+              "We don't provide support. We enable operations",
+              "The Difference",
+              "Explore Our Solutions",
+              "This is how we operate when we work with you"
+            ],
+            "h1_count": 10
+          },
+          "https://arbcentrix.com/about": {
+            "h1": [
+              "About Us",
+              "Explore Our Solutions",
+              "Our Team"
+            ],
+            "h1_count": 3
+          },
+          "https://arbcentrix.com/accounting": {
+            "h1": [
+              "Let's Extend Your Accounting Team",
+              "The Challenge",
+              "How We Operate Within Your Operations:",
+              "High Impact Roles for US Businesses",
+              "How This is Executed:"
+            ],
+            "h1_count": 7
+          },
+          "https://arbcentrix.com/accounting-services": {
+            "h1": [
+              "The Challenge",
+              "How We Operate Within Your Operations:"
+            ],
+            "h1_count": 2
+          },
+          "https://arbcentrix.com/audit": {
+            "h1": [
+              "Maintain audit continuity without disruption",
+              "The Challenge",
+              "How We Operate Within Your Operations:",
+              "High Impact Roles for US Businesses",
+              "How This is Executed:"
+            ],
+            "h1_count": 8
+          }
+        },
+        "pages": 22
+      },
+      "id": "crawl_h1_multiple:h1_multiple",
+      "priority": 3.0,
+      "queries": [],
+      "rationale": "22 pages use many heading-1 tags, likely Framer layout; weak ranking effect, needs structural change.",
+      "scores": {
+        "confidence": 3,
+        "effort": 3,
+        "impact": 2,
+        "relevance": 3,
+        "risk": 2
+      },
+      "severity": "low",
+      "title": "h1_multiple: 22 page(s)",
+      "type": "crawl_h1_multiple",
+      "urls": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/accounting",
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/audit",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/compliance-operations-specialist",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/customer-care",
+        "https://arbcentrix.com/digital-transformation",
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/order-fulfillment-management",
+        "https://arbcentrix.com/property-management",
+        "https://arbcentrix.com/recruitment-and-onboarding",
+        "https://arbcentrix.com/remote-auditor",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/tax",
+        "https://arbcentrix.com/trust-center"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 1,
+        "ctr": 0.0667,
+        "impressions": 15,
+        "position": 5.07
+      },
+      "id": "striking_distance:savya financial center hiring|https://arbcentrix.com/careers",
+      "priority": 3.0,
+      "queries": [
+        "savya financial center hiring"
+      ],
+      "rationale": "Single job-seeker query at position 5, 15 impressions.",
+      "scores": {
+        "confidence": 3,
+        "effort": 2,
+        "impact": 1,
+        "relevance": 2,
+        "risk": 1
+      },
+      "severity": null,
+      "title": "'savya financial center hiring' ranks 5.07 for https://arbcentrix.com/careers",
+      "type": "striking_distance",
+      "urls": [
+        "https://arbcentrix.com/careers"
       ]
     }
   ],
@@ -1236,7 +1327,7 @@
       }
     }
   },
-  "labels_applied": false,
+  "labels_applied": true,
   "psi": {
     "date": "2026-10-22",
     "results": [
@@ -1728,7 +1819,7 @@
       "clicks": 42,
       "ctr": 0.3818,
       "impressions": 110,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 1.04,
       "query": "arbcentrix"
@@ -1738,7 +1829,7 @@
       "clicks": 1,
       "ctr": 0.0091,
       "impressions": 110,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/about",
       "position": 1.04,
       "query": "arbcentrix"
@@ -1748,7 +1839,7 @@
       "clicks": 9,
       "ctr": 0.0833,
       "impressions": 108,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/locations",
       "position": 1.04,
       "query": "arbcentrix"
@@ -1758,7 +1849,7 @@
       "clicks": 4,
       "ctr": 0.0396,
       "impressions": 101,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/careers",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1768,7 +1859,7 @@
       "clicks": 2,
       "ctr": 0.0202,
       "impressions": 99,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1778,7 +1869,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 69,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 6.9,
       "query": "absentrix"
@@ -1788,7 +1879,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 45,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/client-accounting-services",
       "position": 1.02,
       "query": "arbcentrix"
@@ -1798,7 +1889,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 29,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/loss-prevention",
       "position": 1.03,
       "query": "arbcentrix"
@@ -1808,7 +1899,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 17,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/property-management",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1818,7 +1909,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 15,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/order-fulfillment-management",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1828,7 +1919,7 @@
       "clicks": 5,
       "ctr": 0.3333,
       "impressions": 15,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1838,7 +1929,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 15,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/about",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1848,7 +1939,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 15,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/locations",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1858,7 +1949,7 @@
       "clicks": 1,
       "ctr": 0.0667,
       "impressions": 15,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/careers",
       "position": 5.07,
       "query": "savya financial center hiring"
@@ -1868,7 +1959,7 @@
       "clicks": 1,
       "ctr": 0.0714,
       "impressions": 14,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/careers",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1878,7 +1969,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/kevin-mairs",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1888,7 +1979,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1898,7 +1989,7 @@
       "clicks": 3,
       "ctr": 0.2727,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1908,7 +1999,7 @@
       "clicks": 1,
       "ctr": 0.0909,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/about",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1918,7 +2009,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/careers",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1928,7 +2019,7 @@
       "clicks": 1,
       "ctr": 0.0909,
       "impressions": 11,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/locations",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1938,7 +2029,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 10,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/customer-care",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1948,7 +2039,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 10,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/tax",
       "position": 1.0,
       "query": "arbcentrix"
@@ -1958,7 +2049,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 10,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 1.9,
       "query": "arbcentrix"
@@ -1968,7 +2059,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 9,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/kevin-mairs",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -1978,7 +2069,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 9,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/insights",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1988,7 +2079,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 9,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -1998,7 +2089,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 8,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/maan-sacdalan",
       "position": 1.0,
       "query": "arbcentrix"
@@ -2008,7 +2099,7 @@
       "clicks": 2,
       "ctr": 0.3333,
       "impressions": 6,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 3.33,
       "query": "abcentrix"
@@ -2018,7 +2109,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 6,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/loss-prevention",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -2028,7 +2119,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 6,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
       "position": 23.0,
       "query": "site:arbcentrix.com"
@@ -2038,7 +2129,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 6,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
       "position": 22.0,
       "query": "site:arbcentrix.com"
@@ -2048,7 +2139,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 6,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/insights/the-price-of-delay",
       "position": 21.0,
       "query": "site:arbcentrix.com"
@@ -2058,7 +2149,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/trust-center",
       "position": 1.0,
       "query": "arbcentrix"
@@ -2068,7 +2159,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/insights",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -2078,7 +2169,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/",
       "position": 1.0,
       "query": "site:arbcentrix.com"
@@ -2088,7 +2179,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/about",
       "position": 2.0,
       "query": "site:arbcentrix.com"
@@ -2098,7 +2189,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/accounting-services",
       "position": 8.0,
       "query": "site:arbcentrix.com"
@@ -2108,7 +2199,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/careers",
       "position": 3.0,
       "query": "site:arbcentrix.com"
@@ -2118,7 +2209,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/digital-transformation",
       "position": 7.0,
       "query": "site:arbcentrix.com"
@@ -2128,7 +2219,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/insights",
       "position": 6.0,
       "query": "site:arbcentrix.com"
@@ -2138,7 +2229,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/locations",
       "position": 4.25,
       "query": "site:arbcentrix.com"
@@ -2148,7 +2239,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/loss-prevention",
       "position": 9.0,
       "query": "site:arbcentrix.com"
@@ -2158,7 +2249,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 4,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/tax",
       "position": 4.75,
       "query": "site:arbcentrix.com"
@@ -2168,7 +2259,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 3,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/remote-auditor",
       "position": 1.0,
       "query": "arbcentrix"
@@ -2178,7 +2269,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 3,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/client-accounting-services",
       "position": 1.0,
       "query": "arbcentrix corp"
@@ -2188,7 +2279,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 3,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/trust-center",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2198,7 +2289,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 3,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/it-services",
       "position": 10.0,
       "query": "site:arbcentrix.com"
@@ -2208,7 +2299,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 68.5,
       "query": "arb lake forest ca"
@@ -2218,7 +2309,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/accounting-services",
       "position": 1.5,
       "query": "arbcentrix"
@@ -2228,7 +2319,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/digital-transformation",
       "position": 9.5,
       "query": "arbcentrix"
@@ -2238,7 +2329,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/insights",
       "position": 11.5,
       "query": "arbcentrix"
@@ -2248,7 +2339,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/it-services",
       "position": 1.0,
       "query": "arbcentrix"
@@ -2258,7 +2349,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/digital-transformation",
       "position": 6.5,
       "query": "arbcentrix corporation"
@@ -2268,7 +2359,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/loss-prevention",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2278,7 +2369,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "commercial",
       "page": "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
       "position": 7.5,
       "query": "firms that actually support adviser networks in manila"
@@ -2288,7 +2379,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1.0,
       "query": "hiring process"
@@ -2298,7 +2389,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/client-accounting-services",
       "position": 19.0,
       "query": "site:arbcentrix.com"
@@ -2308,7 +2399,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/growth-marketing-officer",
       "position": 18.0,
       "query": "site:arbcentrix.com"
@@ -2318,7 +2409,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/insights/silent-attrition",
       "position": 20.0,
       "query": "site:arbcentrix.com"
@@ -2328,7 +2419,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/kevin-mairs",
       "position": 13.0,
       "query": "site:arbcentrix.com"
@@ -2338,7 +2429,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/maan-sacdalan",
       "position": 12.0,
       "query": "site:arbcentrix.com"
@@ -2348,7 +2439,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/operations-specialist",
       "position": 15.0,
       "query": "site:arbcentrix.com"
@@ -2358,7 +2449,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 17.0,
       "query": "site:arbcentrix.com"
@@ -2368,7 +2459,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/remote-auditor",
       "position": 14.0,
       "query": "site:arbcentrix.com"
@@ -2378,7 +2469,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/trust-center",
       "position": 11.0,
       "query": "site:arbcentrix.com"
@@ -2388,7 +2479,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 2,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 16.0,
       "query": "site:arbcentrix.com"
@@ -2398,7 +2489,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/growth-marketing-officer",
       "position": 1.0,
       "query": "address"
@@ -2408,7 +2499,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/locations",
       "position": 7.0,
       "query": "address"
@@ -2418,7 +2509,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 37.0,
       "query": "arb core"
@@ -2428,7 +2519,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 58.0,
       "query": "arb enterprises"
@@ -2438,7 +2529,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 50.0,
       "query": "arb inc"
@@ -2448,7 +2539,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 37.0,
       "query": "arb intern"
@@ -2458,7 +2549,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 66.0,
       "query": "arb intern"
@@ -2468,7 +2559,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 8.0,
       "query": "arb team"
@@ -2478,7 +2569,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 35.0,
       "query": "arb-intern"
@@ -2488,7 +2579,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 64.0,
       "query": "arb-intern"
@@ -2498,7 +2589,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/growth-marketing-officer",
       "position": 1.0,
       "query": "arbcentrix"
@@ -2508,7 +2599,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 7.0,
       "query": "arbcentrix corp"
@@ -2518,7 +2609,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/client-accounting-services",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2528,7 +2619,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/customer-care",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2538,7 +2629,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/kevin-mairs",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2548,7 +2639,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/order-fulfillment-management",
       "position": 1.0,
       "query": "arbcentrix corporation"
@@ -2558,7 +2649,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 38.0,
       "query": "arbent"
@@ -2568,7 +2659,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 3.0,
       "query": "arbicenter"
@@ -2578,7 +2669,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 55.0,
       "query": "arbitech"
@@ -2588,7 +2679,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "branded",
       "page": "https://arbcentrix.com/",
       "position": 58.0,
       "query": "arbmatrix"
@@ -2598,7 +2689,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/",
       "position": 1.0,
       "query": "arbrix floor scrubber"
@@ -2608,7 +2699,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/about",
       "position": 12.0,
       "query": "centrix bpo"
@@ -2618,7 +2709,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/about",
       "position": 5.0,
       "query": "customer service representative position"
@@ -2628,7 +2719,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/careers",
       "position": 2.0,
       "query": "customer service representative position"
@@ -2638,7 +2729,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 4.0,
       "query": "customer service representative position"
@@ -2648,7 +2739,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/",
       "position": 1.0,
       "query": "hours of night shift"
@@ -2658,7 +2749,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/operations-specialist",
       "position": 3.0,
       "query": "hours of night shift"
@@ -2668,7 +2759,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/remote-auditor",
       "position": 2.0,
       "query": "hours of night shift"
@@ -2678,7 +2769,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/careers",
       "position": 1.0,
       "query": "it"
@@ -2688,7 +2779,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "navigational",
       "page": "https://arbcentrix.com/customer-care",
       "position": 10.0,
       "query": "site:arbcentrix.com"
@@ -2698,7 +2789,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/careers",
       "position": 1.0,
       "query": "yes how to apply"
@@ -2708,7 +2799,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/growth-marketing-officer",
       "position": 2.0,
       "query": "yes how to apply"
@@ -2718,7 +2809,7 @@
       "clicks": 0,
       "ctr": 0.0,
       "impressions": 1,
-      "intent": null,
+      "intent": "informational",
       "page": "https://arbcentrix.com/operations-specialist",
       "position": 3.0,
       "query": "yes how to apply"
