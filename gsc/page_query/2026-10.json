@@ -18,9 +18,10 @@
     "2026-10-16": "2026-10-22T22:14:42+00:00",
     "2026-10-17": "2026-10-23T22:15:05+00:00",
     "2026-10-18": "2026-10-24T22:14:44+00:00",
-    "2026-10-19": "2026-10-24T22:14:44+00:00",
-    "2026-10-20": "2026-10-24T22:14:44+00:00",
-    "2026-10-21": "2026-10-24T22:14:44+00:00"
+    "2026-10-19": "2026-10-25T22:14:12+00:00",
+    "2026-10-20": "2026-10-25T22:14:12+00:00",
+    "2026-10-21": "2026-10-25T22:14:12+00:00",
+    "2026-10-22": "2026-10-25T22:14:12+00:00"
   },
   "rows": [
     {
@@ -1520,6 +1521,70 @@
       "query": "arbcentrix"
     },
     {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 55,
+      "query": "arbitech"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2,
+      "query": "savya financial center hiring"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2,
+      "query": "arbcentrix"
+    },
+    {
       "clicks": 1,
       "date": "2026-10-02",
       "impressions": 2,
@@ -1677,70 +1742,6 @@
       "impressions": 2,
       "page": "https://arbcentrix.com/",
       "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/",
-      "position": 55,
-      "query": "arbitech"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/about",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/careers",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/careers",
-      "position": 2,
-      "query": "savya financial center hiring"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/kevin-mairs",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/ystevie-ty",
-      "position": 2,
       "query": "arbcentrix"
     },
     {
@@ -2246,6 +2247,198 @@
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1,
       "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 58,
+      "query": "arb enterprises"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 3,
+      "query": "arbicenter"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 12,
+      "query": "centrix bpo"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 6.5,
+      "query": "savya financial center hiring"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 6,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix corporation"
     },
     {
       "clicks": 3,
