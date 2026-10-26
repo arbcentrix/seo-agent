@@ -22,8 +22,9 @@
     "2026-10-20": "2026-10-23T22:15:06+00:00",
     "2026-10-21": "2026-10-24T22:14:45+00:00",
     "2026-10-22": "2026-10-25T22:45:08+00:00",
-    "2026-10-23": "2026-10-25T22:45:08+00:00",
-    "2026-10-24": "2026-10-25T22:45:08+00:00"
+    "2026-10-23": "2026-10-26T22:14:35+00:00",
+    "2026-10-24": "2026-10-26T22:14:35+00:00",
+    "2026-10-25": "2026-10-26T22:14:35+00:00"
   },
   "rows": [
     {
@@ -64,18 +65,27 @@
     },
     {
       "date": "2026-10-22",
-      "engagedSessions": 3,
+      "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
+      "landingPage": "/locations",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 17,
-      "totalUsers": 17
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-10-22",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-22",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
@@ -91,21 +101,12 @@
     },
     {
       "date": "2026-10-22",
-      "engagedSessions": 0,
+      "engagedSessions": 3,
       "keyEvents": 0,
-      "landingPage": "/locations",
+      "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-10-22",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/locations",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessions": 17,
+      "totalUsers": 17
     },
     {
       "date": "2026-10-22",
@@ -186,6 +187,96 @@
       "landingPage": "/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 4,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-25",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
       "totalUsers": 1
     }
   ]
