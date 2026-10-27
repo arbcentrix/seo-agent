@@ -23,8 +23,9 @@
     "2026-10-21": "2026-10-24T22:14:45+00:00",
     "2026-10-22": "2026-10-25T22:45:08+00:00",
     "2026-10-23": "2026-10-26T22:14:35+00:00",
-    "2026-10-24": "2026-10-26T22:14:35+00:00",
-    "2026-10-25": "2026-10-26T22:14:35+00:00"
+    "2026-10-24": "2026-10-27T22:15:21+00:00",
+    "2026-10-25": "2026-10-27T22:15:21+00:00",
+    "2026-10-26": "2026-10-27T22:15:21+00:00"
   },
   "rows": [
     {
@@ -119,19 +120,10 @@
     },
     {
       "date": "2026-10-23",
-      "engagedSessions": 2,
+      "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
+      "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-10-23",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -139,8 +131,17 @@
       "date": "2026-10-23",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/careers",
+      "landingPage": "/recruitment-and-onboarding",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-23",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -155,12 +156,12 @@
     },
     {
       "date": "2026-10-23",
-      "engagedSessions": 0,
+      "engagedSessions": 2,
       "keyEvents": 0,
-      "landingPage": "/recruitment-and-onboarding",
+      "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-10-23",
@@ -278,6 +279,141 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 3,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 12,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 15,
+      "totalUsers": 10
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 6,
+      "totalUsers": 6
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 3,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/audit",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/customer-care",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/go-to-market-strategy-and-business-development",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/order-fulfillment-management",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/property-management",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 2
     }
   ]
 }
