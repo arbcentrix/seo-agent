@@ -6,7 +6,7 @@
       "words_now": 918
     },
     "first_seen": "2026-10-26T12:37:25+00:00",
-    "last_seen": "2026-10-30T08:31:58+00:00",
+    "last_seen": "2026-10-30T12:38:11+00:00",
     "rule": "content_shrink",
     "severity": "medium",
     "url": "https://arbcentrix.com/recruitment-and-onboarding"
@@ -17,7 +17,7 @@
       "title": "brand-only: 'Arbcentrix'"
     },
     "first_seen": "2026-10-27T00:29:47+00:00",
-    "last_seen": "2026-10-30T08:31:58+00:00",
+    "last_seen": "2026-10-30T12:38:11+00:00",
     "rule": "title_meta_regression",
     "severity": "high",
     "url": "https://arbcentrix.com/terms"
