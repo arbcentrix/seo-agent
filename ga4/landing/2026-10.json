@@ -26,8 +26,9 @@
     "2026-10-24": "2026-10-27T22:15:21+00:00",
     "2026-10-25": "2026-10-27T22:15:21+00:00",
     "2026-10-26": "2026-10-29T22:15:42+00:00",
-    "2026-10-27": "2026-10-29T22:15:42+00:00",
-    "2026-10-28": "2026-10-29T22:15:42+00:00"
+    "2026-10-27": "2026-10-30T22:14:58+00:00",
+    "2026-10-28": "2026-10-30T22:14:58+00:00",
+    "2026-10-29": "2026-10-30T22:14:58+00:00"
   },
   "rows": [
     {
@@ -284,21 +285,12 @@
     },
     {
       "date": "2026-10-26",
-      "engagedSessions": 12,
+      "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 15,
-      "totalUsers": 10
-    },
-    {
-      "date": "2026-10-26",
-      "engagedSessions": 3,
-      "keyEvents": 0,
-      "landingPage": "/",
+      "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 6,
-      "totalUsers": 6
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-10-26",
@@ -311,30 +303,39 @@
     },
     {
       "date": "2026-10-26",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 3,
-      "totalUsers": 3
-    },
-    {
-      "date": "2026-10-26",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-10-26",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/go-to-market-strategy-and-business-development",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/property-management",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 12,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 15,
+      "totalUsers": 10
+    },
+    {
+      "date": "2026-10-26",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 3
     },
     {
       "date": "2026-10-26",
@@ -347,12 +348,12 @@
     },
     {
       "date": "2026-10-26",
-      "engagedSessions": 1,
+      "engagedSessions": 3,
       "keyEvents": 0,
-      "landingPage": "/property-management",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 6,
+      "totalUsers": 6
     },
     {
       "date": "2026-10-26",
@@ -410,11 +411,11 @@
     },
     {
       "date": "2026-10-28",
-      "engagedSessions": 10,
+      "engagedSessions": 11,
       "keyEvents": 0,
       "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 14,
+      "sessions": 15,
       "totalUsers": 12
     },
     {
@@ -432,15 +433,6 @@
       "keyEvents": 0,
       "landingPage": "/",
       "sessionDefaultChannelGroup": "Organic Social",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-28",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Unassigned",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -565,18 +557,108 @@
       "date": "2026-10-28",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/services",
-      "sessionDefaultChannelGroup": "Unassigned",
-      "sessions": 2,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-28",
-      "engagedSessions": 0,
-      "keyEvents": 0,
       "landingPage": "/tax",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 5,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 5
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/digital-transformation",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/operations-specialist",
+      "sessionDefaultChannelGroup": "AI Assistant",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 2,
       "totalUsers": 1
     }
   ]

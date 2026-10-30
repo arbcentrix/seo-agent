@@ -1,7 +1,7 @@
 {
   "base_url": "https://arbcentrix.com",
   "build_signature": "b85817dc27a80a44",
-  "fetched_at": "2026-10-30T20:28:55+00:00",
+  "fetched_at": "2026-10-30T22:16:04+00:00",
   "graph": {
     "inlinks": {
       "https://arbcentrix.com/": [
@@ -1437,7 +1437,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -1561,7 +1560,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -1667,7 +1665,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -1716,7 +1713,6 @@
       "canonicals": [
         "https://arbcentrix.com/accounting-services"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"d61db53dabba4a2ad851cabb53b91a0c\"",
@@ -1871,7 +1867,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -1912,7 +1907,6 @@
       "canonicals": [
         "https://arbcentrix.com/careers"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"2ca7d601f44bdd78f8dc4f2b05fc0f52\"",
@@ -2059,7 +2053,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -2104,8 +2097,6 @@
       "canonicals": [
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"6f0b740252bd61c7ba195fbadfbd078c\"",
@@ -2152,7 +2143,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:15 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -2199,8 +2190,6 @@
       "canonicals": [
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"3907e60a30be0a5020cdcd013f5c2670\"",
@@ -2253,7 +2242,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:11 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -2300,8 +2289,6 @@
       "canonicals": [
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"5a50291bf24e784b6d7d00d4c6b09b54\"",
@@ -2354,7 +2341,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:13 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -2401,7 +2388,6 @@
       "canonicals": [
         "https://arbcentrix.com/case-study/why-capacity-feels-fragile"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"c8a48914f8f5900fce8a1bdd82efcc70\"",
@@ -2494,8 +2480,6 @@
       "canonicals": [
         "https://arbcentrix.com/client-accounting-services"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"954b1d40d566ddd158529e75ecfb4e3c\"",
@@ -2541,7 +2525,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:30:52 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -2582,8 +2566,6 @@
       "canonicals": [
         "https://arbcentrix.com/compliance-operations-specialist"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"59a443113f0f6e6df9f7b4ac664213cb\"",
@@ -2631,7 +2613,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:30:59 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -2721,7 +2703,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -2828,7 +2809,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -2937,7 +2917,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -3037,7 +3016,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -3076,8 +3054,6 @@
       "canonicals": [
         "https://arbcentrix.com/growth-marketing-officer"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"ba83ad8b13903a045039daf7f1c26571\"",
@@ -3125,7 +3101,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:30:57 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3220,7 +3196,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -3264,8 +3239,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/automation-without-anxiety"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"164a1b344ac90a189468ecb19cc913a2\"",
@@ -3315,7 +3288,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:36 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3361,7 +3334,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/bridging-the-talent-gap"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"8c9c7642ff96099062d07280bc1b83b9\"",
@@ -3459,8 +3431,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"ef393cb7f656f38cd10fecb515935c33\"",
@@ -3506,7 +3476,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:52 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3552,8 +3522,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/burnout-in-the-numbers-business"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"944dec10924eaf0b51e89bed66bc8494\"",
@@ -3599,7 +3567,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:45 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3645,8 +3613,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/capacity-planning"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"d56d16724564721d0fb204d24104d6e0\"",
@@ -3695,7 +3661,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:31 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3741,8 +3707,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/client-experience-upgrade"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"a9fb579f59e2c1b4f11b77db6ced0767\"",
@@ -3793,7 +3757,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:35 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3839,8 +3803,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"8af99d63717782a8421798d0c294ed71\"",
@@ -3886,7 +3848,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:55 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -3932,8 +3894,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/data-driven-accounting"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"5737dbba6d8d2c464f1c565d7f8f0c25\"",
@@ -3983,7 +3943,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:39 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4029,7 +3989,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/future-proofing-your-cpa-firm"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"85aaaa6eed7bf8ad6138ae3f23cdf1e7\"",
@@ -4121,7 +4080,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"e7fda0a04818e0c7c7873fa1456554f2\"",
@@ -4213,8 +4171,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/metrics-that-matter"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"d5e3cbac3a814c7be573b07bc4569d9c\"",
@@ -4264,7 +4220,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:27 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4310,7 +4266,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/offshoring-myths-debunked"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"d1cc593b14d0e6ecddb3079f065446b9\"",
@@ -4402,8 +4357,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/people-tech"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"34ae54c35506cbf4b0d22659b3faf420\"",
@@ -4454,7 +4407,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:25 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4500,8 +4453,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/reinventing-the-partner-role"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"b44640d93508da5f0fbc8080e2cd5a80\"",
@@ -4552,7 +4503,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:23 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4598,8 +4549,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/retention-over-recruitment"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"47f70f7467d5494a36cbbddc692809da\"",
@@ -4645,7 +4594,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:50 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4691,8 +4640,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/retention-starts-with-respect"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"1075802576604477b6cf5c9cf4059d57\"",
@@ -4741,7 +4688,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4787,7 +4734,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/silent-attrition"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"fcc3edd7f411a3ada15bb6fcad371cc1\"",
@@ -4879,8 +4825,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/smarter-business-scaling-beyond-headcount"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"2d5ae67660f66f54c84a802ed9f801c8\"",
@@ -4934,7 +4878,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:19 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -4980,8 +4924,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"1d891e53d243ce1eae92780dfe517fb4\"",
@@ -5028,7 +4970,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:42 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5074,8 +5016,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"68d0903dcb42590faaab9e3f05681f0f\"",
@@ -5128,7 +5068,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:17 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5174,8 +5114,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/the-advisory-advantage"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"8140755bdee0b1ea3e2abca01db6c14a\"",
@@ -5225,7 +5163,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:29 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5271,8 +5209,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/the-modern-cpa-tech-stack"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"d759efcc02dfb89999108be7f32c215b\"",
@@ -5322,7 +5258,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5368,7 +5304,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/the-price-of-delay"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"acf407c47a9189f2d7cbe1a8897397dd\"",
@@ -5460,7 +5395,6 @@
       "canonicals": [
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"81d86c7fc2d320befb39ca51a1a3422e\"",
@@ -5552,8 +5486,6 @@
       "canonicals": [
         "https://arbcentrix.com/it-services"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"be432d0658b43c6af1304416a86a35ae\"",
@@ -5615,7 +5547,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:06 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5654,7 +5586,6 @@
       "canonicals": [
         "https://arbcentrix.com/kevin-mairs"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"cb8d55b45951a9d40c26155fd4829522\"",
@@ -5741,7 +5672,6 @@
       "canonicals": [
         "https://arbcentrix.com/locations"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"04a682dc1808c46740ef87cf2b525af6\"",
@@ -5835,8 +5765,6 @@
       "canonicals": [
         "https://arbcentrix.com/loss-prevention"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"c324f2ec4dc2924a82118417ab7174ed\"",
@@ -5896,7 +5824,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:08 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -5935,7 +5863,6 @@
       "canonicals": [
         "https://arbcentrix.com/maan-sacdalan"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"5adeebe2a33be64b107e20224aa8e09a\"",
@@ -6013,8 +5940,6 @@
       "canonicals": [
         "https://arbcentrix.com/newsletter"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"b8a7067c7d05d5449a83539a30ede500\"",
@@ -6045,7 +5970,7 @@
       "has_form": false,
       "in_sitemap": true,
       "internal_links": [],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:30:54 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -6084,8 +6009,6 @@
       "canonicals": [
         "https://arbcentrix.com/onboarding-specialist"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"a01c178014d631d7de55a0fcdcac92b6\"",
@@ -6132,7 +6055,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:02 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
@@ -6171,7 +6094,6 @@
       "canonicals": [
         "https://arbcentrix.com/operations-specialist"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"60741dd340eb98c5d4c9089b6d052f58\"",
@@ -6324,7 +6246,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -6362,7 +6283,6 @@
       "canonicals": [
         "https://arbcentrix.com/privacy-policy"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"628d2ac0eeb9aaf4bf9d849d1cc3ac1e\"",
@@ -6514,7 +6434,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -6622,7 +6541,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:22 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -6661,7 +6579,6 @@
       "canonicals": [
         "https://arbcentrix.com/remote-auditor"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"59813f80bd8662633a97938f2f38ff57\"",
@@ -6814,7 +6731,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -6921,7 +6837,6 @@
       "last_modified": "Fri, 30 Oct 2026 05:30:21 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
-      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -6959,8 +6874,6 @@
       "canonicals": [
         "https://arbcentrix.com/terms"
       ],
-      "carried": true,
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"c571dfb853e40247534991b18a283c5e\"",
@@ -7007,7 +6920,7 @@
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Fri, 30 Oct 2026 05:30:20 GMT",
+      "last_modified": "Fri, 30 Oct 2026 08:31:59 GMT",
       "meta_description": "Arbcentrix",
       "noindex": true,
       "redirects": [],
@@ -7055,7 +6968,6 @@
       "canonicals": [
         "https://arbcentrix.com/trust-center"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"353f63c9a75865c2cbcdbb137e763a3f\"",
@@ -7147,7 +7059,6 @@
       "canonicals": [
         "https://arbcentrix.com/ystevie-ty"
       ],
-      "carried": true,
       "empty_shell": false,
       "error": null,
       "etag": "\"421d49cba4dcd100fd4c7f0bcb1175b0\"",
@@ -7289,17 +7200,5 @@
       "https://arbcentrix.com/insights/silent-attrition"
     ]
   },
-  "truncated": false,
-  "watch": {
-    "build_signature": "b85817dc27a80a44",
-    "build_signature_before": "b85817dc27a80a44",
-    "carried": 46,
-    "changed": {},
-    "fetched": 15,
-    "mode": "quiet",
-    "new_pages": [],
-    "not_modified": 15,
-    "reasons": [],
-    "removed_pages": []
-  }
+  "truncated": false
 }
