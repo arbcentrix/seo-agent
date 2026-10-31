@@ -24,9 +24,10 @@
     "2026-10-22": "2026-10-27T22:15:19+00:00",
     "2026-10-23": "2026-10-29T22:15:41+00:00",
     "2026-10-24": "2026-10-30T22:14:57+00:00",
-    "2026-10-25": "2026-10-30T22:14:57+00:00",
-    "2026-10-26": "2026-10-30T22:14:57+00:00",
-    "2026-10-27": "2026-10-30T22:14:57+00:00"
+    "2026-10-25": "2026-10-31T22:14:50+00:00",
+    "2026-10-26": "2026-10-31T22:14:50+00:00",
+    "2026-10-27": "2026-10-31T22:14:50+00:00",
+    "2026-10-28": "2026-10-31T22:14:50+00:00"
   },
   "rows": [
     {
@@ -2262,6 +2263,14 @@
       "query": "arbcentrix"
     },
     {
+      "clicks": 0,
+      "date": "2026-10-24",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 62,
+      "query": "arbantech"
+    },
+    {
       "clicks": 1,
       "date": "2026-10-02",
       "impressions": 2,
@@ -2508,14 +2517,6 @@
       "page": "https://arbcentrix.com/locations",
       "position": 1,
       "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-10-24",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/",
-      "position": 62,
-      "query": "arbantech"
     },
     {
       "clicks": 0,
@@ -2996,6 +2997,78 @@
       "page": "https://arbcentrix.com/trust-center",
       "position": 1,
       "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 4,
+      "query": "abcentrix"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1,
+      "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-10-28",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 4,
+      "query": "dennis ty"
     },
     {
       "clicks": 3,

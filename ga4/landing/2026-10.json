@@ -27,8 +27,9 @@
     "2026-10-25": "2026-10-27T22:15:21+00:00",
     "2026-10-26": "2026-10-29T22:15:42+00:00",
     "2026-10-27": "2026-10-30T22:14:58+00:00",
-    "2026-10-28": "2026-10-30T22:14:58+00:00",
-    "2026-10-29": "2026-10-30T22:14:58+00:00"
+    "2026-10-28": "2026-10-31T22:14:51+00:00",
+    "2026-10-29": "2026-10-31T22:14:51+00:00",
+    "2026-10-30": "2026-10-31T22:14:51+00:00"
   },
   "rows": [
     {
@@ -366,21 +367,12 @@
     },
     {
       "date": "2026-10-27",
-      "engagedSessions": 7,
+      "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 12,
-      "totalUsers": 7
-    },
-    {
-      "date": "2026-10-27",
-      "engagedSessions": 4,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 4,
-      "totalUsers": 4
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
     },
     {
       "date": "2026-10-27",
@@ -402,12 +394,21 @@
     },
     {
       "date": "2026-10-27",
-      "engagedSessions": 0,
+      "engagedSessions": 4,
       "keyEvents": 0,
-      "landingPage": "/recruitment-and-onboarding",
-      "sessionDefaultChannelGroup": "Referral",
-      "sessions": 1,
-      "totalUsers": 1
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 4,
+      "totalUsers": 4
+    },
+    {
+      "date": "2026-10-27",
+      "engagedSessions": 7,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 12,
+      "totalUsers": 7
     },
     {
       "date": "2026-10-28",
@@ -660,6 +661,60 @@
       "sessionDefaultChannelGroup": "Referral",
       "sessions": 2,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/why-capacity-feels-fragile",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
     }
   ]
 }
