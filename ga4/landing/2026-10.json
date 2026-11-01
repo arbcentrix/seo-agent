@@ -28,8 +28,9 @@
     "2026-10-26": "2026-10-29T22:15:42+00:00",
     "2026-10-27": "2026-10-30T22:14:58+00:00",
     "2026-10-28": "2026-10-31T22:14:51+00:00",
-    "2026-10-29": "2026-10-31T22:14:51+00:00",
-    "2026-10-30": "2026-10-31T22:14:51+00:00"
+    "2026-10-29": "2026-11-01T22:14:46+00:00",
+    "2026-10-30": "2026-11-01T22:14:46+00:00",
+    "2026-10-31": "2026-11-01T22:14:46+00:00"
   },
   "rows": [
     {
@@ -412,24 +413,6 @@
     },
     {
       "date": "2026-10-28",
-      "engagedSessions": 11,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 15,
-      "totalUsers": 12
-    },
-    {
-      "date": "2026-10-28",
-      "engagedSessions": 3,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 3,
-      "totalUsers": 3
-    },
-    {
-      "date": "2026-10-28",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/",
@@ -475,15 +458,6 @@
     },
     {
       "date": "2026-10-28",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-28",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
@@ -502,27 +476,9 @@
     },
     {
       "date": "2026-10-28",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/customer-care",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-28",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/locations",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-28",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/maan-sacdalan",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
@@ -547,6 +503,51 @@
     },
     {
       "date": "2026-10-28",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/tax",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-28",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-28",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/customer-care",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-28",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/maan-sacdalan",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-28",
+      "engagedSessions": 11,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 15,
+      "totalUsers": 12
+    },
+    {
+      "date": "2026-10-28",
       "engagedSessions": 2,
       "keyEvents": 0,
       "landingPage": "/services",
@@ -556,12 +557,12 @@
     },
     {
       "date": "2026-10-28",
-      "engagedSessions": 0,
+      "engagedSessions": 3,
       "keyEvents": 0,
-      "landingPage": "/tax",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
     },
     {
       "date": "2026-10-29",
@@ -715,6 +716,33 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 2,
       "totalUsers": 2
+    },
+    {
+      "date": "2026-10-31",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-31",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-31",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
     }
   ]
 }
