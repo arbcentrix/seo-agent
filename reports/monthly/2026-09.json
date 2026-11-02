@@ -1,0 +1,6500 @@
+{
+  "candidates": [
+    {
+      "evidence": {
+        "best_page": "https://arbcentrix.com/",
+        "best_position": 55.8,
+        "impressions": 5
+      },
+      "id": "content_gap:arb inc",
+      "priority": null,
+      "queries": [
+        "arb inc"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'arb inc' ranks 55.8 at best",
+      "type": "content_gap",
+      "urls": [
+        "https://arbcentrix.com/"
+      ]
+    },
+    {
+      "evidence": {
+        "best_page": "https://arbcentrix.com/",
+        "best_position": 63.29,
+        "impressions": 7
+      },
+      "id": "content_gap:arb lake forest ca",
+      "priority": null,
+      "queries": [
+        "arb lake forest ca"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'arb lake forest ca' ranks 63.29 at best",
+      "type": "content_gap",
+      "urls": [
+        "https://arbcentrix.com/"
+      ]
+    },
+    {
+      "evidence": {
+        "best_page": "https://arbcentrix.com/",
+        "best_position": 28.44,
+        "impressions": 9
+      },
+      "id": "content_gap:concentrix bgc",
+      "priority": null,
+      "queries": [
+        "concentrix bgc"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'concentrix bgc' ranks 28.44 at best",
+      "type": "content_gap",
+      "urls": [
+        "https://arbcentrix.com/"
+      ]
+    },
+    {
+      "evidence": {
+        "best_page": "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
+        "best_position": 82.89,
+        "impressions": 9
+      },
+      "id": "content_gap:which trusted audit firms support startups in the philippines",
+      "priority": null,
+      "queries": [
+        "which trusted audit firms support startups in the philippines"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'which trusted audit firms support startups in the philippines' ranks 82.89 at best",
+      "type": "content_gap",
+      "urls": [
+        "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity"
+      ]
+    },
+    {
+      "evidence": {
+        "growth": null,
+        "impressions": 7,
+        "impressions_before": 0
+      },
+      "id": "rising_query:arb lake forest ca",
+      "priority": null,
+      "queries": [
+        "arb lake forest ca"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'arb lake forest ca' impressions 0 -> 7",
+      "type": "rising_query",
+      "urls": [
+        "https://arbcentrix.com/"
+      ]
+    },
+    {
+      "evidence": {
+        "growth": null,
+        "impressions": 7,
+        "impressions_before": 0
+      },
+      "id": "rising_query:what is their line of business",
+      "priority": null,
+      "queries": [
+        "what is their line of business"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'what is their line of business' impressions 0 -> 7",
+      "type": "rising_query",
+      "urls": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/recruitment-and-onboarding",
+        "https://arbcentrix.com/ystevie-ty"
+      ]
+    },
+    {
+      "evidence": {
+        "growth": null,
+        "impressions": 9,
+        "impressions_before": 0
+      },
+      "id": "rising_query:which trusted audit firms support startups in the philippines",
+      "priority": null,
+      "queries": [
+        "which trusted audit firms support startups in the philippines"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'which trusted audit firms support startups in the philippines' impressions 0 -> 9",
+      "type": "rising_query",
+      "urls": [
+        "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/services",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/services had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/services"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/accounting",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/accounting had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/accounting"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/audit",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/audit had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/audit"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/contact",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/contact had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/contact"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 2
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/case-study",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/case-study had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/case-study"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/customer-care",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/customer-care had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/customer-care"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/property-management",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/property-management had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/property-management"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 163
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/digital-transformation",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/digital-transformation had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/digital-transformation"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/go-to-market-strategy-and-business-development",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/go-to-market-strategy-and-business-development had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "impressions": 0
+      },
+      "id": "critical_page_flat:https://arbcentrix.com/order-fulfillment-management",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/order-fulfillment-management had no clicks in 3 months",
+      "type": "critical_page_flat",
+      "urls": [
+        "https://arbcentrix.com/order-fulfillment-management"
+      ]
+    }
+  ],
+  "generated_at": "2026-11-02T23:44:50+00:00",
+  "history": {
+    "by_month": {
+      "2026-10": {
+        "alerts_new": 2,
+        "errors": 8,
+        "runs": 70
+      },
+      "2026-11": {
+        "alerts_new": 0,
+        "errors": 3,
+        "runs": 17
+      }
+    },
+    "open_alerts": 2
+  },
+  "months": {
+    "available": [
+      "2025-07",
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09"
+    ],
+    "last_3": [
+      "2026-07",
+      "2026-08",
+      "2026-09"
+    ],
+    "last_3_last_year": [
+      "2025-07",
+      "2025-08",
+      "2025-09"
+    ],
+    "last_complete": "2026-09",
+    "previous_3": [
+      "2026-04",
+      "2026-05",
+      "2026-06"
+    ],
+    "series": [
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09"
+    ]
+  },
+  "pages": {
+    "three_month": [
+      {
+        "before": {
+          "clicks": 264,
+          "ctr": 0.1717,
+          "impressions": 1538,
+          "position": 3.3
+        },
+        "now": {
+          "clicks": 215,
+          "ctr": 0.1509,
+          "impressions": 1425,
+          "position": 6.89
+        },
+        "page": "https://arbcentrix.com/"
+      },
+      {
+        "before": {
+          "clicks": 22,
+          "ctr": 0.0196,
+          "impressions": 1120,
+          "position": 2.41
+        },
+        "now": {
+          "clicks": 27,
+          "ctr": 0.0274,
+          "impressions": 984,
+          "position": 3.35
+        },
+        "page": "https://arbcentrix.com/about"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 607,
+          "position": 2.9
+        },
+        "now": {
+          "clicks": 1,
+          "ctr": 0.0042,
+          "impressions": 237,
+          "position": 3.54
+        },
+        "page": "https://arbcentrix.com/accounting-services"
+      },
+      {
+        "before": {
+          "clicks": 37,
+          "ctr": 0.0319,
+          "impressions": 1161,
+          "position": 3.02
+        },
+        "now": {
+          "clicks": 51,
+          "ctr": 0.0494,
+          "impressions": 1033,
+          "position": 3.46
+        },
+        "page": "https://arbcentrix.com/careers"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 51,
+          "position": 4.96
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 8.0
+        },
+        "page": "https://arbcentrix.com/case-study"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 23,
+          "position": 6.83
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 7,
+          "position": 11.86
+        },
+        "page": "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 10.0
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 18,
+          "position": 11.61
+        },
+        "page": "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 8.0
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 11.5
+        },
+        "page": "https://arbcentrix.com/case-study/why-capacity-feels-fragile"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 126,
+          "position": 2.53
+        },
+        "page": "https://arbcentrix.com/client-accounting-services"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 259,
+          "position": 6.03
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 163,
+          "position": 13.1
+        },
+        "page": "https://arbcentrix.com/digital-transformation"
+      },
+      {
+        "before": {
+          "clicks": 1,
+          "ctr": 0.0021,
+          "impressions": 468,
+          "position": 2.7
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "page": "https://arbcentrix.com/general-bpo"
+      },
+      {
+        "before": {
+          "clicks": 3,
+          "ctr": 0.0076,
+          "impressions": 395,
+          "position": 3.14
+        },
+        "now": {
+          "clicks": 3,
+          "ctr": 0.007,
+          "impressions": 429,
+          "position": 3.93
+        },
+        "page": "https://arbcentrix.com/growth-marketing-officer"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 296,
+          "position": 2.03
+        },
+        "now": {
+          "clicks": 1,
+          "ctr": 0.0054,
+          "impressions": 184,
+          "position": 3.8
+        },
+        "page": "https://arbcentrix.com/insights"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 20,
+          "position": 5.35
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "page": "https://arbcentrix.com/insights/automation-without-anxiety"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 7.62
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 18.0
+        },
+        "page": "https://arbcentrix.com/insights/data-driven-accounting"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 36,
+          "position": 5.58
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 14,
+          "position": 27.43
+        },
+        "page": "https://arbcentrix.com/insights/future-proofing-your-cpa-firm"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 1.0
+        },
+        "page": "https://arbcentrix.com/insights/metrics-that-matter"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 4.0
+        },
+        "page": "https://arbcentrix.com/insights/people-tech"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 76,
+          "position": 7.76
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 65,
+          "position": 11.28
+        },
+        "page": "https://arbcentrix.com/insights/silent-attrition"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 16,
+          "position": 49.69
+        },
+        "page": "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 22,
+          "position": 4.41
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 11,
+          "position": 17.18
+        },
+        "page": "https://arbcentrix.com/insights/the-price-of-delay"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 38,
+          "position": 24.79
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "page": "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 58,
+          "position": 4.64
+        },
+        "now": {
+          "clicks": 3,
+          "ctr": 0.0476,
+          "impressions": 63,
+          "position": 5.76
+        },
+        "page": "https://arbcentrix.com/it-services"
+      },
+      {
+        "before": {
+          "clicks": 1,
+          "ctr": 0.0067,
+          "impressions": 149,
+          "position": 3.86
+        },
+        "now": {
+          "clicks": 2,
+          "ctr": 0.0121,
+          "impressions": 165,
+          "position": 2.82
+        },
+        "page": "https://arbcentrix.com/kevin-mairs"
+      },
+      {
+        "before": {
+          "clicks": 68,
+          "ctr": 0.072,
+          "impressions": 944,
+          "position": 1.91
+        },
+        "now": {
+          "clicks": 50,
+          "ctr": 0.0591,
+          "impressions": 846,
+          "position": 2.48
+        },
+        "page": "https://arbcentrix.com/locations"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 20,
+          "position": 10.75
+        },
+        "page": "https://arbcentrix.com/loss-prevention"
+      },
+      {
+        "before": {
+          "clicks": 6,
+          "ctr": 0.0444,
+          "impressions": 135,
+          "position": 4.25
+        },
+        "now": {
+          "clicks": 5,
+          "ctr": 0.0667,
+          "impressions": 75,
+          "position": 4.31
+        },
+        "page": "https://arbcentrix.com/maan-sacdalan"
+      },
+      {
+        "before": {
+          "clicks": 2,
+          "ctr": 0.0168,
+          "impressions": 119,
+          "position": 6.02
+        },
+        "now": {
+          "clicks": 2,
+          "ctr": 0.0278,
+          "impressions": 72,
+          "position": 5.22
+        },
+        "page": "https://arbcentrix.com/operations-specialist"
+      },
+      {
+        "before": {
+          "clicks": 1,
+          "ctr": 0.1111,
+          "impressions": 9,
+          "position": 1.67
+        },
+        "now": {
+          "clicks": 11,
+          "ctr": 0.0283,
+          "impressions": 389,
+          "position": 4.3
+        },
+        "page": "https://arbcentrix.com/recruitment-and-onboarding"
+      },
+      {
+        "before": {
+          "clicks": 1,
+          "ctr": 0.012,
+          "impressions": 83,
+          "position": 7.52
+        },
+        "now": {
+          "clicks": 1,
+          "ctr": 0.0204,
+          "impressions": 49,
+          "position": 6.67
+        },
+        "page": "https://arbcentrix.com/remote-auditor"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "position": 4.89
+        },
+        "now": {
+          "clicks": 4,
+          "ctr": 0.0417,
+          "impressions": 96,
+          "position": 16.57
+        },
+        "page": "https://arbcentrix.com/tax"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 70,
+          "position": 3.33
+        },
+        "page": "https://arbcentrix.com/trust-center"
+      },
+      {
+        "before": {
+          "clicks": 5,
+          "ctr": 0.0238,
+          "impressions": 210,
+          "position": 4.82
+        },
+        "now": {
+          "clicks": 5,
+          "ctr": 0.0167,
+          "impressions": 300,
+          "position": 3.47
+        },
+        "page": "https://arbcentrix.com/ystevie-ty"
+      }
+    ],
+    "top_12m_series": {
+      "https://arbcentrix.com/": [
+        {
+          "clicks": 116,
+          "ctr": 0.2068,
+          "impressions": 561,
+          "month": "2025-10",
+          "position": 2.41
+        },
+        {
+          "clicks": 66,
+          "ctr": 0.1808,
+          "impressions": 365,
+          "month": "2025-11",
+          "position": 2.75
+        },
+        {
+          "clicks": 58,
+          "ctr": 0.1422,
+          "impressions": 408,
+          "month": "2025-12",
+          "position": 3.11
+        },
+        {
+          "clicks": 99,
+          "ctr": 0.1934,
+          "impressions": 512,
+          "month": "2026-01",
+          "position": 2.88
+        },
+        {
+          "clicks": 70,
+          "ctr": 0.1892,
+          "impressions": 370,
+          "month": "2026-02",
+          "position": 2.74
+        },
+        {
+          "clicks": 74,
+          "ctr": 0.1686,
+          "impressions": 439,
+          "month": "2026-03",
+          "position": 2.58
+        },
+        {
+          "clicks": 103,
+          "ctr": 0.194,
+          "impressions": 531,
+          "month": "2026-04",
+          "position": 2.52
+        },
+        {
+          "clicks": 78,
+          "ctr": 0.1542,
+          "impressions": 506,
+          "month": "2026-05",
+          "position": 3.16
+        },
+        {
+          "clicks": 83,
+          "ctr": 0.1657,
+          "impressions": 501,
+          "month": "2026-06",
+          "position": 4.29
+        },
+        {
+          "clicks": 99,
+          "ctr": 0.19,
+          "impressions": 521,
+          "month": "2026-07",
+          "position": 4.45
+        },
+        {
+          "clicks": 55,
+          "ctr": 0.1313,
+          "impressions": 419,
+          "month": "2026-08",
+          "position": 12.68
+        },
+        {
+          "clicks": 61,
+          "ctr": 0.1258,
+          "impressions": 485,
+          "month": "2026-09",
+          "position": 4.51
+        }
+      ],
+      "https://arbcentrix.com/about": [
+        {
+          "clicks": 10,
+          "ctr": 0.0194,
+          "impressions": 516,
+          "month": "2025-10",
+          "position": 2.12
+        },
+        {
+          "clicks": 5,
+          "ctr": 0.0141,
+          "impressions": 354,
+          "month": "2025-11",
+          "position": 2.83
+        },
+        {
+          "clicks": 5,
+          "ctr": 0.0133,
+          "impressions": 375,
+          "month": "2025-12",
+          "position": 3.02
+        },
+        {
+          "clicks": 10,
+          "ctr": 0.0254,
+          "impressions": 393,
+          "month": "2026-01",
+          "position": 2.22
+        },
+        {
+          "clicks": 6,
+          "ctr": 0.0192,
+          "impressions": 313,
+          "month": "2026-02",
+          "position": 2.43
+        },
+        {
+          "clicks": 8,
+          "ctr": 0.0242,
+          "impressions": 331,
+          "month": "2026-03",
+          "position": 2.63
+        },
+        {
+          "clicks": 8,
+          "ctr": 0.0193,
+          "impressions": 414,
+          "month": "2026-04",
+          "position": 2.38
+        },
+        {
+          "clicks": 5,
+          "ctr": 0.0145,
+          "impressions": 345,
+          "month": "2026-05",
+          "position": 2.33
+        },
+        {
+          "clicks": 9,
+          "ctr": 0.0249,
+          "impressions": 361,
+          "month": "2026-06",
+          "position": 2.52
+        },
+        {
+          "clicks": 13,
+          "ctr": 0.0354,
+          "impressions": 367,
+          "month": "2026-07",
+          "position": 2.25
+        },
+        {
+          "clicks": 4,
+          "ctr": 0.0156,
+          "impressions": 256,
+          "month": "2026-08",
+          "position": 5.29
+        },
+        {
+          "clicks": 10,
+          "ctr": 0.0277,
+          "impressions": 361,
+          "month": "2026-09",
+          "position": 3.1
+        }
+      ],
+      "https://arbcentrix.com/accounting-services": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 275,
+          "month": "2025-10",
+          "position": 2.58
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 150,
+          "month": "2025-11",
+          "position": 4.12
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 192,
+          "month": "2025-12",
+          "position": 4.59
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0127,
+          "impressions": 79,
+          "month": "2026-01",
+          "position": 4.3
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 84,
+          "month": "2026-02",
+          "position": 3.73
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0092,
+          "impressions": 109,
+          "month": "2026-03",
+          "position": 3.19
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 175,
+          "month": "2026-04",
+          "position": 2.74
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 203,
+          "month": "2026-05",
+          "position": 3.18
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 229,
+          "month": "2026-06",
+          "position": 2.77
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 95,
+          "month": "2026-07",
+          "position": 2.23
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 81,
+          "month": "2026-08",
+          "position": 2.74
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0164,
+          "impressions": 61,
+          "month": "2026-09",
+          "position": 6.62
+        }
+      ],
+      "https://arbcentrix.com/careers": [
+        {
+          "clicks": 19,
+          "ctr": 0.0385,
+          "impressions": 494,
+          "month": "2025-10",
+          "position": 2.27
+        },
+        {
+          "clicks": 16,
+          "ctr": 0.0447,
+          "impressions": 358,
+          "month": "2025-11",
+          "position": 2.72
+        },
+        {
+          "clicks": 8,
+          "ctr": 0.021,
+          "impressions": 381,
+          "month": "2025-12",
+          "position": 2.9
+        },
+        {
+          "clicks": 16,
+          "ctr": 0.0407,
+          "impressions": 393,
+          "month": "2026-01",
+          "position": 2.8
+        },
+        {
+          "clicks": 15,
+          "ctr": 0.0532,
+          "impressions": 282,
+          "month": "2026-02",
+          "position": 3.68
+        },
+        {
+          "clicks": 12,
+          "ctr": 0.0403,
+          "impressions": 298,
+          "month": "2026-03",
+          "position": 3.17
+        },
+        {
+          "clicks": 16,
+          "ctr": 0.0391,
+          "impressions": 409,
+          "month": "2026-04",
+          "position": 2.58
+        },
+        {
+          "clicks": 11,
+          "ctr": 0.0298,
+          "impressions": 369,
+          "month": "2026-05",
+          "position": 3.58
+        },
+        {
+          "clicks": 10,
+          "ctr": 0.0261,
+          "impressions": 383,
+          "month": "2026-06",
+          "position": 2.97
+        },
+        {
+          "clicks": 19,
+          "ctr": 0.047,
+          "impressions": 404,
+          "month": "2026-07",
+          "position": 3.01
+        },
+        {
+          "clicks": 14,
+          "ctr": 0.0545,
+          "impressions": 257,
+          "month": "2026-08",
+          "position": 4.47
+        },
+        {
+          "clicks": 18,
+          "ctr": 0.0484,
+          "impressions": 372,
+          "month": "2026-09",
+          "position": 3.26
+        }
+      ],
+      "https://arbcentrix.com/client-accounting-services": [
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-10",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-11",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-12",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-01",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-02",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-03",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-04",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-05",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-06",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-07",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 35,
+          "month": "2026-08",
+          "position": 2.4
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 91,
+          "month": "2026-09",
+          "position": 2.58
+        }
+      ],
+      "https://arbcentrix.com/digital-transformation": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 123,
+          "month": "2025-10",
+          "position": 4.71
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 136,
+          "month": "2025-11",
+          "position": 4.4
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 110,
+          "month": "2025-12",
+          "position": 6.51
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0385,
+          "impressions": 52,
+          "month": "2026-01",
+          "position": 5.11
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 53,
+          "month": "2026-02",
+          "position": 4.32
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0175,
+          "impressions": 57,
+          "month": "2026-03",
+          "position": 4.88
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 72,
+          "month": "2026-04",
+          "position": 5.06
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 119,
+          "month": "2026-05",
+          "position": 5.43
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 68,
+          "month": "2026-06",
+          "position": 8.13
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 66,
+          "month": "2026-07",
+          "position": 6.42
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 69,
+          "month": "2026-08",
+          "position": 21.91
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 28,
+          "month": "2026-09",
+          "position": 7.14
+        }
+      ],
+      "https://arbcentrix.com/general-bpo": [
+        {
+          "clicks": 1,
+          "ctr": 0.0026,
+          "impressions": 383,
+          "month": "2025-10",
+          "position": 1.93
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 248,
+          "month": "2025-11",
+          "position": 2.77
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 255,
+          "month": "2025-12",
+          "position": 2.83
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0038,
+          "impressions": 265,
+          "month": "2026-01",
+          "position": 2.25
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 175,
+          "month": "2026-02",
+          "position": 2.3
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0098,
+          "impressions": 205,
+          "month": "2026-03",
+          "position": 2.98
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0034,
+          "impressions": 290,
+          "month": "2026-04",
+          "position": 2.56
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 178,
+          "month": "2026-05",
+          "position": 2.93
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-06",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-07",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-08",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-09",
+          "position": null
+        }
+      ],
+      "https://arbcentrix.com/growth-marketing-officer": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 40,
+          "month": "2025-10",
+          "position": 4.7
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0417,
+          "impressions": 24,
+          "month": "2025-11",
+          "position": 4.87
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 24,
+          "month": "2025-12",
+          "position": 7.38
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0476,
+          "impressions": 21,
+          "month": "2026-01",
+          "position": 9.05
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 15,
+          "month": "2026-02",
+          "position": 7.2
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 11,
+          "month": "2026-03",
+          "position": 6.09
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 115,
+          "month": "2026-04",
+          "position": 3.68
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0088,
+          "impressions": 114,
+          "month": "2026-05",
+          "position": 3.82
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.012,
+          "impressions": 166,
+          "month": "2026-06",
+          "position": 2.3
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0087,
+          "impressions": 230,
+          "month": "2026-07",
+          "position": 2.2
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 81,
+          "month": "2026-08",
+          "position": 6.64
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0085,
+          "impressions": 118,
+          "month": "2026-09",
+          "position": 5.46
+        }
+      ],
+      "https://arbcentrix.com/insights": [
+        {
+          "clicks": 1,
+          "ctr": 0.013,
+          "impressions": 77,
+          "month": "2025-10",
+          "position": 1.32
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0073,
+          "impressions": 137,
+          "month": "2025-11",
+          "position": 1.66
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 142,
+          "month": "2025-12",
+          "position": 1.73
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0052,
+          "impressions": 192,
+          "month": "2026-01",
+          "position": 1.71
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 120,
+          "month": "2026-02",
+          "position": 3.09
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 160,
+          "month": "2026-03",
+          "position": 2.39
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 127,
+          "month": "2026-04",
+          "position": 1.89
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 106,
+          "month": "2026-05",
+          "position": 2.45
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 63,
+          "month": "2026-06",
+          "position": 1.6
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0303,
+          "impressions": 33,
+          "month": "2026-07",
+          "position": 3.3
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 80,
+          "month": "2026-08",
+          "position": 2.41
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 71,
+          "month": "2026-09",
+          "position": 5.61
+        }
+      ],
+      "https://arbcentrix.com/insights/silent-attrition": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "month": "2025-10",
+          "position": 2.0
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 27,
+          "month": "2025-11",
+          "position": 8.63
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 59,
+          "month": "2025-12",
+          "position": 8.36
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 48,
+          "month": "2026-01",
+          "position": 8.08
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 35,
+          "month": "2026-02",
+          "position": 6.11
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 33,
+          "month": "2026-03",
+          "position": 5.85
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 39,
+          "month": "2026-04",
+          "position": 6.95
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 24,
+          "month": "2026-05",
+          "position": 9.75
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 13,
+          "month": "2026-06",
+          "position": 6.54
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 17,
+          "month": "2026-07",
+          "position": 16.24
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 29,
+          "month": "2026-08",
+          "position": 10.72
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 19,
+          "month": "2026-09",
+          "position": 7.68
+        }
+      ],
+      "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 20,
+          "month": "2025-10",
+          "position": 71.05
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 5,
+          "month": "2025-11",
+          "position": 23.6
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "month": "2025-12",
+          "position": 5.0
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "month": "2026-01",
+          "position": 6.0
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-02",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "month": "2026-03",
+          "position": 24.75
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 23,
+          "month": "2026-04",
+          "position": 36.7
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 15,
+          "month": "2026-05",
+          "position": 6.54
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-06",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-07",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-08",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-09",
+          "position": null
+        }
+      ],
+      "https://arbcentrix.com/it-services": [
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-10",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-11",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-12",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-01",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-02",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-03",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-04",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 12,
+          "month": "2026-05",
+          "position": 4.83
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 46,
+          "month": "2026-06",
+          "position": 4.59
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.04,
+          "impressions": 25,
+          "month": "2026-07",
+          "position": 4.2
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0625,
+          "impressions": 16,
+          "month": "2026-08",
+          "position": 9.81
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0455,
+          "impressions": 22,
+          "month": "2026-09",
+          "position": 4.59
+        }
+      ],
+      "https://arbcentrix.com/kevin-mairs": [
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-10",
+          "position": null
+        },
+        {
+          "clicks": 3,
+          "ctr": 0.0833,
+          "impressions": 36,
+          "month": "2025-11",
+          "position": 3.31
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.012,
+          "impressions": 83,
+          "month": "2025-12",
+          "position": 4.92
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.037,
+          "impressions": 54,
+          "month": "2026-01",
+          "position": 4.58
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0154,
+          "impressions": 65,
+          "month": "2026-02",
+          "position": 4.2
+        },
+        {
+          "clicks": 4,
+          "ctr": 0.0741,
+          "impressions": 54,
+          "month": "2026-03",
+          "position": 5.76
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0312,
+          "impressions": 32,
+          "month": "2026-04",
+          "position": 4.88
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 47,
+          "month": "2026-05",
+          "position": 4.72
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 70,
+          "month": "2026-06",
+          "position": 2.81
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 123,
+          "month": "2026-07",
+          "position": 2.19
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0476,
+          "impressions": 21,
+          "month": "2026-08",
+          "position": 3.57
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0476,
+          "impressions": 21,
+          "month": "2026-09",
+          "position": 5.71
+        }
+      ],
+      "https://arbcentrix.com/locations": [
+        {
+          "clicks": 30,
+          "ctr": 0.0598,
+          "impressions": 502,
+          "month": "2025-10",
+          "position": 2.38
+        },
+        {
+          "clicks": 20,
+          "ctr": 0.0593,
+          "impressions": 337,
+          "month": "2025-11",
+          "position": 2.64
+        },
+        {
+          "clicks": 14,
+          "ctr": 0.0375,
+          "impressions": 373,
+          "month": "2025-12",
+          "position": 3.16
+        },
+        {
+          "clicks": 25,
+          "ctr": 0.0661,
+          "impressions": 378,
+          "month": "2026-01",
+          "position": 2.16
+        },
+        {
+          "clicks": 19,
+          "ctr": 0.0751,
+          "impressions": 253,
+          "month": "2026-02",
+          "position": 2.98
+        },
+        {
+          "clicks": 29,
+          "ctr": 0.0935,
+          "impressions": 310,
+          "month": "2026-03",
+          "position": 2.06
+        },
+        {
+          "clicks": 33,
+          "ctr": 0.0885,
+          "impressions": 373,
+          "month": "2026-04",
+          "position": 1.75
+        },
+        {
+          "clicks": 19,
+          "ctr": 0.0714,
+          "impressions": 266,
+          "month": "2026-05",
+          "position": 2.16
+        },
+        {
+          "clicks": 16,
+          "ctr": 0.0525,
+          "impressions": 305,
+          "month": "2026-06",
+          "position": 1.89
+        },
+        {
+          "clicks": 18,
+          "ctr": 0.0541,
+          "impressions": 333,
+          "month": "2026-07",
+          "position": 1.65
+        },
+        {
+          "clicks": 15,
+          "ctr": 0.0721,
+          "impressions": 208,
+          "month": "2026-08",
+          "position": 4.42
+        },
+        {
+          "clicks": 17,
+          "ctr": 0.0557,
+          "impressions": 305,
+          "month": "2026-09",
+          "position": 2.06
+        }
+      ],
+      "https://arbcentrix.com/maan-sacdalan": [
+        {
+          "clicks": 1,
+          "ctr": 0.3333,
+          "impressions": 3,
+          "month": "2025-10",
+          "position": 2.67
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "month": "2025-11",
+          "position": 2.0
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 15,
+          "month": "2025-12",
+          "position": 3.13
+        },
+        {
+          "clicks": 3,
+          "ctr": 0.1034,
+          "impressions": 29,
+          "month": "2026-01",
+          "position": 3.17
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.05,
+          "impressions": 20,
+          "month": "2026-02",
+          "position": 4.4
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0385,
+          "impressions": 26,
+          "month": "2026-03",
+          "position": 4.62
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0323,
+          "impressions": 31,
+          "month": "2026-04",
+          "position": 4.74
+        },
+        {
+          "clicks": 3,
+          "ctr": 0.0833,
+          "impressions": 36,
+          "month": "2026-05",
+          "position": 5.0
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0294,
+          "impressions": 68,
+          "month": "2026-06",
+          "position": 3.63
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0303,
+          "impressions": 33,
+          "month": "2026-07",
+          "position": 3.52
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 15,
+          "month": "2026-08",
+          "position": 7.27
+        },
+        {
+          "clicks": 4,
+          "ctr": 0.1481,
+          "impressions": 27,
+          "month": "2026-09",
+          "position": 3.63
+        }
+      ],
+      "https://arbcentrix.com/operations-specialist": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 10,
+          "month": "2025-10",
+          "position": 5.6
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "month": "2025-11",
+          "position": 4.62
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 85,
+          "month": "2025-12",
+          "position": 7.81
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0142,
+          "impressions": 141,
+          "month": "2026-01",
+          "position": 4.65
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.022,
+          "impressions": 91,
+          "month": "2026-02",
+          "position": 4.44
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 61,
+          "month": "2026-03",
+          "position": 6.28
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0345,
+          "impressions": 58,
+          "month": "2026-04",
+          "position": 6.36
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 36,
+          "month": "2026-05",
+          "position": 6.47
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 25,
+          "month": "2026-06",
+          "position": 4.56
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.04,
+          "impressions": 25,
+          "month": "2026-07",
+          "position": 4.44
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 27,
+          "month": "2026-08",
+          "position": 5.19
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.05,
+          "impressions": 20,
+          "month": "2026-09",
+          "position": 6.25
+        }
+      ],
+      "https://arbcentrix.com/recruitment-and-onboarding": [
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-10",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-11",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-12",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-01",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-02",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-03",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-04",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-05",
+          "position": null
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.1111,
+          "impressions": 9,
+          "month": "2026-06",
+          "position": 1.67
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0102,
+          "impressions": 98,
+          "month": "2026-07",
+          "position": 3.35
+        },
+        {
+          "clicks": 4,
+          "ctr": 0.0488,
+          "impressions": 82,
+          "month": "2026-08",
+          "position": 8.2
+        },
+        {
+          "clicks": 6,
+          "ctr": 0.0287,
+          "impressions": 209,
+          "month": "2026-09",
+          "position": 3.23
+        }
+      ],
+      "https://arbcentrix.com/remote-auditor": [
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 43,
+          "month": "2025-10",
+          "position": 4.67
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 17,
+          "month": "2025-11",
+          "position": 5.82
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 17,
+          "month": "2025-12",
+          "position": 7.94
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0435,
+          "impressions": 23,
+          "month": "2026-01",
+          "position": 9.91
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 16,
+          "month": "2026-02",
+          "position": 8.06
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 29,
+          "month": "2026-03",
+          "position": 7.14
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0303,
+          "impressions": 33,
+          "month": "2026-04",
+          "position": 7.82
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 24,
+          "month": "2026-05",
+          "position": 7.75
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 26,
+          "month": "2026-06",
+          "position": 6.92
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0625,
+          "impressions": 16,
+          "month": "2026-07",
+          "position": 7.87
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 19,
+          "month": "2026-08",
+          "position": 5.79
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 14,
+          "month": "2026-09",
+          "position": 6.5
+        }
+      ],
+      "https://arbcentrix.com/tax": [
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-10",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-11",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2025-12",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-01",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-02",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-03",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-04",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "month": "2026-05",
+          "position": null
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "month": "2026-06",
+          "position": 4.89
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.1111,
+          "impressions": 18,
+          "month": "2026-07",
+          "position": 5.89
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0769,
+          "impressions": 26,
+          "month": "2026-08",
+          "position": 42.23
+        },
+        {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 52,
+          "month": "2026-09",
+          "position": 7.44
+        }
+      ],
+      "https://arbcentrix.com/ystevie-ty": [
+        {
+          "clicks": 3,
+          "ctr": 0.0126,
+          "impressions": 239,
+          "month": "2025-10",
+          "position": 1.51
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0189,
+          "impressions": 106,
+          "month": "2025-11",
+          "position": 3.01
+        },
+        {
+          "clicks": 3,
+          "ctr": 0.0246,
+          "impressions": 122,
+          "month": "2025-12",
+          "position": 4.34
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0345,
+          "impressions": 58,
+          "month": "2026-01",
+          "position": 3.62
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0217,
+          "impressions": 46,
+          "month": "2026-02",
+          "position": 6.24
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0465,
+          "impressions": 43,
+          "month": "2026-03",
+          "position": 5.19
+        },
+        {
+          "clicks": 3,
+          "ctr": 0.0526,
+          "impressions": 57,
+          "month": "2026-04",
+          "position": 5.84
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0128,
+          "impressions": 78,
+          "month": "2026-05",
+          "position": 4.85
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0133,
+          "impressions": 75,
+          "month": "2026-06",
+          "position": 4.03
+        },
+        {
+          "clicks": 1,
+          "ctr": 0.0058,
+          "impressions": 172,
+          "month": "2026-07",
+          "position": 2.47
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.0392,
+          "impressions": 51,
+          "month": "2026-08",
+          "position": 5.78
+        },
+        {
+          "clicks": 2,
+          "ctr": 0.026,
+          "impressions": 77,
+          "month": "2026-09",
+          "position": 4.17
+        }
+      ]
+    }
+  },
+  "psi": {
+    "first": "2026-10-22",
+    "latest": "2026-10-29",
+    "pages": {
+      "https://arbcentrix.com/about|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1346,
+          "latest": 1161
+        },
+        "performance": {
+          "first": 87,
+          "latest": 89
+        }
+      },
+      "https://arbcentrix.com/about|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 7356,
+          "latest": 7134
+        },
+        "performance": {
+          "first": 53,
+          "latest": 50
+        }
+      },
+      "https://arbcentrix.com/accounting|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1882,
+          "latest": 2019
+        },
+        "performance": {
+          "first": 62,
+          "latest": 90
+        }
+      },
+      "https://arbcentrix.com/accounting|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 7314,
+          "latest": 5883
+        },
+        "performance": {
+          "first": 72,
+          "latest": 74
+        }
+      },
+      "https://arbcentrix.com/audit|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1810,
+          "latest": 1983
+        },
+        "performance": {
+          "first": 92,
+          "latest": 90
+        }
+      },
+      "https://arbcentrix.com/audit|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 10869,
+          "latest": 6810
+        },
+        "performance": {
+          "first": 57,
+          "latest": 73
+        }
+      },
+      "https://arbcentrix.com/case-study|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1230,
+          "latest": 1738
+        },
+        "performance": {
+          "first": 94,
+          "latest": 86
+        }
+      },
+      "https://arbcentrix.com/case-study|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 5153,
+          "latest": 8182
+        },
+        "performance": {
+          "first": 74,
+          "latest": 72
+        }
+      },
+      "https://arbcentrix.com/contact|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 2040,
+          "latest": 1734
+        },
+        "performance": {
+          "first": 89,
+          "latest": 89
+        }
+      },
+      "https://arbcentrix.com/contact|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 9312,
+          "latest": 7244
+        },
+        "performance": {
+          "first": 69,
+          "latest": 73
+        }
+      },
+      "https://arbcentrix.com/customer-care|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1623,
+          "latest": 2170
+        },
+        "performance": {
+          "first": 92,
+          "latest": 89
+        }
+      },
+      "https://arbcentrix.com/customer-care|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 5772,
+          "latest": 4938
+        },
+        "performance": {
+          "first": 70,
+          "latest": 77
+        }
+      },
+      "https://arbcentrix.com/digital-transformation|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1772,
+          "latest": 2042
+        },
+        "performance": {
+          "first": 80,
+          "latest": 90
+        }
+      },
+      "https://arbcentrix.com/digital-transformation|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 7168,
+          "latest": 6365
+        },
+        "performance": {
+          "first": 65,
+          "latest": 71
+        }
+      },
+      "https://arbcentrix.com/go-to-market-strategy-and-business-development|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1616,
+          "latest": 2058
+        },
+        "performance": {
+          "first": 84,
+          "latest": 90
+        }
+      },
+      "https://arbcentrix.com/go-to-market-strategy-and-business-development|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 6218,
+          "latest": 4144
+        },
+        "performance": {
+          "first": 66,
+          "latest": 82
+        }
+      },
+      "https://arbcentrix.com/insights|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1284,
+          "latest": 1140
+        },
+        "performance": {
+          "first": 96,
+          "latest": 97
+        }
+      },
+      "https://arbcentrix.com/insights|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 5543,
+          "latest": 3959
+        },
+        "performance": {
+          "first": 78,
+          "latest": 87
+        }
+      },
+      "https://arbcentrix.com/order-fulfillment-management|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1505,
+          "latest": 1700
+        },
+        "performance": {
+          "first": 94,
+          "latest": 93
+        }
+      },
+      "https://arbcentrix.com/order-fulfillment-management|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 6606,
+          "latest": 4841
+        },
+        "performance": {
+          "first": 68,
+          "latest": 67
+        }
+      },
+      "https://arbcentrix.com/property-management|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1506,
+          "latest": 1652
+        },
+        "performance": {
+          "first": 95,
+          "latest": 81
+        }
+      },
+      "https://arbcentrix.com/property-management|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 5541,
+          "latest": 9867
+        },
+        "performance": {
+          "first": 73,
+          "latest": 62
+        }
+      },
+      "https://arbcentrix.com/recruitment-and-onboarding|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1545,
+          "latest": 1106
+        },
+        "performance": {
+          "first": 76,
+          "latest": 98
+        }
+      },
+      "https://arbcentrix.com/recruitment-and-onboarding|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 5431,
+          "latest": 9497
+        },
+        "performance": {
+          "first": 77,
+          "latest": 73
+        }
+      },
+      "https://arbcentrix.com/services|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1032,
+          "latest": 1464
+        },
+        "performance": {
+          "first": 98,
+          "latest": 95
+        }
+      },
+      "https://arbcentrix.com/services|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 4715,
+          "latest": 5955
+        },
+        "performance": {
+          "first": 76,
+          "latest": 75
+        }
+      },
+      "https://arbcentrix.com/tax|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1807,
+          "latest": 2549
+        },
+        "performance": {
+          "first": 86,
+          "latest": 61
+        }
+      },
+      "https://arbcentrix.com/tax|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 7616,
+          "latest": 5927
+        },
+        "performance": {
+          "first": 68,
+          "latest": 62
+        }
+      },
+      "https://arbcentrix.com/|desktop": {
+        "field": null,
+        "lcp_ms": {
+          "first": 1689,
+          "latest": 1609
+        },
+        "performance": {
+          "first": 92,
+          "latest": 65
+        }
+      },
+      "https://arbcentrix.com/|mobile": {
+        "field": null,
+        "lcp_ms": {
+          "first": 6835,
+          "latest": 6465
+        },
+        "performance": {
+          "first": 69,
+          "latest": 52
+        }
+      }
+    },
+    "runs": 2
+  },
+  "queries": {
+    "non_branded_three_month": [
+      {
+        "before": {
+          "clicks": 2,
+          "ctr": 0.0645,
+          "impressions": 31,
+          "position": 5.65
+        },
+        "branded": false,
+        "impressions_change": 22,
+        "now": {
+          "clicks": 4,
+          "ctr": 0.0755,
+          "impressions": 53,
+          "position": 4.51
+        },
+        "query": "savya financial center hiring"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 10,
+          "position": 8.0
+        },
+        "branded": false,
+        "impressions_change": 8,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 18,
+          "position": 8.0
+        },
+        "query": "silent attrition"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 31.38
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "position": 28.44
+        },
+        "query": "concentrix bgc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 9,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "position": 82.89
+        },
+        "query": "which trusted audit firms support startups in the philippines"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 7,
+          "position": 63.29
+        },
+        "query": "arb lake forest ca"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 7,
+          "position": 4.29
+        },
+        "query": "what is their line of business"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 42.25
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 5,
+          "position": 55.8
+        },
+        "query": "arb inc"
+      },
+      {
+        "before": {
+          "clicks": 2,
+          "ctr": 0.4,
+          "impressions": 5,
+          "position": 5.8
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 1,
+          "ctr": 0.25,
+          "impressions": 4,
+          "position": 3.25
+        },
+        "query": "abcentrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 60.5
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 60.0
+        },
+        "query": "arb enterprises"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 4,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 46.25
+        },
+        "query": "arbinare limited"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 4,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 3.75
+        },
+        "query": "when it is established?"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 48.0
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 39.0
+        },
+        "query": "arb call facilities"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 41.67
+        },
+        "query": "arb inc irvine"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 10.67
+        },
+        "query": "arb merchandising corporation"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 58.0
+        },
+        "query": "arbitech"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 82.0
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 76.33
+        },
+        "query": "arbpoint"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 2.0
+        },
+        "query": "hours of night shift"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 4.0
+        },
+        "query": "address"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 56.0
+        },
+        "query": "arb inc lake forest ca"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 51.5
+        },
+        "query": "arb intern"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 49.5
+        },
+        "query": "arb-intern"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 33.5
+        },
+        "query": "arbcima"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 61.0
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 57.5
+        },
+        "query": "arbitech llc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 1.0
+        },
+        "query": "hiring process"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 1.5
+        },
+        "query": "started in?"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 73.0
+        },
+        "query": "1191 center point drive"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 34.0
+        },
+        "branded": false,
+        "impressions_change": -7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 83.0
+        },
+        "query": "ag scheduling and digital execution"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 55.0
+        },
+        "query": "alphacentrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 51.0
+        },
+        "query": "arb corporation"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 75.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 90.0
+        },
+        "query": "arb enterprise"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 53.0
+        },
+        "query": "arb industrial"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 37.0
+        },
+        "query": "arb interactive jobs"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 28.0
+        },
+        "query": "arb laboratories inc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 44.0
+        },
+        "query": "arb, inc."
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 34.5
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 41.0
+        },
+        "query": "arbantech"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 86.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 63.0
+        },
+        "query": "arbee agencies"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 83.0
+        },
+        "query": "arbee associates"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 39.0
+        },
+        "query": "arbent"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 73.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 64.0
+        },
+        "query": "arbicare"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 70.0
+        },
+        "query": "arbmatrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 40.0
+        },
+        "query": "arbrux"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 1.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 2.0
+        },
+        "query": "arbzlix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 68.0
+        },
+        "query": "arc revenue"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 9.0
+        },
+        "query": "arca south hiring"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 78.0
+        },
+        "query": "arcbridge"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 56.0
+        },
+        "query": "arquest inc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 5.0
+        },
+        "query": "arthaland careers"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 59.0
+        },
+        "query": "arvento advisory"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 60.0
+        },
+        "query": "ascentrix group"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 11.5
+        },
+        "branded": false,
+        "impressions_change": -7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 12.0
+        },
+        "query": "centrix bpo"
+      }
+    ],
+    "three_month": [
+      {
+        "before": {
+          "clicks": 103,
+          "ctr": 0.0756,
+          "impressions": 1362,
+          "position": 1.15
+        },
+        "branded": true,
+        "impressions_change": -79,
+        "now": {
+          "clicks": 101,
+          "ctr": 0.0787,
+          "impressions": 1283,
+          "position": 1.4
+        },
+        "query": "arbcentrix"
+      },
+      {
+        "before": {
+          "clicks": 61,
+          "ctr": 0.0629,
+          "impressions": 970,
+          "position": 1.09
+        },
+        "branded": true,
+        "impressions_change": 16,
+        "now": {
+          "clicks": 62,
+          "ctr": 0.0629,
+          "impressions": 986,
+          "position": 1.31
+        },
+        "query": "arbcentrix corporation"
+      },
+      {
+        "before": {
+          "clicks": 39,
+          "ctr": 0.0747,
+          "impressions": 522,
+          "position": 1.59
+        },
+        "branded": true,
+        "impressions_change": 103,
+        "now": {
+          "clicks": 47,
+          "ctr": 0.0752,
+          "impressions": 625,
+          "position": 1.17
+        },
+        "query": "arbcentrix corp"
+      },
+      {
+        "before": {
+          "clicks": 28,
+          "ctr": 0.1061,
+          "impressions": 264,
+          "position": 1.06
+        },
+        "branded": true,
+        "impressions_change": -163,
+        "now": {
+          "clicks": 7,
+          "ctr": 0.0693,
+          "impressions": 101,
+          "position": 1.08
+        },
+        "query": "arbcentrix corp."
+      },
+      {
+        "before": {
+          "clicks": 1,
+          "ctr": 0.0769,
+          "impressions": 13,
+          "position": 2.69
+        },
+        "branded": true,
+        "impressions_change": 67,
+        "now": {
+          "clicks": 2,
+          "ctr": 0.025,
+          "impressions": 80,
+          "position": 4.45
+        },
+        "query": "absentrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": true,
+        "impressions_change": 68,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 68,
+          "position": 12.81
+        },
+        "query": "site:arbcentrix.com"
+      },
+      {
+        "before": {
+          "clicks": 2,
+          "ctr": 0.0645,
+          "impressions": 31,
+          "position": 5.65
+        },
+        "branded": false,
+        "impressions_change": 22,
+        "now": {
+          "clicks": 4,
+          "ctr": 0.0755,
+          "impressions": 53,
+          "position": 4.51
+        },
+        "query": "savya financial center hiring"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 10,
+          "position": 8.0
+        },
+        "branded": false,
+        "impressions_change": 8,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 18,
+          "position": 8.0
+        },
+        "query": "silent attrition"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 31.38
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "position": 28.44
+        },
+        "query": "concentrix bgc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 9,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 9,
+          "position": 82.89
+        },
+        "query": "which trusted audit firms support startups in the philippines"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 7,
+          "position": 63.29
+        },
+        "query": "arb lake forest ca"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 7,
+          "position": 4.29
+        },
+        "query": "what is their line of business"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 42.25
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 5,
+          "position": 55.8
+        },
+        "query": "arb inc"
+      },
+      {
+        "before": {
+          "clicks": 2,
+          "ctr": 0.4,
+          "impressions": 5,
+          "position": 5.8
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 1,
+          "ctr": 0.25,
+          "impressions": 4,
+          "position": 3.25
+        },
+        "query": "abcentrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 60.5
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 60.0
+        },
+        "query": "arb enterprises"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 4,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 46.25
+        },
+        "query": "arbinare limited"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 4,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 3.75
+        },
+        "query": "when it is established?"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 4,
+          "position": 48.0
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 39.0
+        },
+        "query": "arb call facilities"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 41.67
+        },
+        "query": "arb inc irvine"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 10.67
+        },
+        "query": "arb merchandising corporation"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 58.0
+        },
+        "query": "arbitech"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 82.0
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 76.33
+        },
+        "query": "arbpoint"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 3,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 3,
+          "position": 2.0
+        },
+        "query": "hours of night shift"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 4.0
+        },
+        "query": "address"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 56.0
+        },
+        "query": "arb inc lake forest ca"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 51.5
+        },
+        "query": "arb intern"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 49.5
+        },
+        "query": "arb-intern"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 33.5
+        },
+        "query": "arbcima"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 61.0
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 57.5
+        },
+        "query": "arbitech llc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 1.0
+        },
+        "query": "hiring process"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 2,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 1.5
+        },
+        "query": "started in?"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 73.0
+        },
+        "query": "1191 center point drive"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 8,
+          "position": 34.0
+        },
+        "branded": false,
+        "impressions_change": -7,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 83.0
+        },
+        "query": "ag scheduling and digital execution"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 55.0
+        },
+        "query": "alphacentrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 51.0
+        },
+        "query": "arb corporation"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 75.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 90.0
+        },
+        "query": "arb enterprise"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 53.0
+        },
+        "query": "arb industrial"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 37.0
+        },
+        "query": "arb interactive jobs"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 28.0
+        },
+        "query": "arb laboratories inc"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 44.0
+        },
+        "query": "arb, inc."
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 2,
+          "position": 34.5
+        },
+        "branded": false,
+        "impressions_change": -1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 41.0
+        },
+        "query": "arbantech"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 86.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 63.0
+        },
+        "query": "arbee agencies"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 83.0
+        },
+        "query": "arbee associates"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 39.0
+        },
+        "query": "arbent"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 73.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 64.0
+        },
+        "query": "arbicare"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 70.0
+        },
+        "query": "arbmatrix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 40.0
+        },
+        "query": "arbrux"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 1.0
+        },
+        "branded": false,
+        "impressions_change": 0,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 2.0
+        },
+        "query": "arbzlix"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 68.0
+        },
+        "query": "arc revenue"
+      },
+      {
+        "before": {
+          "clicks": 0,
+          "ctr": null,
+          "impressions": 0,
+          "position": null
+        },
+        "branded": false,
+        "impressions_change": 1,
+        "now": {
+          "clicks": 0,
+          "ctr": 0.0,
+          "impressions": 1,
+          "position": 9.0
+        },
+        "query": "arca south hiring"
+      }
+    ]
+  },
+  "query_page": [
+    {
+      "branded": true,
+      "clicks": 70,
+      "ctr": 0.3349,
+      "impressions": 209,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 2.6,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 10,
+      "ctr": 0.049,
+      "impressions": 204,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.5,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 9,
+      "ctr": 0.0446,
+      "impressions": 202,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.13,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 6,
+      "ctr": 0.033,
+      "impressions": 182,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 5,
+      "ctr": 0.0314,
+      "impressions": 159,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 40,
+      "ctr": 0.2685,
+      "impressions": 149,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.03,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 5,
+      "ctr": 0.0336,
+      "impressions": 149,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.26,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 5,
+      "ctr": 0.0338,
+      "impressions": 148,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.51,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 10,
+      "ctr": 0.068,
+      "impressions": 147,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.15,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 110,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.18,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 3,
+      "ctr": 0.0297,
+      "impressions": 101,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.94,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 38,
+      "ctr": 0.38,
+      "impressions": 100,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.01,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 4,
+      "ctr": 0.04,
+      "impressions": 100,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.03,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 2,
+      "ctr": 0.0211,
+      "impressions": 95,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 2,
+      "ctr": 0.025,
+      "impressions": 80,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 4.45,
+      "query": "absentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 78,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 74,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 64,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 2.41,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 61,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.07,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 55,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.36,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": false,
+      "clicks": 4,
+      "ctr": 0.0755,
+      "impressions": 53,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 4.51,
+      "query": "savya financial center hiring"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.0208,
+      "impressions": 48,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.27,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 46,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 45,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.027,
+      "impressions": 37,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.38,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 36,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.47,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 32,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.31,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 28,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.11,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 26,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 26,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1.04,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 25,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 23,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.52,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 18,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 18,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights/silent-attrition",
+      "position": 8.0,
+      "query": "silent attrition"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 5,
+      "ctr": 0.3125,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.0625,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.0625,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.38,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 15,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 14,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 14,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.0769,
+      "impressions": 13,
+      "intent": null,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 1.62,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 11,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 9,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 9,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 28.44,
+      "query": "concentrix bgc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 9,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
+      "position": 82.89,
+      "query": "which trusted audit firms support startups in the philippines"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 63.29,
+      "query": "arb lake forest ca"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 6,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.33,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 6,
+      "intent": null,
+      "page": "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+      "position": 23.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 6,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
+      "position": 22.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 6,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights/the-price-of-delay",
+      "position": 21.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 55.8,
+      "query": "arb inc"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": false,
+      "clicks": 1,
+      "ctr": 0.25,
+      "impressions": 4,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 3.25,
+      "query": "abcentrix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 60.0,
+      "query": "arb enterprises"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.5,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 39.0,
+      "query": "arb call facilities"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 41.67,
+      "query": "arb inc irvine"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 10.67,
+      "query": "arb merchandising corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 58.0,
+      "query": "arbitech"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 76.33,
+      "query": "arbpoint"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 8.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 7.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 6.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 10.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 4.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 9.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 5.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 56.0,
+      "query": "arb inc lake forest ca"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 6.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 33.5,
+      "query": "arbcima"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 59.0,
+      "query": "arbinare limited"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 33.5,
+      "query": "arbinare limited"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 57.5,
+      "query": "arbitech llc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "hiring process"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 19.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 18.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights/silent-attrition",
+      "position": 20.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 13.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 12.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 15.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 17.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 14.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 11.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 16.0,
+      "query": "site:arbcentrix.com"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 73.0,
+      "query": "1191 center point drive"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.0,
+      "query": "address"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 7.0,
+      "query": "address"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 83.0,
+      "query": "ag scheduling and digital execution"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 55.0,
+      "query": "alphacentrix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 51.0,
+      "query": "arb corporation"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 90.0,
+      "query": "arb enterprise"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 53.0,
+      "query": "arb industrial"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 37.0,
+      "query": "arb interactive jobs"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 37.0,
+      "query": "arb intern"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 66.0,
+      "query": "arb intern"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 28.0,
+      "query": "arb laboratories inc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 44.0,
+      "query": "arb, inc."
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 35.0,
+      "query": "arb-intern"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 64.0,
+      "query": "arb-intern"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 41.0,
+      "query": "arbantech"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix corp."
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 63.0,
+      "query": "arbee agencies"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 83.0,
+      "query": "arbee associates"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 39.0,
+      "query": "arbent"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 64.0,
+      "query": "arbicare"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 70.0,
+      "query": "arbmatrix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 40.0,
+      "query": "arbrux"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.0,
+      "query": "arbzlix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 68.0,
+      "query": "arc revenue"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 9.0,
+      "query": "arca south hiring"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 78.0,
+      "query": "arcbridge"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 56.0,
+      "query": "arquest inc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 5.0,
+      "query": "arthaland careers"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 59.0,
+      "query": "arvento advisory"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 60.0,
+      "query": "ascentrix group"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 12.0,
+      "query": "centrix bpo"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 73.0,
+      "query": "crescent accounting"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 68.0,
+      "query": "ebar abstracting company inc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "give an example"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "hours of night shift"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 3.0,
+      "query": "hours of night shift"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 2.0,
+      "query": "hours of night shift"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.0,
+      "query": "how many employees"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.0,
+      "query": "i am an applicant"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "it"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.0,
+      "query": "job hiring"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 59.0,
+      "query": "madrigal axa"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 4.0,
+      "query": "pwede ba sa online?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/tax",
+      "position": 45.0,
+      "query": "sabrix tax"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.0,
+      "query": "savya financial center"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.0,
+      "query": "started in?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.0,
+      "query": "started in?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 2.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 7.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 4.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 5.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 8.0,
+      "query": "what is their line of business"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 4.0,
+      "query": "when it is established?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.0,
+      "query": "when it is established?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 3.0,
+      "query": "when it is established?"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 6.0,
+      "query": "when it is established?"
+    }
+  ],
+  "runs": {
+    "since": "2026-10-03T23:44:50+00:00",
+    "suspicious": [],
+    "tasks": {
+      "daily": {
+        "errors": 7,
+        "expected": 30,
+        "last_run": "2026-11-02T22:15:56+00:00",
+        "missing": 18,
+        "not_closed": 0,
+        "ok": 5,
+        "runs": 12,
+        "task": "SEO daily watch"
+      },
+      "monthly": {
+        "errors": 0,
+        "expected": null,
+        "last_run": null,
+        "missing": null,
+        "not_closed": 0,
+        "ok": 0,
+        "runs": 0,
+        "task": "SEO monthly report"
+      },
+      "watch": {
+        "errors": 2,
+        "expected": 180,
+        "last_run": "2026-11-02T20:29:00+00:00",
+        "missing": 111,
+        "not_closed": 0,
+        "ok": 67,
+        "runs": 69,
+        "task": "SEO publish watch"
+      },
+      "weekly": {
+        "errors": 2,
+        "expected": 4,
+        "last_run": "2026-11-01T22:44:54+00:00",
+        "missing": 2,
+        "not_closed": 0,
+        "ok": 0,
+        "runs": 2,
+        "task": "SEO weekly report"
+      }
+    }
+  },
+  "trend_12m": {
+    "months": 12,
+    "previous_12": "not available: GSC keeps 16 months",
+    "series": [
+      {
+        "clicks": 220,
+        "ctr": 0.0604,
+        "impressions": 3645,
+        "month": "2025-09",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 2.6
+      },
+      {
+        "clicks": 181,
+        "ctr": 0.0538,
+        "impressions": 3363,
+        "month": "2025-10",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 2.9
+      },
+      {
+        "clicks": 114,
+        "ctr": 0.0482,
+        "impressions": 2363,
+        "month": "2025-11",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.12
+      },
+      {
+        "clicks": 89,
+        "ctr": 0.033,
+        "impressions": 2693,
+        "month": "2025-12",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.72
+      },
+      {
+        "clicks": 167,
+        "ctr": 0.0614,
+        "impressions": 2721,
+        "month": "2026-01",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.08
+      },
+      {
+        "clicks": 115,
+        "ctr": 0.0577,
+        "impressions": 1994,
+        "month": "2026-02",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.39
+      },
+      {
+        "clicks": 134,
+        "ctr": 0.0611,
+        "impressions": 2194,
+        "month": "2026-03",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.2
+      },
+      {
+        "clicks": 169,
+        "ctr": 0.059,
+        "impressions": 2863,
+        "month": "2026-04",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.16
+      },
+      {
+        "clicks": 118,
+        "ctr": 0.0464,
+        "impressions": 2541,
+        "month": "2026-05",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.46
+      },
+      {
+        "clicks": 124,
+        "ctr": 0.051,
+        "impressions": 2433,
+        "month": "2026-06",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.27
+      },
+      {
+        "clicks": 160,
+        "ctr": 0.0616,
+        "impressions": 2598,
+        "month": "2026-07",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 3.43
+      },
+      {
+        "clicks": 98,
+        "ctr": 0.0541,
+        "impressions": 1810,
+        "month": "2026-08",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 8.1
+      },
+      {
+        "clicks": 123,
+        "ctr": 0.0501,
+        "impressions": 2456,
+        "month": "2026-09",
+        "organic_key_events": 0,
+        "organic_sessions": 0,
+        "position": 4.05
+      }
+    ],
+    "slope_per_month": {
+      "clicks": -1.594,
+      "impressions": -51.57,
+      "organic_sessions": 0.0,
+      "position": 0.198
+    },
+    "totals": {
+      "clicks": 1592,
+      "ctr": 0.053,
+      "impressions": 30029,
+      "position": 3.62
+    }
+  },
+  "trend_3m": {
+    "vs_last_year": {
+      "before": [
+        "2025-07-01",
+        "2025-09-30"
+      ],
+      "ga4_organic": {
+        "engaged_sessions": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        },
+        "key_events": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        },
+        "sessions": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        }
+      },
+      "gsc": {
+        "clicks": {
+          "before": 813,
+          "change": -432,
+          "change_pct": -0.5314,
+          "now": 381
+        },
+        "ctr": {
+          "before": 0.0677,
+          "change": -0.0122,
+          "change_pct": -0.1802,
+          "now": 0.0555
+        },
+        "impressions": {
+          "before": 12006,
+          "change": -5142,
+          "change_pct": -0.4283,
+          "now": 6864
+        },
+        "position": {
+          "before": 2.83,
+          "change": 2.06,
+          "change_pct": 0.7279,
+          "now": 4.89
+        }
+      },
+      "now": [
+        "2026-07-01",
+        "2026-09-30"
+      ]
+    },
+    "vs_previous_3": {
+      "before": [
+        "2026-04-01",
+        "2026-06-30"
+      ],
+      "ga4_organic": {
+        "engaged_sessions": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        },
+        "key_events": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        },
+        "sessions": {
+          "before": 0,
+          "change": 0,
+          "change_pct": null,
+          "now": 0
+        }
+      },
+      "gsc": {
+        "clicks": {
+          "before": 411,
+          "change": -30,
+          "change_pct": -0.073,
+          "now": 381
+        },
+        "ctr": {
+          "before": 0.0524,
+          "change": 0.0031,
+          "change_pct": 0.0592,
+          "now": 0.0555
+        },
+        "impressions": {
+          "before": 7837,
+          "change": -973,
+          "change_pct": -0.1242,
+          "now": 6864
+        },
+        "position": {
+          "before": 3.29,
+          "change": 1.6,
+          "change_pct": 0.4863,
+          "now": 4.89
+        }
+      },
+      "now": [
+        "2026-07-01",
+        "2026-09-30"
+      ]
+    }
+  }
+}
