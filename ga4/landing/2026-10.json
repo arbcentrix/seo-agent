@@ -29,8 +29,8 @@
     "2026-10-27": "2026-10-30T22:14:58+00:00",
     "2026-10-28": "2026-10-31T22:14:51+00:00",
     "2026-10-29": "2026-11-01T22:44:53+00:00",
-    "2026-10-30": "2026-11-01T22:44:53+00:00",
-    "2026-10-31": "2026-11-01T22:44:53+00:00"
+    "2026-10-30": "2026-11-02T22:14:52+00:00",
+    "2026-10-31": "2026-11-02T22:14:52+00:00"
   },
   "rows": [
     {
@@ -575,33 +575,6 @@
     },
     {
       "date": "2026-10-29",
-      "engagedSessions": 5,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 5,
-      "totalUsers": 5
-    },
-    {
-      "date": "2026-10-29",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-10-29",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Referral",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-29",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/accounting",
@@ -624,6 +597,33 @@
       "keyEvents": 0,
       "landingPage": "/digital-transformation",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 2,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-10-29",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Referral",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -656,12 +656,12 @@
     },
     {
       "date": "2026-10-29",
-      "engagedSessions": 0,
+      "engagedSessions": 5,
       "keyEvents": 0,
-      "landingPage": "/recruitment-and-onboarding",
-      "sessionDefaultChannelGroup": "Referral",
-      "sessions": 2,
-      "totalUsers": 1
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 5
     },
     {
       "date": "2026-10-30",
