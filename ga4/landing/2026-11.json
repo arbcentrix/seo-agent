@@ -1,6 +1,7 @@
 {
   "days": {
-    "2026-11-01": "2026-11-02T23:44:49+00:00"
+    "2026-11-01": "2026-11-03T22:15:20+00:00",
+    "2026-11-02": "2026-11-03T22:15:20+00:00"
   },
   "rows": [
     {
@@ -36,6 +37,60 @@
       "keyEvents": 0,
       "landingPage": "/operations-specialist",
       "sessionDefaultChannelGroup": "AI Assistant",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 4
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "AI Assistant",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     }

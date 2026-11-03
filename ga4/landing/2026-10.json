@@ -30,7 +30,7 @@
     "2026-10-28": "2026-10-31T22:14:51+00:00",
     "2026-10-29": "2026-11-01T22:44:53+00:00",
     "2026-10-30": "2026-11-02T23:44:49+00:00",
-    "2026-10-31": "2026-11-02T23:44:49+00:00"
+    "2026-10-31": "2026-11-03T22:15:20+00:00"
   },
   "rows": [
     {
@@ -665,24 +665,6 @@
     },
     {
       "date": "2026-10-30",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-30",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-10-30",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/about",
@@ -698,6 +680,24 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 2,
       "totalUsers": 2
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-10-30",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
     },
     {
       "date": "2026-10-30",
