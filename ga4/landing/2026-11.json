@@ -1,7 +1,8 @@
 {
   "days": {
-    "2026-11-01": "2026-11-03T22:15:20+00:00",
-    "2026-11-02": "2026-11-03T22:15:20+00:00"
+    "2026-11-01": "2026-11-04T22:15:23+00:00",
+    "2026-11-02": "2026-11-04T22:15:23+00:00",
+    "2026-11-03": "2026-11-04T22:15:23+00:00"
   },
   "rows": [
     {
@@ -93,6 +94,87 @@
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 8,
+      "totalUsers": 7
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/go-to-market-strategy-and-business-development",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-03",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/ystevie-ty",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
     }
   ]
 }
