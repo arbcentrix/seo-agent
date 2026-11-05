@@ -1,0 +1,482 @@
+[
+  {
+    "fetched_at": "2026-11-05T22:14:23+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.032,
+      "fcp_ms": 1154,
+      "lcp_ms": 6261,
+      "performance": 65,
+      "si_ms": 5267,
+      "tbt_ms": 352
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/"
+  },
+  {
+    "fetched_at": "2026-11-05T22:14:42+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 376,
+      "lcp_ms": 1505,
+      "performance": 90,
+      "si_ms": 1487,
+      "tbt_ms": 158
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/"
+  },
+  {
+    "fetched_at": "2026-11-05T22:15:01+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.002,
+      "fcp_ms": 987,
+      "lcp_ms": 6387,
+      "performance": 76,
+      "si_ms": 2163,
+      "tbt_ms": 145
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/services"
+  },
+  {
+    "fetched_at": "2026-11-05T22:15:16+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 691,
+      "lcp_ms": 1418,
+      "performance": 81,
+      "si_ms": 898,
+      "tbt_ms": 328
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/services"
+  },
+  {
+    "fetched_at": "2026-11-05T22:15:30+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 1144,
+      "lcp_ms": 10262,
+      "performance": 72,
+      "si_ms": 4553,
+      "tbt_ms": 57
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/accounting"
+  },
+  {
+    "fetched_at": "2026-11-05T22:15:46+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.006,
+      "fcp_ms": 372,
+      "lcp_ms": 1448,
+      "performance": 90,
+      "si_ms": 1398,
+      "tbt_ms": 162
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/accounting"
+  },
+  {
+    "fetched_at": "2026-11-05T22:16:01+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 1132,
+      "lcp_ms": 6694,
+      "performance": 64,
+      "si_ms": 4662,
+      "tbt_ms": 417
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/audit"
+  },
+  {
+    "fetched_at": "2026-11-05T22:16:23+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.024,
+      "fcp_ms": 352,
+      "lcp_ms": 1338,
+      "performance": 94,
+      "si_ms": 1421,
+      "tbt_ms": 85
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/audit"
+  },
+  {
+    "fetched_at": "2026-11-05T22:16:40+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 1172,
+      "lcp_ms": 6939,
+      "performance": 73,
+      "si_ms": 4593,
+      "tbt_ms": 78
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/tax"
+  },
+  {
+    "fetched_at": "2026-11-05T22:16:53+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.006,
+      "fcp_ms": 350,
+      "lcp_ms": 1397,
+      "performance": 88,
+      "si_ms": 1338,
+      "tbt_ms": 209
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/tax"
+  },
+  {
+    "fetched_at": "2026-11-05T22:17:11+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 1161,
+      "lcp_ms": 8825,
+      "performance": 75,
+      "si_ms": 2071,
+      "tbt_ms": 91
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/contact"
+  },
+  {
+    "fetched_at": "2026-11-05T22:17:24+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 356,
+      "lcp_ms": 1683,
+      "performance": 87,
+      "si_ms": 1016,
+      "tbt_ms": 200
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/contact"
+  },
+  {
+    "fetched_at": "2026-11-05T22:17:41+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 1132,
+      "lcp_ms": 6310,
+      "performance": 50,
+      "si_ms": 5831,
+      "tbt_ms": 1099
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/about"
+  },
+  {
+    "fetched_at": "2026-11-05T22:18:14+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 350,
+      "lcp_ms": 1251,
+      "performance": 77,
+      "si_ms": 1524,
+      "tbt_ms": 411
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/about"
+  },
+  {
+    "fetched_at": "2026-11-05T22:18:34+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 1015,
+      "lcp_ms": 4520,
+      "performance": 84,
+      "si_ms": 1274,
+      "tbt_ms": 90
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/insights"
+  },
+  {
+    "fetched_at": "2026-11-05T22:18:46+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 306,
+      "lcp_ms": 1225,
+      "performance": 89,
+      "si_ms": 721,
+      "tbt_ms": 233
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/insights"
+  },
+  {
+    "fetched_at": "2026-11-05T22:19:03+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 949,
+      "lcp_ms": 4025,
+      "performance": 85,
+      "si_ms": 1213,
+      "tbt_ms": 157
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/case-study"
+  },
+  {
+    "fetched_at": "2026-11-05T22:19:17+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0,
+      "fcp_ms": 282,
+      "lcp_ms": 1942,
+      "performance": 90,
+      "si_ms": 542,
+      "tbt_ms": 95
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/case-study"
+  },
+  {
+    "fetched_at": "2026-11-05T22:19:33+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.002,
+      "fcp_ms": 1153,
+      "lcp_ms": 5933,
+      "performance": 74,
+      "si_ms": 3299,
+      "tbt_ms": 224
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/customer-care"
+  },
+  {
+    "fetched_at": "2026-11-05T22:19:51+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 762,
+      "lcp_ms": 1317,
+      "performance": 96,
+      "si_ms": 894,
+      "tbt_ms": 78
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/customer-care"
+  },
+  {
+    "fetched_at": "2026-11-05T22:20:06+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.014,
+      "fcp_ms": 1144,
+      "lcp_ms": 7594,
+      "performance": 72,
+      "si_ms": 3480,
+      "tbt_ms": 172
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/property-management"
+  },
+  {
+    "fetched_at": "2026-11-05T22:20:21+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 365,
+      "lcp_ms": 1182,
+      "performance": 92,
+      "si_ms": 997,
+      "tbt_ms": 193
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/property-management"
+  },
+  {
+    "fetched_at": "2026-11-05T22:20:38+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.011,
+      "fcp_ms": 1138,
+      "lcp_ms": 5178,
+      "performance": 69,
+      "si_ms": 2592,
+      "tbt_ms": 458
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/recruitment-and-onboarding"
+  },
+  {
+    "fetched_at": "2026-11-05T22:20:57+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 356,
+      "lcp_ms": 1208,
+      "performance": 97,
+      "si_ms": 844,
+      "tbt_ms": 52
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/recruitment-and-onboarding"
+  },
+  {
+    "fetched_at": "2026-11-05T22:21:13+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 1146,
+      "lcp_ms": 7571,
+      "performance": 74,
+      "si_ms": 3357,
+      "tbt_ms": 96
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/digital-transformation"
+  },
+  {
+    "fetched_at": "2026-11-05T22:21:29+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.0,
+      "fcp_ms": 373,
+      "lcp_ms": 1531,
+      "performance": 70,
+      "si_ms": 1142,
+      "tbt_ms": 624
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/digital-transformation"
+  },
+  {
+    "fetched_at": "2026-11-05T22:21:58+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.002,
+      "fcp_ms": 1149,
+      "lcp_ms": 7230,
+      "performance": 76,
+      "si_ms": 2865,
+      "tbt_ms": 41
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+  },
+  {
+    "fetched_at": "2026-11-05T22:22:10+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.007,
+      "fcp_ms": 762,
+      "lcp_ms": 1210,
+      "performance": 96,
+      "si_ms": 873,
+      "tbt_ms": 80
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+  },
+  {
+    "fetched_at": "2026-11-05T22:22:25+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.002,
+      "fcp_ms": 1148,
+      "lcp_ms": 6300,
+      "performance": 74,
+      "si_ms": 3176,
+      "tbt_ms": 188
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "mobile",
+    "url": "https://arbcentrix.com/order-fulfillment-management"
+  },
+  {
+    "fetched_at": "2026-11-05T22:22:41+00:00",
+    "field": null,
+    "lab": {
+      "cls": 0.001,
+      "fcp_ms": 763,
+      "lcp_ms": 1196,
+      "performance": 97,
+      "si_ms": 897,
+      "tbt_ms": 65
+    },
+    "lighthouse_version": "13.6.0",
+    "origin_field": null,
+    "strategy": "desktop",
+    "url": "https://arbcentrix.com/order-fulfillment-management"
+  }
+]
