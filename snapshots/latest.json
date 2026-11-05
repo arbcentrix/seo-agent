@@ -1,19 +1,19 @@
 {
   "base_url": "https://arbcentrix.com",
-  "build_signature": "19ab8c050c2a112b",
-  "fetched_at": "2026-11-05T00:29:59+00:00",
+  "build_signature": "1d67a4a50039e072",
+  "fetched_at": "2026-11-05T04:31:05+00:00",
   "graph": {
     "inlinks": {
       "https://arbcentrix.com/": [
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
         "https://arbcentrix.com/audit",
         "https://arbcentrix.com/careers",
         "https://arbcentrix.com/case-study",
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -47,8 +47,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -72,6 +72,7 @@
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -105,8 +106,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -140,6 +141,7 @@
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -173,8 +175,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -205,13 +207,13 @@
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
         "https://arbcentrix.com/audit",
         "https://arbcentrix.com/careers",
         "https://arbcentrix.com/case-study",
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/customer-care",
@@ -244,8 +246,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -306,6 +308,7 @@
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -339,7 +342,7 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
-        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -366,13 +369,13 @@
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
         "https://arbcentrix.com/audit",
         "https://arbcentrix.com/careers",
         "https://arbcentrix.com/case-study",
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -406,8 +409,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -441,6 +444,7 @@
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -474,8 +478,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -498,13 +502,13 @@
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
         "https://arbcentrix.com/audit",
         "https://arbcentrix.com/careers",
         "https://arbcentrix.com/case-study",
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -538,8 +542,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -557,13 +561,13 @@
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/accounting",
-        "https://arbcentrix.com/accounting-services",
         "https://arbcentrix.com/audit",
         "https://arbcentrix.com/careers",
         "https://arbcentrix.com/case-study",
         "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
         "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
         "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
         "https://arbcentrix.com/client-accounting-services",
         "https://arbcentrix.com/compliance-operations-specialist",
         "https://arbcentrix.com/contact",
@@ -597,8 +601,8 @@
         "https://arbcentrix.com/insights/the-price-of-delay",
         "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
         "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
         "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/loss-prevention",
         "https://arbcentrix.com/maan-sacdalan",
         "https://arbcentrix.com/onboarding-specialist",
         "https://arbcentrix.com/operations-specialist",
@@ -669,13 +673,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "https://arbcentrix.com/accounting-services": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
+      "https://arbcentrix.com/accounting-services": [],
       "https://arbcentrix.com/audit": [
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
@@ -745,7 +743,17 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "https://arbcentrix.com/case-study/why-capacity-feels-fragile": [],
+      "https://arbcentrix.com/case-study/why-capacity-feels-fragile": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/terms",
+        "https://arbcentrix.com/privacy-policy",
+        "https://arbcentrix.com/trust-center"
+      ],
       "https://arbcentrix.com/client-accounting-services": [
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
@@ -1114,18 +1122,7 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "https://arbcentrix.com/kevin-mairs": [],
-      "https://arbcentrix.com/locations": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/about",
-        "https://arbcentrix.com/services",
-        "https://arbcentrix.com/careers",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
-      "https://arbcentrix.com/loss-prevention": [
+      "https://arbcentrix.com/kevin-mairs": [
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
         "https://arbcentrix.com/services",
@@ -1136,6 +1133,17 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
+      "https://arbcentrix.com/locations": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/terms",
+        "https://arbcentrix.com/privacy-policy",
+        "https://arbcentrix.com/trust-center"
+      ],
+      "https://arbcentrix.com/loss-prevention": [],
       "https://arbcentrix.com/maan-sacdalan": [
         "https://arbcentrix.com/",
         "https://arbcentrix.com/about",
@@ -1316,7 +1324,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/s4ZNJqWiE.0ZiFqZGZ.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xLAezFEgs.BdD9sHWs.mjs"
@@ -1326,7 +1334,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"55f1481651b9219c44549fde3aa298e1\"",
+      "etag": "\"3b77975f47b6f78d0a690a629e5b3fc5\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -1396,14 +1404,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:55 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1441,7 +1449,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/s4ZNJqWiE.0ZiFqZGZ.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/uLOhMA4Km.0i7MeyWN.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xLAezFEgs.BdD9sHWs.mjs"
@@ -1451,7 +1459,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"0862654010c9141319408062059913c3\"",
+      "etag": "\"5c9e289d5d2db7114aae7c52099a4663\"",
       "external_links": [
         "https://www.linkedin.com/in/alfantonio",
         "https://ph.linkedin.com/in/ystevie-dennis-ty-2469ab158",
@@ -1519,14 +1527,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:55 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1546,34 +1554,34 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgcRnnsPH.BISb8GOQ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TNd6n3QFa.C75ptw24.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/XaYWrg4Ax.D5JEBOY0.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bDZjksbCJ.DSecdLhF.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/eOrR6o5K4.CBdTqAJ6.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/ff6vUYb8qDnkTB-gcsBEoKf9cWdEGdDB5R1zjAoYkyg.8V7qT5Bd.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/hL8cBIai3.BvyHumOV.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mE8UeswKZU3XdkQVZzx_pX3NzSMvrP095GQ6ZKY32OQ.CuHMEARW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vvXWFgLC4.Cl1gAKfN.mjs"
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vvXWFgLC4.DXd2U-2b.mjs"
       ],
       "canonicals": [
         "https://arbcentrix.com/accounting"
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"312e6cc3116a8f69bc02af0caf87e12b\"",
+      "etag": "\"911d3fc9b3ec62e6cb4b1822a10f0eda\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -1594,10 +1602,10 @@
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "2c8b871e52d4e5f5",
+          "word_count": "e39eef82f61b21e2",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "41c9217831407a67"
+        "hash": "de36810b644084e2"
       },
       "h1": [
         "Let's Extend Your Accounting Team",
@@ -1624,14 +1632,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1640,95 +1648,57 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/accounting",
-      "word_count": 1007,
+      "word_count": 1024,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/accounting-services": {
       "build_assets": [
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Aqz3ADxXm.DQBVPGzY.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/NMUKfjOuy.C5nW0Rq4.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Pw8KA3JAwYOz512JbKo5IxxMqBrlVVlPS9rRpsR47QU.BYdKJ9II.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/SrcV65t7V.C2Jdc5gB.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UsePageVisibility.CrL7VhgG.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c6syc17dC.Aw6S6FQ2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/eOrR6o5K4.CBdTqAJ6.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/index.es.CoakXDEw.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mjKS4EYXR.eW_xVChc.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs"
       ],
-      "canonicals": [
-        "https://arbcentrix.com/accounting-services"
-      ],
-      "empty_shell": false,
+      "canonicals": [],
+      "cold_render": false,
+      "empty_shell": true,
       "error": null,
-      "etag": "\"e1d7aa4fe4116cf6d82d8df47cac4a59\"",
-      "external_links": [
-        "https://www.instagram.com/arbcentrix",
-        "https://ph.linkedin.com/company/arbcentrix"
-      ],
+      "etag": "\"528ed6a881d5d74cb74006f88f0bc764\"",
+      "external_links": [],
       "final_url": "https://arbcentrix.com/accounting-services",
       "fingerprint": {
         "fields": {
-          "canonicals": "87275fa7dd8b17c9",
-          "h1": "cd89b1dd94d8aea3",
-          "h2": "8b459c827ac75d87",
+          "canonicals": "4f53cda18c2baa0c",
+          "h1": "4f53cda18c2baa0c",
+          "h2": "4f53cda18c2baa0c",
           "has_booking": "fcbcf165908dd18a",
           "has_form": "fcbcf165908dd18a",
-          "internal_links": "45c464105e28488c",
+          "internal_links": "4f53cda18c2baa0c",
           "meta_description": "07ed05f798234c6f",
           "redirects": "4f53cda18c2baa0c",
-          "robots_meta": "fc30e8054aae13dc",
+          "robots_meta": "74234e98afe7498f",
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "173deaaf2f52bf79",
+          "word_count": "5feceb66ffc86f38",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "55b552dfd6ac639d"
+        "hash": "b551de45450af25d"
       },
-      "h1": [
-        "The Challenge",
-        "How We Operate Within Your Operations:"
-      ],
-      "h2": [
-        "Embedded audit teams aligned to your workflow, ensuring continuous execution, real-time collaboration, and controlled delivery.",
-        "Integrated tax support that enables continuous execution, real-time collaboration, and scalable capacity.",
-        "When you work with Arbcentrix, this is how we integrate into your operations:"
-      ],
+      "h1": [],
+      "h2": [],
       "has_booking": false,
       "has_form": false,
       "in_sitemap": true,
-      "internal_links": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
-      "last_modified": "Thu, 05 Nov 2026 00:08:38 GMT",
+      "internal_links": [],
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
-      "robots_meta": "max-image-preview:large",
+      "robots_meta": null,
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1737,22 +1707,22 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/accounting-services",
-      "word_count": 4266,
+      "word_count": 0,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/audit": {
       "build_assets": [
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/FVEZX4xldhzvCZyhtP4ORwxUOK8krFP9Q_5haej3twY.QZFI_12T.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/7GT2RA1yOzCdH6HeUdnOpVHZDLA7QjfkXBC3NzABp9M.CuflyxE9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Parallax_Image.Dgvv1dCq.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgcRnnsPH.BISb8GOQ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/RjFByc6AY.Dc66ZJZN.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/RjFByc6AY.yM7-Vwpg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TNd6n3QFa.C75ptw24.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/XaYWrg4Ax.D5JEBOY0.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/eOrR6o5K4.CBdTqAJ6.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
@@ -1764,7 +1734,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
@@ -1774,7 +1744,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"a0bd27e949f97500a082c986866cbcc0\"",
+      "etag": "\"1f611611922e86f524b93c11ba99dbaa\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -1784,7 +1754,7 @@
       "fingerprint": {
         "fields": {
           "canonicals": "bb07fcb9bbc4a549",
-          "h1": "fae793c4ab2b67ab",
+          "h1": "66db1f5f2179643a",
           "h2": "09d9e730efdc4da9",
           "has_booking": "b5bea41b6c623f7c",
           "has_form": "fcbcf165908dd18a",
@@ -1795,10 +1765,10 @@
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "9989a37538faecc4",
+          "word_count": "00037f39cf870a1f",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "2253117c135637b9"
+        "hash": "05b0dc3c465980a7"
       },
       "h1": [
         "Let's Extend Your Audit Team",
@@ -1806,8 +1776,7 @@
         "How We Operate Within Your Operations:",
         "High Impact Roles for US Businesses",
         "How This is Executed:",
-        "What We Take Off Your Plate:",
-        "OUTCOME"
+        "What We Take Off Your Plate:"
       ],
       "h2": [
         "B o o k a 1 5 - M i n u t e A u d i t C a p a c i t y A s s e s s m e n t"
@@ -1826,14 +1795,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1842,7 +1811,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/audit",
-      "word_count": 1018,
+      "word_count": 1039,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/careers": {
@@ -1863,7 +1832,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -1871,7 +1840,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"805b7760c53d60d6fd3c817e641f8cff\"",
+      "etag": "\"e41e0e6729d9f1ee20ab461c7868daf3\"",
       "external_links": [
         "https://ph.indeed.com/job/senior-general-accountant-cpa-required-2277d31b10a2266b",
         "https://ph.indeed.com/job/staff-accountant-ii-cpa-4f1ae4b1b908ce68",
@@ -1919,14 +1888,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -1955,7 +1924,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWXQV7K_c.CvFvBS07.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xe9kYrHi4MAHbk90jm7Pv9x-t0oU8BYEhWZDXae5YzI.D_dZzAQt.mjs"
@@ -1965,7 +1934,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"4e59602de0c69a1d31716d7a2e384505\"",
+      "etag": "\"913e145eb4ce96bcfbfad91e0b3f4d7a\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -2012,14 +1981,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2051,7 +2020,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qLNhztXfg7ZjdK3WRB8TigCxU7AnXw76-SzbDiStgkA.Cjx3rtEg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWXQV7K_c.CvFvBS07.mjs"
@@ -2062,7 +2031,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"5fdf323d7797375add9e419d2b1e8664\"",
+      "etag": "\"190d4ef27324d9a2c3e5e9f70a84beb5\"",
       "external_links": [
         "https://framerusercontent.com/assets/0AuEn1bfgb9AIdM2oesz5eh6QBA.pdf",
         "https://www.instagram.com/arbcentrix",
@@ -2106,14 +2075,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2145,7 +2114,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qLNhztXfg7ZjdK3WRB8TigCxU7AnXw76-SzbDiStgkA.Cjx3rtEg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWXQV7K_c.CvFvBS07.mjs"
@@ -2156,7 +2125,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"39ed8e3db5e6487e0086772ba73463c5\"",
+      "etag": "\"c617b8ffbf4335945c5ea2a67f5109c4\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -2206,14 +2175,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2245,7 +2214,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qLNhztXfg7ZjdK3WRB8TigCxU7AnXw76-SzbDiStgkA.Cjx3rtEg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWXQV7K_c.CvFvBS07.mjs"
@@ -2256,7 +2225,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"69a7bf29b6f606d54b1192b49558c838\"",
+      "etag": "\"80e8a7d70b99f364bbeed994ba602c32\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -2306,14 +2275,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2327,52 +2296,92 @@
     },
     "https://arbcentrix.com/case-study/why-capacity-feels-fragile": {
       "build_assets": [
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/By6O11vLv.RJOW3YqS.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Feather.TbDpzDvZ.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/I84i5j3u1.DU4vaRyy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/NC_cT0PL_.ruJ0Xpur.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/O8B1dBbNL.DsbtLy9Q.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PlxzuI9T1.C4-tae-F.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/QPuqatBMT.CNP9vFes.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/XPqUeXlXx.DT-Jrhbs.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/aZnbZQ3QL.Ca5-yCIN.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/b6_GlpKBr.Da_91xJx.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qLNhztXfg7ZjdK3WRB8TigCxU7AnXw76-SzbDiStgkA.Cjx3rtEg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs"
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWXQV7K_c.CvFvBS07.mjs"
       ],
-      "canonicals": [],
-      "cold_render": false,
-      "empty_shell": true,
+      "canonicals": [
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile"
+      ],
+      "cold_render": true,
+      "empty_shell": false,
       "error": null,
-      "etag": "\"a70eac64f3ae738abd5dfecd7d3ecd5f\"",
-      "external_links": [],
+      "etag": "\"75e91c2cc8ee162627f549e0e6871a49\"",
+      "external_links": [
+        "https://www.instagram.com/arbcentrix",
+        "https://ph.linkedin.com/company/arbcentrix"
+      ],
       "final_url": "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
       "fingerprint": {
         "fields": {
-          "canonicals": "4f53cda18c2baa0c",
-          "h1": "4f53cda18c2baa0c",
-          "h2": "4f53cda18c2baa0c",
+          "canonicals": "0bd0b5c691bdf80d",
+          "h1": "c81b1986b47c6f67",
+          "h2": "a71c76e51d2438b8",
           "has_booking": "fcbcf165908dd18a",
           "has_form": "fcbcf165908dd18a",
-          "internal_links": "4f53cda18c2baa0c",
+          "internal_links": "c70ceab1c96d84f9",
           "meta_description": "07ed05f798234c6f",
           "redirects": "4f53cda18c2baa0c",
-          "robots_meta": "74234e98afe7498f",
+          "robots_meta": "fc30e8054aae13dc",
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "5feceb66ffc86f38",
+          "word_count": "8def3488486c17df",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "b551de45450af25d"
+        "hash": "d2832e6fdabc1a90"
       },
-      "h1": [],
-      "h2": [],
+      "h1": [
+        "Why Capacity Feels Fragile"
+      ],
+      "h2": [
+        "Why Audit Capacity at Most CPA Firms Feels So Fragile",
+        "When Efficiency Depends on Individuals",
+        "The Hidden Cost of Fragility",
+        "From Fragile to Resilient: The Shift to Systems",
+        "Building What Lasts"
+      ],
       "has_booking": false,
       "has_form": false,
       "in_sitemap": true,
-      "internal_links": [],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "internal_links": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/terms",
+        "https://arbcentrix.com/privacy-policy",
+        "https://arbcentrix.com/trust-center"
+      ],
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
-      "robots_meta": null,
+      "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2381,7 +2390,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
-      "word_count": 0,
+      "word_count": 538,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/client-accounting-services": {
@@ -2400,7 +2409,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -2409,7 +2418,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"422a21b96f4f75fc7b416adb3ebd70da\"",
+      "etag": "\"aa0204d8a7e5c4b9e542a8cce1ca506c\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -2452,14 +2461,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2487,7 +2496,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qC8GX6jCY.CJzibpJ9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -2496,7 +2505,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"b225d7c0840fb47e97b910c579c3ace1\"",
+      "etag": "\"3b74059e1f5301351e3a627de977157b\"",
       "external_links": [
         "https://ph.jobstreet.com/job/86241046",
         "https://www.instagram.com/arbcentrix",
@@ -2541,14 +2550,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2574,7 +2583,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xWHf2ZU791TEoS29RQ1B7uHer-2wao6MvZvKHYrHALY.Bq5J52Vo.mjs"
       ],
@@ -2583,7 +2592,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"c9a83825b8981aa57c7f3572207afce3\"",
+      "etag": "\"8fa44a3f98cdaadf6997618ad16734d1\"",
       "external_links": [
         "https://maps.app.goo.gl/LydS9wiH84GZsCYd7",
         "https://www.instagram.com/arbcentrix",
@@ -2628,14 +2637,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2670,7 +2679,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/sfgiQXU3_.B0kwn597.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
@@ -2679,7 +2688,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"655a5ea0f7ef56d09d0b727af4f97b48\"",
+      "etag": "\"410ec25e82c336af2febd2874679ea04\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -2734,14 +2743,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2758,7 +2767,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Aqz3ADxXm.DQBVPGzY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/H__r_2zWY.XEcnuHaR.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/I84i5j3u1.DU4vaRyy.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/LfAtrryrY.DtG4Jjn9.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/LfAtrryrY.c6AdWezc.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/O8B1dBbNL.DsbtLy9Q.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Parallax_Image.Dgvv1dCq.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
@@ -2766,12 +2775,12 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/V0585vn40dKp4WiE3hULfRQRaeUTBGeiqk48zj4eXpM.Bv9LL5o2.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/b6_GlpKBr.Da_91xJx.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bDZjksbCJ.DSecdLhF.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/dFZfaXyJm3iF-i9ivaOEGNwsN2YWnBpuXvOk8XrerNs.CznA206f.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/hL8cBIai3.BvyHumOV.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
@@ -2780,7 +2789,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/xLAezFEgs.BdD9sHWs.mjs"
@@ -2790,7 +2799,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"6e4478c21c6bf1c94dc6c5125df40552\"",
+      "etag": "\"dcddb70403497e26415844d7067a17bb\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -2811,10 +2820,10 @@
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "a478642504ac5d83",
+          "word_count": "fddc599a3afe6c68",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "2efede7d26d2d2bf"
+        "hash": "5bc032206b1a3242"
       },
       "h1": [
         "Let's Extend Your Marketing Team",
@@ -2842,14 +2851,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2858,7 +2867,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/digital-transformation",
-      "word_count": 1424,
+      "word_count": 1456,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/go-to-market-strategy-and-business-development": {
@@ -2880,7 +2889,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/sfgiQXU3_.B0kwn597.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
@@ -2889,7 +2898,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"9fdf00aa175c2870aab5b3ea51a3e144\"",
+      "etag": "\"9906a6c91b7b8ae3b35abc82b1936f30\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -2943,14 +2952,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:44 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -2978,7 +2987,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -2987,7 +2996,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"a9b13da2697f1083ff4f60b2979801e3\"",
+      "etag": "\"e2abaa9a1859f044817105329ab77147\"",
       "external_links": [
         "https://ph.jobstreet.com/job/86830825",
         "https://www.instagram.com/arbcentrix",
@@ -3032,14 +3041,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3067,7 +3076,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -3075,7 +3084,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"f864d36686f22ffa9cf6123a6048eaa4\"",
+      "etag": "\"e0a349c76aabe9cea7563cac2dbe5ffc\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3124,14 +3133,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3163,7 +3172,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3173,7 +3182,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"cdcf68ee18e214f4d148cca99c304d11\"",
+      "etag": "\"21c2958455abc4cbd34d9b0626df347d\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3220,14 +3229,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3259,7 +3268,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3269,7 +3278,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"5f8829ac454a3cea5ff201871b80d4a2\"",
+      "etag": "\"29a1ef8ce3258249523a6054b020d3ac\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3318,14 +3327,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3357,7 +3366,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3367,7 +3376,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"c260711ce76708d6c6ea8935c36c540f\"",
+      "etag": "\"6cb68a715af4cd26d9a6511d156b4bc0\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3410,14 +3419,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3449,7 +3458,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3459,7 +3468,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"2e602ea493e49eece450da3294e2e15c\"",
+      "etag": "\"ef13e7babd14741eb7fae6a4136a6805\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3502,14 +3511,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3541,17 +3550,16 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
       "canonicals": [
         "https://arbcentrix.com/insights/capacity-planning"
       ],
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"0d272bcd0eb3990cd73aa89205607e3b\"",
+      "etag": "\"950a64a55e535d133a78d8f8bb4a4111\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3597,14 +3605,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 03:31:37 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3636,7 +3644,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3646,7 +3654,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"287de2e9cae08e1225b0c48d209b5494\"",
+      "etag": "\"34f0c27bc33e34b09262e545ea4590e6\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3694,14 +3702,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3733,7 +3741,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3743,7 +3751,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"83458fe126998a29d3b5911ea89e5689\"",
+      "etag": "\"7b2aaf3a2c5ac4abd95ddacfc4aa2e1d\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3786,14 +3794,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3825,7 +3833,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3835,7 +3843,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"9a58122a4211cb8a90200abf70b26720\"",
+      "etag": "\"660746ffdc224cb0962143c13ddfed18\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3882,14 +3890,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -3921,7 +3929,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -3931,7 +3939,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"d7a1926c15bce0476046efcb31612a14\"",
+      "etag": "\"ea5370fb324423a1b64ac008d578db43\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -3974,14 +3982,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4013,7 +4021,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4023,7 +4031,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"1fa3981a95906cc8d1e2ea5fc8425982\"",
+      "etag": "\"7e70099e37f53ba1094c0bcb6b38f0d7\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4066,14 +4074,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4105,7 +4113,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4115,7 +4123,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"8bf9ee8f35ce7582ce135bab643908c3\"",
+      "etag": "\"4430fc222dacf6216bb174cd492f3120\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4162,14 +4170,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4201,7 +4209,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4211,7 +4219,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"0dc7d7829649c67d09e6321a4f412da9\"",
+      "etag": "\"03f6fb79cdedd852f13e3d3d9da104c1\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4254,14 +4262,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4293,7 +4301,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4303,7 +4311,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"cd8ba3a2d80d4a326b789f88b2f1a2f9\"",
+      "etag": "\"618f738688ce33e02204b55f285de35f\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4351,14 +4359,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4390,7 +4398,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4400,7 +4408,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"634d1b29ffcf5bd94572d227358bb964\"",
+      "etag": "\"e1baaca77746bb2638b69d06af65d659\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4448,14 +4456,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4487,7 +4495,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4497,7 +4505,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"4c554a8942c9c4c9b82b675866955c9a\"",
+      "etag": "\"c8b6a20be31be31bc0f1f2e50c5764b3\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4540,14 +4548,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4579,7 +4587,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4589,7 +4597,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"bd8d8cfe1b3a6ee49595279f6209af54\"",
+      "etag": "\"a41519e4a8535425eb84c74fddb031eb\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4635,14 +4643,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4674,7 +4682,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4684,7 +4692,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"416b27017ee06444d240a34a39b9e0ce\"",
+      "etag": "\"62d8ff2aa244d3b39f3b6253a8ae3cca\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4727,14 +4735,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4766,7 +4774,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4776,7 +4784,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"0452e3d9e2355f4d55e4c4a1d767ec2c\"",
+      "etag": "\"077b87b185286608114eb80f992ed083\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -4827,14 +4835,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4866,7 +4874,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -4876,7 +4884,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"57b226d471364c81195343b83afd4ec3\"",
+      "etag": "\"93be42c63c26fcf5459fa7c70c993b2b\"",
       "external_links": [
         "https://framerusercontent.com/assets/JGLU4vDo6FegRuv9kFOAp7hVI.pdf",
         "https://www.instagram.com/arbcentrix",
@@ -4920,14 +4928,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -4959,17 +4967,16 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
       "canonicals": [
         "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity"
       ],
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"87b24765f8a6eb7bd55912ca7b19e1cb\"",
+      "etag": "\"0e365413ab9228fda545b4558bc3f56a\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5019,14 +5026,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:25:44 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5058,7 +5065,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -5068,7 +5075,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"54a6072bed3a7b1acede5708a109427e\"",
+      "etag": "\"f98689c21eb8ac22d54a97b85b39d9a7\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5115,14 +5122,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5154,7 +5161,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -5164,7 +5171,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"a4302270958856feea652b31b42e8fd0\"",
+      "etag": "\"fdacd48007ca2954013cff77f1118b38\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5211,14 +5218,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5250,7 +5257,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -5260,7 +5267,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"4b856ce036a3e70f17095e7bae4ab3b4\"",
+      "etag": "\"411f2c6d5cfb5aac2822065519525172\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5303,14 +5310,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5342,7 +5349,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/vFgaD3Kih.Bf9EkQVz.mjs"
       ],
@@ -5352,7 +5359,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"65c3aa2ebaf4dc0db59494b87c46b53a\"",
+      "etag": "\"90ea0a3c8c5993f44840b63fcb41c383\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5395,14 +5402,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5434,7 +5441,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
       ],
@@ -5444,7 +5451,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"91421522551df4a87f14ae7998bd03ec\"",
+      "etag": "\"741d0f7f0786996982a64aa477b5e894\"",
       "external_links": [
         "https://calendly.com/arbcentrix/it-systems-assessment",
         "https://www.instagram.com/arbcentrix",
@@ -5503,14 +5510,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5524,52 +5531,77 @@
     },
     "https://arbcentrix.com/kevin-mairs": {
       "build_assets": [
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Feather.TbDpzDvZ.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/GEnI2lNpv.DBZ8h0p7.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/XMNe6OcQX.Cs6vRj84.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/aLD1gJShxFPdzuJ233eTbdaNZ78r3dBFt2vReuagUTI.CIaGSMar.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/aZnbZQ3QL.Ca5-yCIN.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/b6_GlpKBr.Da_91xJx.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/iTtANBHME.Dk84d33C.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs"
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
-      "canonicals": [],
-      "cold_render": false,
-      "empty_shell": true,
+      "canonicals": [
+        "https://arbcentrix.com/kevin-mairs"
+      ],
+      "cold_render": true,
+      "empty_shell": false,
       "error": null,
-      "etag": "\"a70eac64f3ae738abd5dfecd7d3ecd5f\"",
-      "external_links": [],
+      "etag": "\"1b6d865222b396c5aa929c577da26873\"",
+      "external_links": [
+        "https://www.linkedin.com/in/kevin-mairs",
+        "https://www.instagram.com/arbcentrix",
+        "https://ph.linkedin.com/company/arbcentrix"
+      ],
       "final_url": "https://arbcentrix.com/kevin-mairs",
       "fingerprint": {
         "fields": {
-          "canonicals": "4f53cda18c2baa0c",
+          "canonicals": "cee1c3e91e043ae3",
           "h1": "4f53cda18c2baa0c",
           "h2": "4f53cda18c2baa0c",
           "has_booking": "fcbcf165908dd18a",
           "has_form": "fcbcf165908dd18a",
-          "internal_links": "4f53cda18c2baa0c",
+          "internal_links": "c70ceab1c96d84f9",
           "meta_description": "07ed05f798234c6f",
           "redirects": "4f53cda18c2baa0c",
-          "robots_meta": "74234e98afe7498f",
+          "robots_meta": "fc30e8054aae13dc",
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "5feceb66ffc86f38",
+          "word_count": "769e881d85fc5d27",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "b551de45450af25d"
+        "hash": "a78696c10e331dda"
       },
       "h1": [],
       "h2": [],
       "has_booking": false,
       "has_form": false,
       "in_sitemap": true,
-      "internal_links": [],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "internal_links": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/terms",
+        "https://arbcentrix.com/privacy-policy",
+        "https://arbcentrix.com/trust-center"
+      ],
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
-      "robots_meta": null,
+      "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5578,7 +5610,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/kevin-mairs",
-      "word_count": 0,
+      "word_count": 703,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/locations": {
@@ -5598,7 +5630,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -5606,7 +5638,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"2e2c5ad1c0f13ac422d4084dd9576e97\"",
+      "etag": "\"cfa3bd9ebb279ebbe5380606f802e25e\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -5651,14 +5683,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5672,98 +5704,52 @@
     },
     "https://arbcentrix.com/loss-prevention": {
       "build_assets": [
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/H__r_2zWY.XEcnuHaR.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/LW1ZjQuF7.C-W3h7sU.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/S3jb5pbeC.DL9cxTHb.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Ug4eAv76Z.3UDiN9Sc.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/nd1tSPnVgR4WhXmjBXKhVYwAwyMJLBCg19TfPYjGkfI.COR_4Hej.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs"
       ],
-      "canonicals": [
-        "https://arbcentrix.com/loss-prevention"
-      ],
-      "empty_shell": false,
+      "canonicals": [],
+      "cold_render": false,
+      "empty_shell": true,
       "error": null,
-      "etag": "\"3593b9032b65ab9553c050194d214163\"",
-      "external_links": [
-        "https://calendly.com/arbcentrix/loss-prevention-risk-assessment",
-        "https://www.instagram.com/arbcentrix",
-        "https://ph.linkedin.com/company/arbcentrix"
-      ],
+      "etag": "\"528ed6a881d5d74cb74006f88f0bc764\"",
+      "external_links": [],
       "final_url": "https://arbcentrix.com/loss-prevention",
       "fingerprint": {
         "fields": {
-          "canonicals": "d3f3d8f288f4519a",
-          "h1": "3ec482f1421fcab9",
-          "h2": "4719e8815741bf65",
+          "canonicals": "4f53cda18c2baa0c",
+          "h1": "4f53cda18c2baa0c",
+          "h2": "4f53cda18c2baa0c",
           "has_booking": "fcbcf165908dd18a",
           "has_form": "fcbcf165908dd18a",
-          "internal_links": "c70ceab1c96d84f9",
+          "internal_links": "4f53cda18c2baa0c",
           "meta_description": "07ed05f798234c6f",
           "redirects": "4f53cda18c2baa0c",
-          "robots_meta": "fc30e8054aae13dc",
+          "robots_meta": "74234e98afe7498f",
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "3cb65cad26f0a517",
+          "word_count": "5feceb66ffc86f38",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "b65720085cf3b041"
+        "hash": "b551de45450af25d"
       },
-      "h1": [
-        "Operational Control That Protects What You've Built",
-        "What We Do",
-        "What We Take Off Your Plate",
-        "Our Approach",
-        "High Impact Roles for US Businesses",
-        "The Outcome"
-      ],
-      "h2": [
-        "How We Deliver",
-        "01.",
-        "02.",
-        "03",
-        "04.",
-        "Book a 15-Minute Loss Prevention & Risk Control Assessment",
-        "Increase Capacity without Operational Risk"
-      ],
+      "h1": [],
+      "h2": [],
       "has_booking": false,
       "has_form": false,
       "in_sitemap": true,
-      "internal_links": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/about",
-        "https://arbcentrix.com/services",
-        "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/careers",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "internal_links": [],
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
-      "robots_meta": "max-image-preview:large",
+      "robots_meta": null,
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5772,7 +5758,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/loss-prevention",
-      "word_count": 976,
+      "word_count": 0,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/maan-sacdalan": {
@@ -5789,7 +5775,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/qIvjOfQgv.DhDEHGTm.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -5797,7 +5783,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"1142a9ca2f54f6ef916958af6b6b90fc\"",
+      "etag": "\"3ff610371204afb55144e9c715989348\"",
       "external_links": [
         "https://www.linkedin.com/in/maansacdalan",
         "https://www.instagram.com/arbcentrix",
@@ -5839,14 +5825,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5865,7 +5851,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/wNviMbuBWFS0kapBrzANqRjnDT47CtHuoa97Mp2tiAE.DToXKMkp.mjs"
       ],
@@ -5875,7 +5861,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"703fdfefd9409507e044fd5251ba1cd1\"",
+      "etag": "\"90d61f50a3fb73dfb784ecb838d1ca4d\"",
       "external_links": [],
       "final_url": "https://arbcentrix.com/newsletter",
       "fingerprint": {
@@ -5903,14 +5889,14 @@
       "has_form": false,
       "in_sitemap": true,
       "internal_links": [],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -5936,7 +5922,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -5945,7 +5931,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"396571946bf8afcab1d231820815984f\"",
+      "etag": "\"b9a1ebc5c701a3c05ed604d0224a9b68\"",
       "external_links": [
         "https://ph.indeed.com/job/onboarding-specialist-3a01a1d6b6148efd",
         "https://www.instagram.com/arbcentrix",
@@ -5989,14 +5975,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6022,16 +6008,15 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
         "https://arbcentrix.com/operations-specialist"
       ],
-      "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"bd783a9a1245fba763cc48f49ae923bc\"",
+      "etag": "\"d0adc6bd586f681e6732708bdab59e5a\"",
       "external_links": [
         "https://ph.indeed.com/viewjob?from=appsharedroid&jk=2c167f4ed7ee4119",
         "https://www.instagram.com/arbcentrix",
@@ -6075,14 +6060,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 03:45:54 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6116,7 +6101,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/sfgiQXU3_.B0kwn597.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tOupf4RfGZd6L2uiyg2m7t568XB8rm0EFuND01Xl9sg.CKL68IM7.mjs"
@@ -6126,7 +6111,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"b37699382fcd4c78f6c08864f786f1e7\"",
+      "etag": "\"cca7acd148fda829266e00abfb1a99e7\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -6181,14 +6166,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6215,7 +6200,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -6224,7 +6209,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"3f507cfcdd9c861d8406a7573dd1ee1e\"",
+      "etag": "\"82b7236098ac0bb3b8e41649095a230d\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -6267,14 +6252,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": true,
       "redirects": [],
       "robots_meta": "noindex",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6309,7 +6294,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/sfgiQXU3_.B0kwn597.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
@@ -6318,7 +6303,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"d1241c845c991164657d5941ba7f346c\"",
+      "etag": "\"8a0b60d20af082a2affd70d15cde034f\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -6374,14 +6359,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6417,7 +6402,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/sfgiQXU3_.B0kwn597.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
@@ -6427,7 +6412,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"a4a4d4570dadb9ada76a91636b915528\"",
+      "etag": "\"b8d6c2465c4cb7ca756e4590893d8bb8\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://calendly.com/arbcentrix/recruitment-and-onboarding",
@@ -6486,14 +6471,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6521,7 +6506,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -6530,7 +6515,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"9e8326530386ce2721f17f45ebc18922\"",
+      "etag": "\"849a17ff1d1136967c109ef9026ea40a\"",
       "external_links": [
         "https://ph.indeed.com/job/quality-assurance-auditor-asset-protection-bc8ad894a5b96eb0",
         "https://www.instagram.com/arbcentrix",
@@ -6575,14 +6560,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6614,7 +6599,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
       ],
@@ -6623,7 +6608,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"65a86fff569b992d19a274ba032b1717\"",
+      "etag": "\"955b23e5ea44a00458f9add6ac9268d1\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -6677,14 +6662,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6699,6 +6684,7 @@
     "https://arbcentrix.com/tax": {
       "build_assets": [
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Aqz3ADxXm.DQBVPGzY.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Df00kaaEIvdpkk8yqb4fPAt8rwd8U1IGPtxk8so42hg.BAMmkl73.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/NMUKfjOuy.C5nW0Rq4.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Parallax_Image.Dgvv1dCq.mjs",
@@ -6706,22 +6692,21 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgcRnnsPH.BISb8GOQ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TGYm7sNqabIcqK6h8V4zz9d-IgaEyw3wV7-jgJNPssM.D47loJH_.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TNd6n3QFa.C75ptw24.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/XaYWrg4Ax.D5JEBOY0.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/hL8cBIai3.BvyHumOV.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oZyuNPr37.B76yp0ta.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oZyuNPr37.t5i0xgoT.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
@@ -6731,7 +6716,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"0aaadb09f21a85ec123dd08ad3bdd592\"",
+      "etag": "\"418d59b21b32b8c1e83d48a343650bb1\"",
       "external_links": [
         "https://calendly.com/arbcentrix/schedule-a-consultation",
         "https://www.instagram.com/arbcentrix",
@@ -6741,7 +6726,7 @@
       "fingerprint": {
         "fields": {
           "canonicals": "e6b7786be8911a31",
-          "h1": "712d065763ff7f22",
+          "h1": "29c10e58c22045ff",
           "h2": "e01a3a1913e5edaa",
           "has_booking": "b5bea41b6c623f7c",
           "has_form": "fcbcf165908dd18a",
@@ -6752,10 +6737,10 @@
           "status": "27badc983df1780b",
           "title": "07ed05f798234c6f",
           "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "5817ae4948371f9b",
+          "word_count": "a367613375c7fcd7",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "984ec9a069ca86fa"
+        "hash": "fdce235bf6556a20"
       },
       "h1": [
         "Let's Extend Your Tax Team",
@@ -6763,8 +6748,7 @@
         "How We Operate Within Your Operations:",
         "High Impact Roles for US Businesses",
         "How This is Executed:",
-        "What We Take Off Your Plate:",
-        "OUTCOME"
+        "What We Take Off Your Plate:"
       ],
       "h2": [
         "B o o k a 1 5 - M i n u t e T a x C a p a c i t y A s s e s s m e n t"
@@ -6783,14 +6767,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6799,7 +6783,7 @@
         "GTM-N8DDS834"
       ],
       "url": "https://arbcentrix.com/tax",
-      "word_count": 1126,
+      "word_count": 1152,
       "x_robots_tag": null
     },
     "https://arbcentrix.com/terms": {
@@ -6817,7 +6801,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs"
       ],
       "canonicals": [
@@ -6826,7 +6810,7 @@
       "cold_render": true,
       "empty_shell": false,
       "error": null,
-      "etag": "\"4edde124579c04ec13e0b9161fd80f38\"",
+      "etag": "\"d88da562c8147332216a1700010c39d4\"",
       "external_links": [
         "about://blank",
         "https://www.instagram.com/arbcentrix",
@@ -6870,14 +6854,14 @@
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:53 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": true,
       "redirects": [],
       "robots_meta": "noindex",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -6911,7 +6895,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
       ],
@@ -6920,7 +6904,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"f716a24031e68f0df3ed74dc11dae1e0\"",
+      "etag": "\"5a9ab473b55c097cd55c4556d69b76d9\"",
       "external_links": [
         "https://www.instagram.com/arbcentrix",
         "https://ph.linkedin.com/company/arbcentrix"
@@ -6970,14 +6954,14 @@
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:32 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -7002,7 +6986,7 @@
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
         "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/zfWQZigJMzCqQPx8UdxBRFf4ioJCE7aXTWs3u8HEUfg.Dh_2yJGV.mjs"
       ],
@@ -7011,7 +6995,7 @@
       ],
       "empty_shell": false,
       "error": null,
-      "etag": "\"4533f3281987346a77ca287c0e94be31\"",
+      "etag": "\"7e8324e4d2fe3ec9945aeda849dbbdb2\"",
       "external_links": [
         "https://ph.linkedin.com/in/ystevie-dennis-ty-2469ab158",
         "https://www.instagram.com/arbcentrix",
@@ -7053,14 +7037,14 @@
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
       ],
-      "last_modified": "Thu, 05 Nov 2026 00:06:54 GMT",
+      "last_modified": "Thu, 05 Nov 2026 02:00:33 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
         "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5NB03zYy.mjs",
+        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.5zDXl0I9.mjs",
         "https://calendly.com/assets/external/widget.js"
       ],
       "status": 200,
@@ -7120,10 +7104,6 @@
       "https://arbcentrix.com/accounting-services",
       "https://arbcentrix.com/it-services",
       "https://arbcentrix.com/loss-prevention",
-      "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
-      "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
-      "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
-      "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
       "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
       "https://arbcentrix.com/insights/smarter-business-scaling-beyond-headcount",
       "https://arbcentrix.com/insights/retention-starts-with-respect",
@@ -7147,21 +7127,43 @@
       "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
       "https://arbcentrix.com/insights/the-price-of-delay",
       "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
-      "https://arbcentrix.com/insights/silent-attrition"
+      "https://arbcentrix.com/insights/silent-attrition",
+      "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
+      "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+      "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+      "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer"
     ]
   },
   "truncated": false,
   "watch": {
-    "build_signature": "19ab8c050c2a112b",
-    "build_signature_before": "c965ba9b7143f180",
+    "build_signature": "1d67a4a50039e072",
+    "build_signature_before": "19ab8c050c2a112b",
     "carried": 0,
     "changed": {
+      "https://arbcentrix.com/accounting": [
+        "word_count"
+      ],
+      "https://arbcentrix.com/accounting-services": [
+        "canonicals",
+        "h1",
+        "h2",
+        "internal_links",
+        "robots_meta",
+        "word_count"
+      ],
+      "https://arbcentrix.com/audit": [
+        "h1",
+        "word_count"
+      ],
       "https://arbcentrix.com/case-study/why-capacity-feels-fragile": [
         "canonicals",
         "h1",
         "h2",
         "internal_links",
         "robots_meta",
+        "word_count"
+      ],
+      "https://arbcentrix.com/digital-transformation": [
         "word_count"
       ],
       "https://arbcentrix.com/kevin-mairs": [
@@ -7171,6 +7173,15 @@
         "word_count"
       ],
       "https://arbcentrix.com/loss-prevention": [
+        "canonicals",
+        "h1",
+        "h2",
+        "internal_links",
+        "robots_meta",
+        "word_count"
+      ],
+      "https://arbcentrix.com/tax": [
+        "h1",
         "word_count"
       ]
     },
