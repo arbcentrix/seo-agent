@@ -2,8 +2,9 @@
   "days": {
     "2026-11-01": "2026-11-04T22:15:23+00:00",
     "2026-11-02": "2026-11-05T22:14:21+00:00",
-    "2026-11-03": "2026-11-05T22:14:21+00:00",
-    "2026-11-04": "2026-11-05T22:14:21+00:00"
+    "2026-11-03": "2026-11-06T22:13:50+00:00",
+    "2026-11-04": "2026-11-06T22:13:50+00:00",
+    "2026-11-05": "2026-11-06T22:13:50+00:00"
   },
   "rows": [
     {
@@ -44,21 +45,12 @@
     },
     {
       "date": "2026-11-02",
-      "engagedSessions": 2,
+      "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 5,
-      "totalUsers": 4
-    },
-    {
-      "date": "2026-11-02",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/",
+      "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 3,
-      "totalUsers": 3
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-11-02",
@@ -80,21 +72,30 @@
     },
     {
       "date": "2026-11-02",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-02",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/recruitment-and-onboarding",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 4
+    },
+    {
+      "date": "2026-11-02",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
     },
     {
       "date": "2026-11-03",
@@ -305,6 +306,87 @@
     },
     {
       "date": "2026-11-04",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/tax",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 6,
+      "totalUsers": 6
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-05",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/tax",
