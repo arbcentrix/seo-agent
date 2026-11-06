@@ -1,7 +1,7 @@
 {
   "base_url": "https://arbcentrix.com",
   "build_signature": "b766565708ba9046",
-  "fetched_at": "2026-11-06T16:28:48+00:00",
+  "fetched_at": "2026-11-06T20:28:39+00:00",
   "graph": {
     "inlinks": {
       "https://arbcentrix.com/": [
@@ -59,7 +59,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -119,7 +118,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -189,7 +187,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -261,7 +258,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -357,7 +353,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -425,7 +420,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -495,7 +489,6 @@
         "https://arbcentrix.com/property-management",
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
@@ -561,7 +554,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/trust-center",
         "https://arbcentrix.com/ystevie-ty"
       ],
@@ -621,7 +613,6 @@
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/remote-auditor",
         "https://arbcentrix.com/services",
-        "https://arbcentrix.com/tax",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/ystevie-ty"
       ],
@@ -1266,17 +1257,6 @@
         "https://arbcentrix.com/order-fulfillment-management",
         "https://arbcentrix.com/recruitment-and-onboarding",
         "https://arbcentrix.com/property-management",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
-      "https://arbcentrix.com/tax": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/about",
-        "https://arbcentrix.com/services",
-        "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/careers",
-        "https://arbcentrix.com/contact",
         "https://arbcentrix.com/terms",
         "https://arbcentrix.com/privacy-policy",
         "https://arbcentrix.com/trust-center"
@@ -6804,110 +6784,139 @@
       "x_robots_tag": null
     },
     "https://arbcentrix.com/tax": {
-      "build_assets": [
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Aqz3ADxXm.DQBVPGzY.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/NMUKfjOuy.C5nW0Rq4.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Ozyvs5IUadHUPdNvJ72YDAwbTkVAkp2pWO7Bnn6XbFc.Ct9waqOL.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Parallax_Image.Dgvv1dCq.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgcRnnsPH.BISb8GOQ.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TNd6n3QFa.C75ptw24.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/hL8cBIai3.BvyHumOV.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oZyuNPr37.DGSglKdp.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.vNgTIjrO.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
-      ],
-      "canonicals": [
-        "https://arbcentrix.com/tax"
-      ],
-      "empty_shell": false,
-      "error": null,
-      "etag": "\"7f7bd9667adedb83cc152250af66b570\"",
-      "external_links": [
-        "https://calendly.com/arbcentrix/schedule-a-consultation",
-        "https://www.instagram.com/arbcentrix",
-        "https://ph.linkedin.com/company/arbcentrix"
-      ],
-      "final_url": "https://arbcentrix.com/tax",
+      "error": "ProxyError: HTTPSConnectionPool(host='arbcentrix.com', port=443): Max retries exceeded with url: /tax (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))",
+      "etag": null,
+      "final_url": null,
       "fingerprint": {
         "fields": {
-          "canonicals": "e6b7786be8911a31",
-          "h1": "29c10e58c22045ff",
-          "h2": "e01a3a1913e5edaa",
-          "has_booking": "b5bea41b6c623f7c",
-          "has_form": "fcbcf165908dd18a",
-          "internal_links": "c70ceab1c96d84f9",
-          "meta_description": "07ed05f798234c6f",
+          "canonicals": "74234e98afe7498f",
+          "h1": "74234e98afe7498f",
+          "h2": "74234e98afe7498f",
+          "has_booking": "74234e98afe7498f",
+          "has_form": "74234e98afe7498f",
+          "internal_links": "74234e98afe7498f",
+          "meta_description": "74234e98afe7498f",
           "redirects": "4f53cda18c2baa0c",
-          "robots_meta": "fc30e8054aae13dc",
-          "status": "27badc983df1780b",
-          "title": "07ed05f798234c6f",
-          "tracking_ids": "149fe0b1dbb27f56",
-          "word_count": "a367613375c7fcd7",
+          "robots_meta": "74234e98afe7498f",
+          "status": "74234e98afe7498f",
+          "title": "74234e98afe7498f",
+          "tracking_ids": "74234e98afe7498f",
+          "word_count": "74234e98afe7498f",
           "x_robots_tag": "74234e98afe7498f"
         },
-        "hash": "fdce235bf6556a20"
+        "hash": "50f34183db60fc0c"
       },
-      "h1": [
-        "Let's Extend Your Tax Team",
-        "The Challenge",
-        "How We Operate Within Your Operations:",
-        "High Impact Roles for US Businesses",
-        "How This is Executed:",
-        "What We Take Off Your Plate:"
-      ],
-      "h2": [
-        "B o o k a 1 5 - M i n u t e T a x C a p a c i t y A s s e s s m e n t"
-      ],
-      "has_booking": true,
-      "has_form": false,
       "in_sitemap": true,
-      "internal_links": [
-        "https://arbcentrix.com/",
-        "https://arbcentrix.com/about",
-        "https://arbcentrix.com/services",
-        "https://arbcentrix.com/locations",
-        "https://arbcentrix.com/careers",
-        "https://arbcentrix.com/contact",
-        "https://arbcentrix.com/terms",
-        "https://arbcentrix.com/privacy-policy",
-        "https://arbcentrix.com/trust-center"
-      ],
-      "last_modified": "Fri, 06 Nov 2026 07:10:17 GMT",
-      "meta_description": "Arbcentrix",
-      "noindex": false,
-      "not_modified": true,
+      "last_modified": null,
+      "last_ok": {
+        "build_assets": [
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Aqz3ADxXm.DQBVPGzY.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/HMuWGjAdJ.DjkVCAg8.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/NMUKfjOuy.C5nW0Rq4.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Ozyvs5IUadHUPdNvJ72YDAwbTkVAkp2pWO7Bnn6XbFc.Ct9waqOL.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Parallax_Image.Dgvv1dCq.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgJoQc1UQ.C75gApMw.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/PgcRnnsPH.BISb8GOQ.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/Phosphor.B5VtOMlX.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/T3FsSbf9u.D2lLqKtf.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/TNd6n3QFa.C75ptw24.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/UOywFPNbn.D5t_2YlD.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/VoINDuYpN.uxYWeGYC.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/bvs8qMSIi.C7F22f4g.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/c3NMhK3TX.Dg_4C9Z4.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/framer.oAlYY2Z-.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/hL8cBIai3.BvyHumOV.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/mgLEt6o73.CQfiUqFg.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/motion.cXol17BW.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oZyuNPr37.DGSglKdp.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/oeb8Q8J2t.CiFrKdNy.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/react.zuvrDPjz.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rolldown-runtime.Bi-D_2cA.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/rt07ktq4E.DrhTyLt2.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.vNgTIjrO.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shared-lib.CSzGitSY.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/shenwsqh3.DL7NraZJ.mjs",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/tqoARbCyl.zBo7bceA.mjs"
+        ],
+        "canonicals": [
+          "https://arbcentrix.com/tax"
+        ],
+        "empty_shell": false,
+        "error": null,
+        "etag": "\"7f7bd9667adedb83cc152250af66b570\"",
+        "external_links": [
+          "https://calendly.com/arbcentrix/schedule-a-consultation",
+          "https://www.instagram.com/arbcentrix",
+          "https://ph.linkedin.com/company/arbcentrix"
+        ],
+        "final_url": "https://arbcentrix.com/tax",
+        "fingerprint": {
+          "fields": {
+            "canonicals": "e6b7786be8911a31",
+            "h1": "29c10e58c22045ff",
+            "h2": "e01a3a1913e5edaa",
+            "has_booking": "b5bea41b6c623f7c",
+            "has_form": "fcbcf165908dd18a",
+            "internal_links": "c70ceab1c96d84f9",
+            "meta_description": "07ed05f798234c6f",
+            "redirects": "4f53cda18c2baa0c",
+            "robots_meta": "fc30e8054aae13dc",
+            "status": "27badc983df1780b",
+            "title": "07ed05f798234c6f",
+            "tracking_ids": "149fe0b1dbb27f56",
+            "word_count": "a367613375c7fcd7",
+            "x_robots_tag": "74234e98afe7498f"
+          },
+          "hash": "fdce235bf6556a20"
+        },
+        "h1": [
+          "Let's Extend Your Tax Team",
+          "The Challenge",
+          "How We Operate Within Your Operations:",
+          "High Impact Roles for US Businesses",
+          "How This is Executed:",
+          "What We Take Off Your Plate:"
+        ],
+        "h2": [
+          "B o o k a 1 5 - M i n u t e T a x C a p a c i t y A s s e s s m e n t"
+        ],
+        "has_booking": true,
+        "has_form": false,
+        "in_sitemap": true,
+        "internal_links": [
+          "https://arbcentrix.com/",
+          "https://arbcentrix.com/about",
+          "https://arbcentrix.com/services",
+          "https://arbcentrix.com/locations",
+          "https://arbcentrix.com/careers",
+          "https://arbcentrix.com/contact",
+          "https://arbcentrix.com/terms",
+          "https://arbcentrix.com/privacy-policy",
+          "https://arbcentrix.com/trust-center"
+        ],
+        "last_modified": "Fri, 06 Nov 2026 07:10:17 GMT",
+        "meta_description": "Arbcentrix",
+        "noindex": false,
+        "not_modified": true,
+        "redirects": [],
+        "robots_meta": "max-image-preview:large",
+        "script_srcs": [
+          "https://events.framer.com/script?v=2",
+          "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.vNgTIjrO.mjs",
+          "https://calendly.com/assets/external/widget.js"
+        ],
+        "status": 200,
+        "title": "Arbcentrix",
+        "tracking_ids": [
+          "GTM-N8DDS834"
+        ],
+        "url": "https://arbcentrix.com/tax",
+        "word_count": 1152,
+        "x_robots_tag": null
+      },
       "redirects": [],
-      "robots_meta": "max-image-preview:large",
-      "script_srcs": [
-        "https://events.framer.com/script?v=2",
-        "https://framerusercontent.com/sites/1IBzJKF4xI4BhNhY873MWJ/script_main.vNgTIjrO.mjs",
-        "https://calendly.com/assets/external/widget.js"
-      ],
-      "status": 200,
-      "title": "Arbcentrix",
-      "tracking_ids": [
-        "GTM-N8DDS834"
-      ],
-      "url": "https://arbcentrix.com/tax",
-      "word_count": 1152,
-      "x_robots_tag": null
+      "status": null,
+      "url": "https://arbcentrix.com/tax"
     },
     "https://arbcentrix.com/terms": {
       "build_assets": [
@@ -7265,11 +7274,26 @@
     "build_signature": "b766565708ba9046",
     "build_signature_before": "b766565708ba9046",
     "carried": 46,
-    "changed": {},
+    "changed": {
+      "https://arbcentrix.com/tax": [
+        "canonicals",
+        "h1",
+        "h2",
+        "has_booking",
+        "has_form",
+        "internal_links",
+        "meta_description",
+        "robots_meta",
+        "status",
+        "title",
+        "tracking_ids",
+        "word_count"
+      ]
+    },
     "fetched": 15,
     "mode": "quiet",
     "new_pages": [],
-    "not_modified": 15,
+    "not_modified": 14,
     "reasons": [],
     "removed_pages": []
   }
