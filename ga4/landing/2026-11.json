@@ -4,8 +4,9 @@
     "2026-11-02": "2026-11-05T22:14:21+00:00",
     "2026-11-03": "2026-11-06T22:13:50+00:00",
     "2026-11-04": "2026-11-07T22:14:26+00:00",
-    "2026-11-05": "2026-11-07T22:14:26+00:00",
-    "2026-11-06": "2026-11-07T22:14:26+00:00"
+    "2026-11-05": "2026-11-08T22:15:17+00:00",
+    "2026-11-06": "2026-11-08T22:15:17+00:00",
+    "2026-11-07": "2026-11-08T22:15:17+00:00"
   },
   "rows": [
     {
@@ -199,19 +200,10 @@
     },
     {
       "date": "2026-11-04",
-      "engagedSessions": 6,
+      "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 14,
-      "totalUsers": 12
-    },
-    {
-      "date": "2026-11-04",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
+      "sessionDefaultChannelGroup": "Referral",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -219,8 +211,35 @@
       "date": "2026-11-04",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
+      "landingPage": "/go-to-market-strategy-and-business-development",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-04",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/recruitment-and-onboarding",
       "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-04",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/tax",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-04",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -253,15 +272,6 @@
     },
     {
       "date": "2026-11-04",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/go-to-market-strategy-and-business-development",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-04",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/locations",
@@ -289,15 +299,6 @@
     },
     {
       "date": "2026-11-04",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/recruitment-and-onboarding",
-      "sessionDefaultChannelGroup": "Referral",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-04",
       "engagedSessions": 2,
       "keyEvents": 0,
       "landingPage": "/services",
@@ -307,12 +308,12 @@
     },
     {
       "date": "2026-11-04",
-      "engagedSessions": 0,
+      "engagedSessions": 6,
       "keyEvents": 0,
-      "landingPage": "/tax",
+      "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessions": 14,
+      "totalUsers": 12
     },
     {
       "date": "2026-11-05",
@@ -390,19 +391,10 @@
       "date": "2026-11-06",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "",
+      "landingPage": "(not set)",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
-    },
-    {
-      "date": "2026-11-06",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "",
-      "sessionDefaultChannelGroup": "Unassigned",
-      "sessions": 2,
-      "totalUsers": 2
     },
     {
       "date": "2026-11-06",
@@ -415,19 +407,10 @@
     },
     {
       "date": "2026-11-06",
-      "engagedSessions": 0,
+      "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Cross-network",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-06",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Unassigned",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -457,6 +440,24 @@
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-07",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 5
+    },
+    {
+      "date": "2026-11-07",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
     }
   ]
 }
