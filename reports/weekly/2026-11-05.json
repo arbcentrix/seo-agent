@@ -1,0 +1,2598 @@
+{
+  "candidates": [
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/kevin-mairs": {
+            "h1": []
+          },
+          "https://arbcentrix.com/maan-sacdalan": {
+            "h1": []
+          },
+          "https://arbcentrix.com/newsletter": {
+            "h1": []
+          },
+          "https://arbcentrix.com/ystevie-ty": {
+            "h1": []
+          }
+        },
+        "pages": 4
+      },
+      "id": "crawl_h1_missing:h1_missing",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "medium",
+      "title": "h1_missing: 4 page(s)",
+      "type": "crawl_h1_missing",
+      "urls": [
+        "https://arbcentrix.com/kevin-mairs",
+        "https://arbcentrix.com/maan-sacdalan",
+        "https://arbcentrix.com/newsletter",
+        "https://arbcentrix.com/ystevie-ty"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/": {
+            "h1": [
+              "Scale your operations without disruption",
+              "We don't provide support. We enable operations",
+              "The Difference",
+              "Explore Our Solutions",
+              "This is how we operate when we work with you"
+            ],
+            "h1_count": 10
+          },
+          "https://arbcentrix.com/about": {
+            "h1": [
+              "About Us",
+              "Explore Our Solutions",
+              "Our Team"
+            ],
+            "h1_count": 3
+          },
+          "https://arbcentrix.com/accounting": {
+            "h1": [
+              "Let's Extend Your Accounting Team",
+              "The Challenge",
+              "How We Operate Within Your Operations:",
+              "High Impact Roles for US Businesses",
+              "How This is Executed:"
+            ],
+            "h1_count": 6
+          },
+          "https://arbcentrix.com/accounting-services": {
+            "h1": [
+              "The Challenge",
+              "How We Operate Within Your Operations:"
+            ],
+            "h1_count": 2
+          },
+          "https://arbcentrix.com/audit": {
+            "h1": [
+              "Let's Extend Your Audit Team",
+              "The Challenge",
+              "How We Operate Within Your Operations:",
+              "High Impact Roles for US Businesses",
+              "How This is Executed:"
+            ],
+            "h1_count": 6
+          }
+        },
+        "pages": 22
+      },
+      "id": "crawl_h1_multiple:h1_multiple",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "low",
+      "title": "h1_multiple: 22 page(s)",
+      "type": "crawl_h1_multiple",
+      "urls": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/accounting",
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/audit",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/compliance-operations-specialist",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/customer-care",
+        "https://arbcentrix.com/digital-transformation",
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/order-fulfillment-management",
+        "https://arbcentrix.com/property-management",
+        "https://arbcentrix.com/recruitment-and-onboarding",
+        "https://arbcentrix.com/remote-auditor",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/tax",
+        "https://arbcentrix.com/trust-center"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/accounting-services": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/case-study": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/client-accounting-services": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/compliance-operations-specialist": {
+            "inlinks": 0
+          },
+          "https://arbcentrix.com/growth-marketing-officer": {
+            "inlinks": 0
+          }
+        },
+        "pages": 30
+      },
+      "id": "crawl_orphan_page:orphan_page",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "medium",
+      "title": "orphan_page: 30 page(s)",
+      "type": "crawl_orphan_page",
+      "urls": [
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/client-accounting-services",
+        "https://arbcentrix.com/compliance-operations-specialist",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/insights/automation-without-anxiety",
+        "https://arbcentrix.com/insights/bridging-the-talent-gap",
+        "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
+        "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+        "https://arbcentrix.com/insights/capacity-planning",
+        "https://arbcentrix.com/insights/client-experience-upgrade",
+        "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
+        "https://arbcentrix.com/insights/data-driven-accounting",
+        "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
+        "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams",
+        "https://arbcentrix.com/insights/offshoring-myths-debunked",
+        "https://arbcentrix.com/insights/retention-over-recruitment",
+        "https://arbcentrix.com/insights/silent-attrition",
+        "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+        "https://arbcentrix.com/insights/the-advisory-advantage",
+        "https://arbcentrix.com/insights/the-modern-cpa-tech-stack",
+        "https://arbcentrix.com/insights/the-price-of-delay",
+        "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
+        "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/newsletter",
+        "https://arbcentrix.com/onboarding-specialist",
+        "https://arbcentrix.com/operations-specialist",
+        "https://arbcentrix.com/remote-auditor"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/case-study": {
+            "min_words": 300,
+            "word_count": 248
+          },
+          "https://arbcentrix.com/insights": {
+            "min_words": 300,
+            "word_count": 208
+          },
+          "https://arbcentrix.com/locations": {
+            "min_words": 300,
+            "word_count": 213
+          },
+          "https://arbcentrix.com/newsletter": {
+            "min_words": 300,
+            "word_count": 0
+          }
+        },
+        "pages": 4
+      },
+      "id": "crawl_thin_content:thin_content",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "low",
+      "title": "thin_content: 4 page(s)",
+      "type": "crawl_thin_content",
+      "urls": [
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/newsletter"
+      ]
+    },
+    {
+      "evidence": {
+        "examples": {
+          "https://arbcentrix.com/": {
+            "meta_description": "brand-only: 'Arbcentrix'",
+            "title": "brand-only: 'Arbcentrix'"
+          },
+          "https://arbcentrix.com/about": {
+            "meta_description": "brand-only: 'Arbcentrix'",
+            "title": "brand-only: 'Arbcentrix'"
+          },
+          "https://arbcentrix.com/accounting": {
+            "meta_description": "brand-only: 'Arbcentrix'",
+            "title": "brand-only: 'Arbcentrix'"
+          },
+          "https://arbcentrix.com/accounting-services": {
+            "meta_description": "brand-only: 'Arbcentrix'",
+            "title": "brand-only: 'Arbcentrix'"
+          },
+          "https://arbcentrix.com/audit": {
+            "meta_description": "brand-only: 'Arbcentrix'",
+            "title": "brand-only: 'Arbcentrix'"
+          }
+        },
+        "pages": 61
+      },
+      "id": "crawl_title_meta_regression:title_meta_regression",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "high",
+      "title": "title_meta_regression: 61 page(s)",
+      "type": "crawl_title_meta_regression",
+      "urls": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/accounting",
+        "https://arbcentrix.com/accounting-services",
+        "https://arbcentrix.com/audit",
+        "https://arbcentrix.com/careers",
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+        "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+        "https://arbcentrix.com/case-study/when-every-week-felt-like-walking-a-tightrope-how-one-company-found-financial-solid-ground",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
+        "https://arbcentrix.com/client-accounting-services",
+        "https://arbcentrix.com/compliance-operations-specialist",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/customer-care",
+        "https://arbcentrix.com/digital-transformation",
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development",
+        "https://arbcentrix.com/growth-marketing-officer",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/insights/automation-without-anxiety",
+        "https://arbcentrix.com/insights/bridging-the-talent-gap",
+        "https://arbcentrix.com/insights/building-resilient-teams-remotely-a-strategy-guide-for-cpa-firms",
+        "https://arbcentrix.com/insights/burnout-in-the-numbers-business",
+        "https://arbcentrix.com/insights/capacity-planning",
+        "https://arbcentrix.com/insights/client-experience-upgrade",
+        "https://arbcentrix.com/insights/compliance-at-scale-offshore-teams-and-the-new-tax-law-landscape",
+        "https://arbcentrix.com/insights/data-driven-accounting",
+        "https://arbcentrix.com/insights/future-proofing-your-cpa-firm",
+        "https://arbcentrix.com/insights/how-leading-cpa-firms-stay-compliant-without-burning-out-their-teams",
+        "https://arbcentrix.com/insights/metrics-that-matter",
+        "https://arbcentrix.com/insights/offshoring-myths-debunked",
+        "https://arbcentrix.com/insights/people-tech",
+        "https://arbcentrix.com/insights/reinventing-the-partner-role",
+        "https://arbcentrix.com/insights/retention-over-recruitment",
+        "https://arbcentrix.com/insights/retention-starts-with-respect",
+        "https://arbcentrix.com/insights/silent-attrition",
+        "https://arbcentrix.com/insights/smarter-business-scaling-beyond-headcount",
+        "https://arbcentrix.com/insights/solving-the-capacity-crunch-a-scalable-offshore-staffing-solution-for-cpa-firms",
+        "https://arbcentrix.com/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
+        "https://arbcentrix.com/insights/the-advisory-advantage",
+        "https://arbcentrix.com/insights/the-modern-cpa-tech-stack",
+        "https://arbcentrix.com/insights/the-price-of-delay",
+        "https://arbcentrix.com/insights/what-top-cpa-firms-are-doing-differently",
+        "https://arbcentrix.com/it-services",
+        "https://arbcentrix.com/kevin-mairs",
+        "https://arbcentrix.com/locations",
+        "https://arbcentrix.com/loss-prevention",
+        "https://arbcentrix.com/maan-sacdalan",
+        "https://arbcentrix.com/newsletter",
+        "https://arbcentrix.com/onboarding-specialist",
+        "https://arbcentrix.com/operations-specialist",
+        "https://arbcentrix.com/order-fulfillment-management",
+        "https://arbcentrix.com/privacy-policy",
+        "https://arbcentrix.com/property-management",
+        "https://arbcentrix.com/recruitment-and-onboarding",
+        "https://arbcentrix.com/remote-auditor",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/tax",
+        "https://arbcentrix.com/terms",
+        "https://arbcentrix.com/trust-center",
+        "https://arbcentrix.com/ystevie-ty"
+      ]
+    },
+    {
+      "evidence": {
+        "first_seen": "2026-10-26T12:37:25+00:00",
+        "fraction_lost": 0.431,
+        "words_before": 1612,
+        "words_now": 918
+      },
+      "id": "alert_content_shrink:https://arbcentrix.com/recruitment-and-onboarding",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "medium",
+      "title": "Open alert content_shrink on https://arbcentrix.com/recruitment-and-onboarding",
+      "type": "alert_content_shrink",
+      "urls": [
+        "https://arbcentrix.com/recruitment-and-onboarding"
+      ]
+    },
+    {
+      "evidence": {
+        "first_seen": "2026-10-27T00:29:47+00:00",
+        "meta_description": "brand-only: 'Arbcentrix'",
+        "title": "brand-only: 'Arbcentrix'"
+      },
+      "id": "alert_title_meta_regression:https://arbcentrix.com/terms",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": "high",
+      "title": "Open alert title_meta_regression on https://arbcentrix.com/terms",
+      "type": "alert_title_meta_regression",
+      "urls": [
+        "https://arbcentrix.com/terms"
+      ]
+    },
+    {
+      "evidence": {
+        "clicks": 0,
+        "ctr": 0.0,
+        "impressions": 15,
+        "position": 5.53
+      },
+      "id": "striking_distance:savya financial center hiring|https://arbcentrix.com/careers",
+      "priority": null,
+      "queries": [
+        "savya financial center hiring"
+      ],
+      "scores": null,
+      "severity": null,
+      "title": "'savya financial center hiring' ranks 5.53 for https://arbcentrix.com/careers",
+      "type": "striking_distance",
+      "urls": [
+        "https://arbcentrix.com/careers"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/services",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/services had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/services"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/accounting",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/accounting had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/accounting"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/audit",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/audit had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/audit"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/contact",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/contact had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/contact"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/case-study",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/case-study had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/case-study"
+      ]
+    },
+    {
+      "evidence": {
+        "impressions": 0,
+        "window": [
+          "2026-10-09",
+          "2026-11-05"
+        ]
+      },
+      "id": "critical_no_impressions:https://arbcentrix.com/go-to-market-strategy-and-business-development",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "https://arbcentrix.com/go-to-market-strategy-and-business-development had no search impressions",
+      "type": "critical_no_impressions",
+      "urls": [
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      ]
+    },
+    {
+      "evidence": {
+        "by_page": {
+          "https://arbcentrix.com/": {
+            "field": null,
+            "lab": {
+              "cls": 0.032,
+              "fcp_ms": 1154,
+              "lcp_ms": 6261,
+              "performance": 65,
+              "si_ms": 5267,
+              "tbt_ms": 352
+            },
+            "lab_lcp_ms": 6261
+          },
+          "https://arbcentrix.com/about": {
+            "field": null,
+            "lab": {
+              "cls": 0.001,
+              "fcp_ms": 1132,
+              "lcp_ms": 6310,
+              "performance": 50,
+              "si_ms": 5831,
+              "tbt_ms": 1099
+            },
+            "lab_lcp_ms": 6310
+          },
+          "https://arbcentrix.com/accounting": {
+            "field": null,
+            "lab": {
+              "cls": 0.0,
+              "fcp_ms": 1144,
+              "lcp_ms": 10262,
+              "performance": 72,
+              "si_ms": 4553,
+              "tbt_ms": 57
+            },
+            "lab_lcp_ms": 10262
+          },
+          "https://arbcentrix.com/audit": {
+            "field": null,
+            "lab": {
+              "cls": 0.0,
+              "fcp_ms": 1132,
+              "lcp_ms": 6694,
+              "performance": 64,
+              "si_ms": 4662,
+              "tbt_ms": 417
+            },
+            "lab_lcp_ms": 6694
+          },
+          "https://arbcentrix.com/case-study": {
+            "field": null,
+            "lab": {
+              "cls": 0,
+              "fcp_ms": 949,
+              "lcp_ms": 4025,
+              "performance": 85,
+              "si_ms": 1213,
+              "tbt_ms": 157
+            },
+            "lab_lcp_ms": 4025
+          },
+          "https://arbcentrix.com/contact": {
+            "field": null,
+            "lab": {
+              "cls": 0,
+              "fcp_ms": 1161,
+              "lcp_ms": 8825,
+              "performance": 75,
+              "si_ms": 2071,
+              "tbt_ms": 91
+            },
+            "lab_lcp_ms": 8825
+          },
+          "https://arbcentrix.com/customer-care": {
+            "field": null,
+            "lab": {
+              "cls": 0.002,
+              "fcp_ms": 1153,
+              "lcp_ms": 5933,
+              "performance": 74,
+              "si_ms": 3299,
+              "tbt_ms": 224
+            },
+            "lab_lcp_ms": 5933
+          },
+          "https://arbcentrix.com/digital-transformation": {
+            "field": null,
+            "lab": {
+              "cls": 0.0,
+              "fcp_ms": 1146,
+              "lcp_ms": 7571,
+              "performance": 74,
+              "si_ms": 3357,
+              "tbt_ms": 96
+            },
+            "lab_lcp_ms": 7571
+          },
+          "https://arbcentrix.com/go-to-market-strategy-and-business-development": {
+            "field": null,
+            "lab": {
+              "cls": 0.002,
+              "fcp_ms": 1149,
+              "lcp_ms": 7230,
+              "performance": 76,
+              "si_ms": 2865,
+              "tbt_ms": 41
+            },
+            "lab_lcp_ms": 7230
+          },
+          "https://arbcentrix.com/insights": {
+            "field": null,
+            "lab": {
+              "cls": 0,
+              "fcp_ms": 1015,
+              "lcp_ms": 4520,
+              "performance": 84,
+              "si_ms": 1274,
+              "tbt_ms": 90
+            },
+            "lab_lcp_ms": 4520
+          },
+          "https://arbcentrix.com/order-fulfillment-management": {
+            "field": null,
+            "lab": {
+              "cls": 0.002,
+              "fcp_ms": 1148,
+              "lcp_ms": 6300,
+              "performance": 74,
+              "si_ms": 3176,
+              "tbt_ms": 188
+            },
+            "lab_lcp_ms": 6300
+          },
+          "https://arbcentrix.com/property-management": {
+            "field": null,
+            "lab": {
+              "cls": 0.014,
+              "fcp_ms": 1144,
+              "lcp_ms": 7594,
+              "performance": 72,
+              "si_ms": 3480,
+              "tbt_ms": 172
+            },
+            "lab_lcp_ms": 7594
+          },
+          "https://arbcentrix.com/recruitment-and-onboarding": {
+            "field": null,
+            "lab": {
+              "cls": 0.011,
+              "fcp_ms": 1138,
+              "lcp_ms": 5178,
+              "performance": 69,
+              "si_ms": 2592,
+              "tbt_ms": 458
+            },
+            "lab_lcp_ms": 5178
+          },
+          "https://arbcentrix.com/services": {
+            "field": null,
+            "lab": {
+              "cls": 0.002,
+              "fcp_ms": 987,
+              "lcp_ms": 6387,
+              "performance": 76,
+              "si_ms": 2163,
+              "tbt_ms": 145
+            },
+            "lab_lcp_ms": 6387
+          },
+          "https://arbcentrix.com/tax": {
+            "field": null,
+            "lab": {
+              "cls": 0.0,
+              "fcp_ms": 1172,
+              "lcp_ms": 6939,
+              "performance": 73,
+              "si_ms": 4593,
+              "tbt_ms": 78
+            },
+            "lab_lcp_ms": 6939
+          }
+        },
+        "pages": 15,
+        "strategy": "mobile"
+      },
+      "id": "psi_poor:mobile",
+      "priority": null,
+      "queries": [],
+      "scores": null,
+      "severity": null,
+      "title": "15 critical page(s) slow on mobile",
+      "type": "psi_poor",
+      "urls": [
+        "https://arbcentrix.com/",
+        "https://arbcentrix.com/about",
+        "https://arbcentrix.com/accounting",
+        "https://arbcentrix.com/audit",
+        "https://arbcentrix.com/case-study",
+        "https://arbcentrix.com/contact",
+        "https://arbcentrix.com/customer-care",
+        "https://arbcentrix.com/digital-transformation",
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development",
+        "https://arbcentrix.com/insights",
+        "https://arbcentrix.com/order-fulfillment-management",
+        "https://arbcentrix.com/property-management",
+        "https://arbcentrix.com/recruitment-and-onboarding",
+        "https://arbcentrix.com/services",
+        "https://arbcentrix.com/tax"
+      ]
+    }
+  ],
+  "changes": {
+    "pages": {
+      "gainers": [
+        {
+          "before": {
+            "clicks": 54,
+            "ctr": 0.136,
+            "impressions": 397,
+            "position": 5.08
+          },
+          "clicks_change": 16,
+          "impressions_change": 39,
+          "now": {
+            "clicks": 70,
+            "ctr": 0.1606,
+            "impressions": 436,
+            "position": 4.0
+          },
+          "page": "https://arbcentrix.com/"
+        },
+        {
+          "before": {
+            "clicks": 11,
+            "ctr": 0.0516,
+            "impressions": 213,
+            "position": 1.95
+          },
+          "clicks_change": 14,
+          "impressions_change": 78,
+          "now": {
+            "clicks": 25,
+            "ctr": 0.0859,
+            "impressions": 291,
+            "position": 1.76
+          },
+          "page": "https://arbcentrix.com/locations"
+        },
+        {
+          "before": {
+            "clicks": 14,
+            "ctr": 0.05,
+            "impressions": 280,
+            "position": 2.8
+          },
+          "clicks_change": 6,
+          "impressions_change": 47,
+          "now": {
+            "clicks": 20,
+            "ctr": 0.0612,
+            "impressions": 327,
+            "position": 2.85
+          },
+          "page": "https://arbcentrix.com/careers"
+        },
+        {
+          "before": {
+            "clicks": 2,
+            "ctr": 0.04,
+            "impressions": 50,
+            "position": 3.6
+          },
+          "clicks_change": 2,
+          "impressions_change": 32,
+          "now": {
+            "clicks": 4,
+            "ctr": 0.0488,
+            "impressions": 82,
+            "position": 4.72
+          },
+          "page": "https://arbcentrix.com/ystevie-ty"
+        },
+        {
+          "before": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 23,
+            "position": 3.87
+          },
+          "clicks_change": 1,
+          "impressions_change": 17,
+          "now": {
+            "clicks": 1,
+            "ctr": 0.025,
+            "impressions": 40,
+            "position": 3.35
+          },
+          "page": "https://arbcentrix.com/maan-sacdalan"
+        },
+        {
+          "before": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 64,
+            "position": 6.16
+          },
+          "clicks_change": 1,
+          "impressions_change": -21,
+          "now": {
+            "clicks": 1,
+            "ctr": 0.0233,
+            "impressions": 43,
+            "position": 4.37
+          },
+          "page": "https://arbcentrix.com/growth-marketing-officer"
+        }
+      ],
+      "losers": [
+        {
+          "before": {
+            "clicks": 5,
+            "ctr": 0.0294,
+            "impressions": 170,
+            "position": 3.03
+          },
+          "clicks_change": -4,
+          "impressions_change": -8,
+          "now": {
+            "clicks": 1,
+            "ctr": 0.0062,
+            "impressions": 162,
+            "position": 2.18
+          },
+          "page": "https://arbcentrix.com/recruitment-and-onboarding"
+        },
+        {
+          "before": {
+            "clicks": 8,
+            "ctr": 0.031,
+            "impressions": 258,
+            "position": 2.34
+          },
+          "clicks_change": -1,
+          "impressions_change": 99,
+          "now": {
+            "clicks": 7,
+            "ctr": 0.0196,
+            "impressions": 357,
+            "position": 2.67
+          },
+          "page": "https://arbcentrix.com/about"
+        },
+        {
+          "before": {
+            "clicks": 1,
+            "ctr": 0.027,
+            "impressions": 37,
+            "position": 6.08
+          },
+          "clicks_change": -1,
+          "impressions_change": -7,
+          "now": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 30,
+            "position": 4.8
+          },
+          "page": "https://arbcentrix.com/accounting-services"
+        },
+        {
+          "before": {
+            "clicks": 1,
+            "ctr": 0.0455,
+            "impressions": 22,
+            "position": 4.23
+          },
+          "clicks_change": -1,
+          "impressions_change": -15,
+          "now": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 7,
+            "position": 7.43
+          },
+          "page": "https://arbcentrix.com/it-services"
+        },
+        {
+          "before": {
+            "clicks": 1,
+            "ctr": 0.0345,
+            "impressions": 29,
+            "position": 5.55
+          },
+          "clicks_change": -1,
+          "impressions_change": 24,
+          "now": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 53,
+            "position": 1.81
+          },
+          "page": "https://arbcentrix.com/kevin-mairs"
+        },
+        {
+          "before": {
+            "clicks": 1,
+            "ctr": 0.05,
+            "impressions": 20,
+            "position": 6.3
+          },
+          "clicks_change": -1,
+          "impressions_change": -2,
+          "now": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 18,
+            "position": 6.44
+          },
+          "page": "https://arbcentrix.com/operations-specialist"
+        }
+      ],
+      "lost": [],
+      "new": [
+        "http://arbcentrix.com/",
+        "https://arbcentrix.com/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+        "https://arbcentrix.com/case-study/why-capacity-feels-fragile",
+        "https://arbcentrix.com/insights/reinventing-the-partner-role",
+        "https://arbcentrix.com/insights/retention-starts-with-respect",
+        "https://arbcentrix.com/newsletter"
+      ]
+    },
+    "queries": {
+      "gainers": [
+        {
+          "before": {
+            "clicks": 3,
+            "ctr": 0.0462,
+            "impressions": 65,
+            "position": 1.09
+          },
+          "clicks_change": 8,
+          "impressions_change": 106,
+          "now": {
+            "clicks": 11,
+            "ctr": 0.0643,
+            "impressions": 171,
+            "position": 1.0
+          },
+          "query": "arbcentrix corp"
+        },
+        {
+          "before": {
+            "clicks": 45,
+            "ctr": 0.0893,
+            "impressions": 504,
+            "position": 1.12
+          },
+          "clicks_change": 3,
+          "impressions_change": 147,
+          "now": {
+            "clicks": 48,
+            "ctr": 0.0737,
+            "impressions": 651,
+            "position": 1.11
+          },
+          "query": "arbcentrix"
+        },
+        {
+          "before": {
+            "clicks": 0,
+            "ctr": null,
+            "impressions": 0,
+            "position": null
+          },
+          "clicks_change": 1,
+          "impressions_change": 2,
+          "now": {
+            "clicks": 1,
+            "ctr": 0.5,
+            "impressions": 2,
+            "position": 2.5
+          },
+          "query": "dennis ty"
+        }
+      ],
+      "losers": [
+        {
+          "before": {
+            "clicks": 7,
+            "ctr": 0.0547,
+            "impressions": 128,
+            "position": 1.0
+          },
+          "clicks_change": -4,
+          "impressions_change": -80,
+          "now": {
+            "clicks": 3,
+            "ctr": 0.0625,
+            "impressions": 48,
+            "position": 3.19
+          },
+          "query": "arbcentrix corporation"
+        },
+        {
+          "before": {
+            "clicks": 1,
+            "ctr": 0.0769,
+            "impressions": 13,
+            "position": 5.38
+          },
+          "clicks_change": -1,
+          "impressions_change": 3,
+          "now": {
+            "clicks": 0,
+            "ctr": 0.0,
+            "impressions": 16,
+            "position": 7.62
+          },
+          "query": "savya financial center hiring"
+        }
+      ],
+      "lost": [
+        "address",
+        "arb enterprise",
+        "arb inc irvine",
+        "arb inc lake forest ca",
+        "arb industrial",
+        "arb intern",
+        "arb lake forest ca",
+        "arb-intern",
+        "arbent",
+        "arbmatrix",
+        "arthaland careers",
+        "firms that actually support adviser networks in manila",
+        "hiring process",
+        "hours of night shift",
+        "i am an applicant",
+        "it",
+        "pwede ba sa online?",
+        "silent attrition",
+        "site:arbcentrix.com",
+        "started in?",
+        "yes how to apply"
+      ],
+      "new": [
+        "abrz",
+        "arb core",
+        "arb team",
+        "arbcentrix philippines",
+        "arbicenter",
+        "arbitech",
+        "arbrix floor scrubber",
+        "centrix bpo",
+        "customer service representative position",
+        "dennis ty",
+        "iba pa",
+        "is she still in this role"
+      ]
+    },
+    "window": {
+      "before": [
+        "2026-09-11",
+        "2026-10-08"
+      ],
+      "now": [
+        "2026-10-09",
+        "2026-11-05"
+      ]
+    }
+  },
+  "generated_at": "2026-11-08T22:44:20+00:00",
+  "kpis": {
+    "28d_vs_last_year": {
+      "ga4": {
+        "all_channels": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 0,
+              "change": 150,
+              "change_pct": null,
+              "now": 150
+            },
+            "engagement_rate": {
+              "before": null,
+              "change": null,
+              "change_pct": null,
+              "now": 0.5814
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 0,
+              "change": 258,
+              "change_pct": null,
+              "now": 258
+            }
+          }
+        },
+        "organic": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 0,
+              "change": 50,
+              "change_pct": null,
+              "now": 50
+            },
+            "engagement_rate": {
+              "before": null,
+              "change": null,
+              "change_pct": null,
+              "now": 0.7143
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 0,
+              "change": 70,
+              "change_pct": null,
+              "now": 70
+            }
+          }
+        }
+      },
+      "gsc": {
+        "clicks": {
+          "before": 132,
+          "change": -3,
+          "change_pct": -0.0227,
+          "now": 129
+        },
+        "ctr": {
+          "before": 0.0491,
+          "change": 0.0073,
+          "change_pct": 0.1487,
+          "now": 0.0564
+        },
+        "impressions": {
+          "before": 2689,
+          "change": -400,
+          "change_pct": -0.1488,
+          "now": 2289
+        },
+        "position": {
+          "before": 3.37,
+          "change": -0.13,
+          "change_pct": -0.0386,
+          "now": 3.24
+        }
+      }
+    },
+    "28d_vs_prev": {
+      "ga4": {
+        "all_channels": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 0,
+              "change": 150,
+              "change_pct": null,
+              "now": 150
+            },
+            "engagement_rate": {
+              "before": null,
+              "change": null,
+              "change_pct": null,
+              "now": 0.5814
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 0,
+              "change": 258,
+              "change_pct": null,
+              "now": 258
+            }
+          }
+        },
+        "organic": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 0,
+              "change": 50,
+              "change_pct": null,
+              "now": 50
+            },
+            "engagement_rate": {
+              "before": null,
+              "change": null,
+              "change_pct": null,
+              "now": 0.7143
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 0,
+              "change": 70,
+              "change_pct": null,
+              "now": 70
+            }
+          }
+        }
+      },
+      "gsc": {
+        "clicks": {
+          "before": 98,
+          "change": 31,
+          "change_pct": 0.3163,
+          "now": 129
+        },
+        "ctr": {
+          "before": 0.0514,
+          "change": 0.005,
+          "change_pct": 0.0973,
+          "now": 0.0564
+        },
+        "impressions": {
+          "before": 1906,
+          "change": 383,
+          "change_pct": 0.2009,
+          "now": 2289
+        },
+        "position": {
+          "before": 3.92,
+          "change": -0.68,
+          "change_pct": -0.1735,
+          "now": 3.24
+        }
+      }
+    },
+    "7d_vs_prev": {
+      "ga4": {
+        "all_channels": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 84,
+              "change": -32,
+              "change_pct": -0.381,
+              "now": 52
+            },
+            "engagement_rate": {
+              "before": 0.6364,
+              "change": -0.0773,
+              "change_pct": -0.1215,
+              "now": 0.5591
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 132,
+              "change": -39,
+              "change_pct": -0.2955,
+              "now": 93
+            }
+          }
+        },
+        "organic": {
+          "key_events_by_name": {},
+          "metrics": {
+            "engaged_sessions": {
+              "before": 26,
+              "change": -7,
+              "change_pct": -0.2692,
+              "now": 19
+            },
+            "engagement_rate": {
+              "before": 0.7222,
+              "change": -0.0185,
+              "change_pct": -0.0256,
+              "now": 0.7037
+            },
+            "key_events": {
+              "before": 0,
+              "change": 0,
+              "change_pct": null,
+              "now": 0
+            },
+            "sessions": {
+              "before": 36,
+              "change": -9,
+              "change_pct": -0.25,
+              "now": 27
+            }
+          }
+        }
+      },
+      "gsc": {
+        "clicks": {
+          "before": 35,
+          "change": -15,
+          "change_pct": -0.4286,
+          "now": 20
+        },
+        "ctr": {
+          "before": 0.0536,
+          "change": -0.0197,
+          "change_pct": -0.3675,
+          "now": 0.0339
+        },
+        "impressions": {
+          "before": 653,
+          "change": -63,
+          "change_pct": -0.0965,
+          "now": 590
+        },
+        "position": {
+          "before": 3.23,
+          "change": 0.41,
+          "change_pct": 0.1269,
+          "now": 3.64
+        }
+      }
+    }
+  },
+  "labels_applied": false,
+  "psi": {
+    "date": "2026-11-05",
+    "results": [
+      {
+        "fetched_at": "2026-11-05T22:14:23+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.032,
+          "fcp_ms": 1154,
+          "lcp_ms": 6261,
+          "performance": 65,
+          "si_ms": 5267,
+          "tbt_ms": 352
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/"
+      },
+      {
+        "fetched_at": "2026-11-05T22:14:42+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 376,
+          "lcp_ms": 1505,
+          "performance": 90,
+          "si_ms": 1487,
+          "tbt_ms": 158
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/"
+      },
+      {
+        "fetched_at": "2026-11-05T22:15:01+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.002,
+          "fcp_ms": 987,
+          "lcp_ms": 6387,
+          "performance": 76,
+          "si_ms": 2163,
+          "tbt_ms": 145
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/services"
+      },
+      {
+        "fetched_at": "2026-11-05T22:15:16+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 691,
+          "lcp_ms": 1418,
+          "performance": 81,
+          "si_ms": 898,
+          "tbt_ms": 328
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/services"
+      },
+      {
+        "fetched_at": "2026-11-05T22:15:30+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 1144,
+          "lcp_ms": 10262,
+          "performance": 72,
+          "si_ms": 4553,
+          "tbt_ms": 57
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/accounting"
+      },
+      {
+        "fetched_at": "2026-11-05T22:15:46+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.006,
+          "fcp_ms": 372,
+          "lcp_ms": 1448,
+          "performance": 90,
+          "si_ms": 1398,
+          "tbt_ms": 162
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/accounting"
+      },
+      {
+        "fetched_at": "2026-11-05T22:16:01+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 1132,
+          "lcp_ms": 6694,
+          "performance": 64,
+          "si_ms": 4662,
+          "tbt_ms": 417
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/audit"
+      },
+      {
+        "fetched_at": "2026-11-05T22:16:23+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.024,
+          "fcp_ms": 352,
+          "lcp_ms": 1338,
+          "performance": 94,
+          "si_ms": 1421,
+          "tbt_ms": 85
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/audit"
+      },
+      {
+        "fetched_at": "2026-11-05T22:16:40+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 1172,
+          "lcp_ms": 6939,
+          "performance": 73,
+          "si_ms": 4593,
+          "tbt_ms": 78
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/tax"
+      },
+      {
+        "fetched_at": "2026-11-05T22:16:53+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.006,
+          "fcp_ms": 350,
+          "lcp_ms": 1397,
+          "performance": 88,
+          "si_ms": 1338,
+          "tbt_ms": 209
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/tax"
+      },
+      {
+        "fetched_at": "2026-11-05T22:17:11+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 1161,
+          "lcp_ms": 8825,
+          "performance": 75,
+          "si_ms": 2071,
+          "tbt_ms": 91
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/contact"
+      },
+      {
+        "fetched_at": "2026-11-05T22:17:24+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 356,
+          "lcp_ms": 1683,
+          "performance": 87,
+          "si_ms": 1016,
+          "tbt_ms": 200
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/contact"
+      },
+      {
+        "fetched_at": "2026-11-05T22:17:41+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 1132,
+          "lcp_ms": 6310,
+          "performance": 50,
+          "si_ms": 5831,
+          "tbt_ms": 1099
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/about"
+      },
+      {
+        "fetched_at": "2026-11-05T22:18:14+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 350,
+          "lcp_ms": 1251,
+          "performance": 77,
+          "si_ms": 1524,
+          "tbt_ms": 411
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/about"
+      },
+      {
+        "fetched_at": "2026-11-05T22:18:34+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 1015,
+          "lcp_ms": 4520,
+          "performance": 84,
+          "si_ms": 1274,
+          "tbt_ms": 90
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/insights"
+      },
+      {
+        "fetched_at": "2026-11-05T22:18:46+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 306,
+          "lcp_ms": 1225,
+          "performance": 89,
+          "si_ms": 721,
+          "tbt_ms": 233
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/insights"
+      },
+      {
+        "fetched_at": "2026-11-05T22:19:03+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 949,
+          "lcp_ms": 4025,
+          "performance": 85,
+          "si_ms": 1213,
+          "tbt_ms": 157
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/case-study"
+      },
+      {
+        "fetched_at": "2026-11-05T22:19:17+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0,
+          "fcp_ms": 282,
+          "lcp_ms": 1942,
+          "performance": 90,
+          "si_ms": 542,
+          "tbt_ms": 95
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/case-study"
+      },
+      {
+        "fetched_at": "2026-11-05T22:19:33+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.002,
+          "fcp_ms": 1153,
+          "lcp_ms": 5933,
+          "performance": 74,
+          "si_ms": 3299,
+          "tbt_ms": 224
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/customer-care"
+      },
+      {
+        "fetched_at": "2026-11-05T22:19:51+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 762,
+          "lcp_ms": 1317,
+          "performance": 96,
+          "si_ms": 894,
+          "tbt_ms": 78
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/customer-care"
+      },
+      {
+        "fetched_at": "2026-11-05T22:20:06+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.014,
+          "fcp_ms": 1144,
+          "lcp_ms": 7594,
+          "performance": 72,
+          "si_ms": 3480,
+          "tbt_ms": 172
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/property-management"
+      },
+      {
+        "fetched_at": "2026-11-05T22:20:21+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 365,
+          "lcp_ms": 1182,
+          "performance": 92,
+          "si_ms": 997,
+          "tbt_ms": 193
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/property-management"
+      },
+      {
+        "fetched_at": "2026-11-05T22:20:38+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.011,
+          "fcp_ms": 1138,
+          "lcp_ms": 5178,
+          "performance": 69,
+          "si_ms": 2592,
+          "tbt_ms": 458
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/recruitment-and-onboarding"
+      },
+      {
+        "fetched_at": "2026-11-05T22:20:57+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 356,
+          "lcp_ms": 1208,
+          "performance": 97,
+          "si_ms": 844,
+          "tbt_ms": 52
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/recruitment-and-onboarding"
+      },
+      {
+        "fetched_at": "2026-11-05T22:21:13+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 1146,
+          "lcp_ms": 7571,
+          "performance": 74,
+          "si_ms": 3357,
+          "tbt_ms": 96
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/digital-transformation"
+      },
+      {
+        "fetched_at": "2026-11-05T22:21:29+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.0,
+          "fcp_ms": 373,
+          "lcp_ms": 1531,
+          "performance": 70,
+          "si_ms": 1142,
+          "tbt_ms": 624
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/digital-transformation"
+      },
+      {
+        "fetched_at": "2026-11-05T22:21:58+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.002,
+          "fcp_ms": 1149,
+          "lcp_ms": 7230,
+          "performance": 76,
+          "si_ms": 2865,
+          "tbt_ms": 41
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      },
+      {
+        "fetched_at": "2026-11-05T22:22:10+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.007,
+          "fcp_ms": 762,
+          "lcp_ms": 1210,
+          "performance": 96,
+          "si_ms": 873,
+          "tbt_ms": 80
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      },
+      {
+        "fetched_at": "2026-11-05T22:22:25+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.002,
+          "fcp_ms": 1148,
+          "lcp_ms": 6300,
+          "performance": 74,
+          "si_ms": 3176,
+          "tbt_ms": 188
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "mobile",
+        "url": "https://arbcentrix.com/order-fulfillment-management"
+      },
+      {
+        "fetched_at": "2026-11-05T22:22:41+00:00",
+        "field": null,
+        "lab": {
+          "cls": 0.001,
+          "fcp_ms": 763,
+          "lcp_ms": 1196,
+          "performance": 97,
+          "si_ms": 897,
+          "tbt_ms": 65
+        },
+        "lighthouse_version": "13.6.0",
+        "origin_field": null,
+        "strategy": "desktop",
+        "url": "https://arbcentrix.com/order-fulfillment-management"
+      }
+    ]
+  },
+  "query_page": [
+    {
+      "branded": true,
+      "clicks": 32,
+      "ctr": 0.3137,
+      "impressions": 102,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.01,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 3,
+      "ctr": 0.0294,
+      "impressions": 102,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.03,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 8,
+      "ctr": 0.0792,
+      "impressions": 101,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.12,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 4,
+      "ctr": 0.0426,
+      "impressions": 94,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.08,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.011,
+      "impressions": 91,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 59,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1.02,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 33,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1.03,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 7,
+      "ctr": 0.2593,
+      "impressions": 27,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.037,
+      "impressions": 27,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.037,
+      "impressions": 27,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 2,
+      "ctr": 0.0769,
+      "impressions": 26,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 17,
+      "intent": null,
+      "page": "https://arbcentrix.com/property-management",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 16,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 15,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 5.53,
+      "query": "savya financial center hiring"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 12,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 11,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 9,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 8,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 2,
+      "ctr": 0.25,
+      "impressions": 8,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 12.25,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.14,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 1,
+      "ctr": 0.1429,
+      "impressions": 7,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 6,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 3.83,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 5,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 4,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 8.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/remote-auditor",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 6.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 3,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": false,
+      "clicks": 1,
+      "ctr": 0.5,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 3.0,
+      "query": "abcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 7.0,
+      "query": "absentrix"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 63.0,
+      "query": "arbantech"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": false,
+      "clicks": 1,
+      "ctr": 0.5,
+      "impressions": 2,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.5,
+      "query": "dennis ty"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 34.0,
+      "query": "abrz"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 37.0,
+      "query": "arb core"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 58.0,
+      "query": "arb enterprises"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 50.0,
+      "query": "arb inc"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 8.0,
+      "query": "arb team"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 1.0,
+      "query": "arbcentrix"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.0,
+      "query": "arbcentrix corp"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/customer-care",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/order-fulfillment-management",
+      "position": 1.0,
+      "query": "arbcentrix corporation"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": true,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1.0,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 3.0,
+      "query": "arbicenter"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 55.0,
+      "query": "arbitech"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 1.0,
+      "query": "arbrix floor scrubber"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 12.0,
+      "query": "centrix bpo"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/about",
+      "position": 5.0,
+      "query": "customer service representative position"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.0,
+      "query": "customer service representative position"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 4.0,
+      "query": "customer service representative position"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 14.0,
+      "query": "iba pa"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 2.0,
+      "query": "is she still in this role"
+    },
+    {
+      "branded": false,
+      "clicks": 0,
+      "ctr": 0.0,
+      "impressions": 1,
+      "intent": null,
+      "page": "https://arbcentrix.com/",
+      "position": 39.0,
+      "query": "savya financial center hiring"
+    }
+  ],
+  "runs": {
+    "since": "2026-11-01T22:44:20+00:00",
+    "suspicious": [],
+    "tasks": {
+      "daily": {
+        "errors": 7,
+        "expected": 7,
+        "last_run": "2026-11-08T22:16:49+00:00",
+        "missing": 0,
+        "not_closed": 0,
+        "ok": 1,
+        "runs": 8,
+        "task": "SEO daily watch"
+      },
+      "monthly": {
+        "errors": 1,
+        "expected": null,
+        "last_run": "2026-11-02T23:44:51+00:00",
+        "missing": null,
+        "not_closed": 0,
+        "ok": 0,
+        "runs": 1,
+        "task": "SEO monthly report"
+      },
+      "watch": {
+        "errors": 1,
+        "expected": 42,
+        "last_run": "2026-11-08T20:29:42+00:00",
+        "missing": 0,
+        "not_closed": 0,
+        "ok": 41,
+        "runs": 42,
+        "task": "SEO publish watch"
+      },
+      "weekly": {
+        "errors": 1,
+        "expected": 1,
+        "last_run": "2026-11-01T22:44:54+00:00",
+        "missing": 0,
+        "not_closed": 0,
+        "ok": 0,
+        "runs": 1,
+        "task": "SEO weekly report"
+      }
+    }
+  },
+  "site_health": {
+    "crawled_at": "2026-11-08T22:16:21+00:00",
+    "findings_by_rule": {
+      "h1_missing": 4,
+      "h1_multiple": 22,
+      "orphan_page": 30,
+      "thin_content": 4,
+      "title_meta_regression": 61
+    },
+    "open_alerts": 2,
+    "pages_crawled": 61
+  },
+  "windows": {
+    "28d": [
+      "2026-10-09",
+      "2026-11-05"
+    ],
+    "28d_last_year": [
+      "2025-10-10",
+      "2025-11-06"
+    ],
+    "7d": [
+      "2026-10-30",
+      "2026-11-05"
+    ],
+    "prev_28d": [
+      "2026-09-11",
+      "2026-10-08"
+    ],
+    "prev_7d": [
+      "2026-10-23",
+      "2026-10-29"
+    ]
+  }
+}
