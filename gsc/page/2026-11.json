@@ -2,9 +2,10 @@
   "days": {
     "2026-11-01": "2026-11-07T22:14:25+00:00",
     "2026-11-02": "2026-11-08T22:44:17+00:00",
-    "2026-11-03": "2026-11-08T22:44:17+00:00",
-    "2026-11-04": "2026-11-08T22:44:17+00:00",
-    "2026-11-05": "2026-11-08T22:44:17+00:00"
+    "2026-11-03": "2026-11-09T22:15:43+00:00",
+    "2026-11-04": "2026-11-09T22:15:43+00:00",
+    "2026-11-05": "2026-11-09T22:15:43+00:00",
+    "2026-11-06": "2026-11-09T22:15:43+00:00"
   },
   "rows": [
     {
@@ -155,41 +156,6 @@
       "position": 2.4
     },
     {
-      "clicks": 1,
-      "date": "2026-11-01",
-      "impressions": 3,
-      "page": "https://arbcentrix.com/locations",
-      "position": 2
-    },
-    {
-      "clicks": 3,
-      "date": "2026-11-02",
-      "impressions": 15,
-      "page": "https://arbcentrix.com/",
-      "position": 2.2
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-02",
-      "impressions": 13,
-      "page": "https://arbcentrix.com/about",
-      "position": 1.77
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-02",
-      "impressions": 4,
-      "page": "https://arbcentrix.com/accounting-services",
-      "position": 3
-    },
-    {
-      "clicks": 1,
-      "date": "2026-11-02",
-      "impressions": 12,
-      "page": "https://arbcentrix.com/careers",
-      "position": 2.75
-    },
-    {
       "clicks": 0,
       "date": "2026-11-02",
       "impressions": 1,
@@ -206,27 +172,6 @@
     {
       "clicks": 0,
       "date": "2026-11-02",
-      "impressions": 5,
-      "page": "https://arbcentrix.com/insights",
-      "position": 4.2
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-02",
-      "impressions": 10,
-      "page": "https://arbcentrix.com/locations",
-      "position": 2.7
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-02",
-      "impressions": 3,
-      "page": "https://arbcentrix.com/loss-prevention",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-02",
       "impressions": 1,
       "page": "https://arbcentrix.com/maan-sacdalan",
       "position": 5
@@ -239,13 +184,6 @@
       "position": 8
     },
     {
-      "clicks": 1,
-      "date": "2026-11-02",
-      "impressions": 5,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1
-    },
-    {
       "clicks": 0,
       "date": "2026-11-02",
       "impressions": 1,
@@ -255,9 +193,65 @@
     {
       "clicks": 0,
       "date": "2026-11-02",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.7
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-02",
+      "impressions": 13,
+      "page": "https://arbcentrix.com/about",
+      "position": 1.77
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-02",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-02",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 3
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-02",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/insights",
+      "position": 4.2
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-02",
       "impressions": 6,
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 3.33
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-01",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-02",
+      "impressions": 12,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.75
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-02",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1
     },
     {
       "clicks": 2,
@@ -748,6 +742,83 @@
       "impressions": 3,
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 6
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/",
+      "position": 1.62
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-06",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 4.88
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 11
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-06",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/locations",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 9.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-06",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 3.5
+    },
+    {
+      "clicks": 3,
+      "date": "2026-11-02",
+      "impressions": 15,
+      "page": "https://arbcentrix.com/",
+      "position": 2.2
     }
   ]
 }
