@@ -6,8 +6,9 @@
     "2026-11-04": "2026-11-07T22:14:26+00:00",
     "2026-11-05": "2026-11-08T22:44:19+00:00",
     "2026-11-06": "2026-11-09T22:15:44+00:00",
-    "2026-11-07": "2026-11-09T22:15:44+00:00",
-    "2026-11-08": "2026-11-09T22:15:44+00:00"
+    "2026-11-07": "2026-11-10T22:15:09+00:00",
+    "2026-11-08": "2026-11-10T22:15:09+00:00",
+    "2026-11-09": "2026-11-10T22:15:09+00:00"
   },
   "rows": [
     {
@@ -399,24 +400,6 @@
     },
     {
       "date": "2026-11-06",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-06",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-06",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/careers",
@@ -430,6 +413,24 @@
       "keyEvents": 0,
       "landingPage": "/locations",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-06",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-06",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -492,6 +493,114 @@
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/maan-sacdalan",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 6,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 11,
+      "totalUsers": 9
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/contact",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/trust-center",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
