@@ -7,8 +7,9 @@
     "2026-11-05": "2026-11-08T22:44:19+00:00",
     "2026-11-06": "2026-11-09T22:15:44+00:00",
     "2026-11-07": "2026-11-10T22:15:09+00:00",
-    "2026-11-08": "2026-11-10T22:15:09+00:00",
-    "2026-11-09": "2026-11-10T22:15:09+00:00"
+    "2026-11-08": "2026-11-11T22:14:16+00:00",
+    "2026-11-09": "2026-11-11T22:14:16+00:00",
+    "2026-11-10": "2026-11-11T22:14:16+00:00"
   },
   "rows": [
     {
@@ -445,21 +446,21 @@
     },
     {
       "date": "2026-11-07",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 5,
-      "totalUsers": 5
-    },
-    {
-      "date": "2026-11-07",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 2,
       "totalUsers": 2
+    },
+    {
+      "date": "2026-11-07",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 5,
+      "totalUsers": 5
     },
     {
       "date": "2026-11-08",
@@ -602,6 +603,213 @@
       "keyEvents": 0,
       "landingPage": "/trust-center",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/business-case-scalable-back-office-optimization-for-u-s-based-telecom-retailer",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/the-vendor-dispute-how-evidence-revealed-the-truth",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study/why-capacity-feels-fragile",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/compliance-operations-specialist",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/digital-transformation",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/digital-transformation",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/go-to-market-strategy-and-business-development",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/silent-attrition",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/supporting-cpa-firms-in-maintaining-real-time-audit-continuity",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/the-modern-cpa-tech-stack",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/order-fulfillment-management",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Unassigned",
       "sessions": 1,
       "totalUsers": 1
     }
