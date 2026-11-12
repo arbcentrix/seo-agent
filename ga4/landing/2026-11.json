@@ -8,8 +8,9 @@
     "2026-11-06": "2026-11-09T22:15:44+00:00",
     "2026-11-07": "2026-11-10T22:15:09+00:00",
     "2026-11-08": "2026-11-11T22:14:16+00:00",
-    "2026-11-09": "2026-11-11T22:14:16+00:00",
-    "2026-11-10": "2026-11-11T22:14:16+00:00"
+    "2026-11-09": "2026-11-12T22:14:23+00:00",
+    "2026-11-10": "2026-11-12T22:14:23+00:00",
+    "2026-11-11": "2026-11-12T22:14:23+00:00"
   },
   "rows": [
     {
@@ -464,6 +465,15 @@
     },
     {
       "date": "2026-11-08",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/maan-sacdalan",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-08",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/",
@@ -486,15 +496,6 @@
       "keyEvents": 0,
       "landingPage": "/locations",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-08",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/maan-sacdalan",
-      "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -610,7 +611,7 @@
       "date": "2026-11-10",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "",
+      "landingPage": "(not set)",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
@@ -619,17 +620,8 @@
       "date": "2026-11-10",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "",
+      "landingPage": "(not set)",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-10",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "",
-      "sessionDefaultChannelGroup": "Unassigned",
       "sessions": 2,
       "totalUsers": 2
     },
@@ -655,15 +647,6 @@
       "date": "2026-11-10",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Unassigned",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-10",
-      "engagedSessions": 0,
-      "keyEvents": 0,
       "landingPage": "/about",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
@@ -675,15 +658,6 @@
       "keyEvents": 0,
       "landingPage": "/about",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-10",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Unassigned",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -805,11 +779,47 @@
       "totalUsers": 1
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "/services",
-      "sessionDefaultChannelGroup": "Unassigned",
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-11",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-11",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-11",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/customer-care",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-11",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/tax",
+      "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
     }
