@@ -9,8 +9,9 @@
     "2026-11-07": "2026-11-10T22:15:09+00:00",
     "2026-11-08": "2026-11-11T22:14:16+00:00",
     "2026-11-09": "2026-11-12T22:14:23+00:00",
-    "2026-11-10": "2026-11-12T22:14:23+00:00",
-    "2026-11-11": "2026-11-12T22:14:23+00:00"
+    "2026-11-10": "2026-11-13T22:14:51+00:00",
+    "2026-11-11": "2026-11-13T22:14:51+00:00",
+    "2026-11-12": "2026-11-13T22:14:51+00:00"
   },
   "rows": [
     {
@@ -519,33 +520,6 @@
     },
     {
       "date": "2026-11-09",
-      "engagedSessions": 6,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 11,
-      "totalUsers": 9
-    },
-    {
-      "date": "2026-11-09",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-09",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/accounting",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-09",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/accounting",
@@ -582,6 +556,24 @@
     },
     {
       "date": "2026-11-09",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/trust-center",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/contact",
@@ -600,12 +592,21 @@
     },
     {
       "date": "2026-11-09",
-      "engagedSessions": 0,
+      "engagedSessions": 2,
       "keyEvents": 0,
-      "landingPage": "/trust-center",
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-09",
+      "engagedSessions": 6,
+      "keyEvents": 0,
+      "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessions": 11,
+      "totalUsers": 9
     },
     {
       "date": "2026-11-10",
@@ -822,6 +823,69 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Cross-network",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 4,
+      "totalUsers": 3
     }
   ]
 }
