@@ -10,8 +10,9 @@
     "2026-11-08": "2026-11-11T22:14:16+00:00",
     "2026-11-09": "2026-11-12T22:14:23+00:00",
     "2026-11-10": "2026-11-13T22:14:51+00:00",
-    "2026-11-11": "2026-11-13T22:14:51+00:00",
-    "2026-11-12": "2026-11-13T22:14:51+00:00"
+    "2026-11-11": "2026-11-14T22:13:48+00:00",
+    "2026-11-12": "2026-11-14T22:13:48+00:00",
+    "2026-11-13": "2026-11-14T22:13:48+00:00"
   },
   "rows": [
     {
@@ -628,37 +629,10 @@
     },
     {
       "date": "2026-11-10",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-10",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-10",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/about",
       "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-10",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     },
@@ -718,15 +692,6 @@
     },
     {
       "date": "2026-11-10",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/digital-transformation",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-10",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/go-to-market-strategy-and-business-development",
@@ -774,55 +739,46 @@
       "date": "2026-11-10",
       "engagedSessions": 1,
       "keyEvents": 0,
-      "landingPage": "/services",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-11",
-      "engagedSessions": 0,
-      "keyEvents": 0,
       "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 2,
       "totalUsers": 2
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-10",
       "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/digital-transformation",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-10",
+      "engagedSessions": 2,
       "keyEvents": 0,
       "landingPage": "/",
       "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-11",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-11",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/customer-care",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-11",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/tax",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-11-12",
@@ -886,6 +842,24 @@
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 4,
       "totalUsers": 3
+    },
+    {
+      "date": "2026-11-13",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-13",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
     }
   ]
 }
