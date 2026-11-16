@@ -12,8 +12,9 @@
     "2026-11-10": "2026-11-13T22:14:51+00:00",
     "2026-11-11": "2026-11-14T22:13:48+00:00",
     "2026-11-12": "2026-11-15T22:44:18+00:00",
-    "2026-11-13": "2026-11-15T22:44:18+00:00",
-    "2026-11-14": "2026-11-15T22:44:18+00:00"
+    "2026-11-13": "2026-11-16T22:13:59+00:00",
+    "2026-11-14": "2026-11-16T22:13:59+00:00",
+    "2026-11-15": "2026-11-16T22:13:59+00:00"
   },
   "rows": [
     {
@@ -801,30 +802,21 @@
     },
     {
       "date": "2026-11-12",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-12",
-      "engagedSessions": 3,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 3,
-      "totalUsers": 3
-    },
-    {
-      "date": "2026-11-12",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/careers",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
     },
     {
       "date": "2026-11-12",
@@ -843,6 +835,15 @@
       "sessionDefaultChannelGroup": "Organic Social",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-12",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
     },
     {
       "date": "2026-11-13",
@@ -895,6 +896,87 @@
       "keyEvents": 0,
       "landingPage": "/property-management",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/case-study",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/metrics-that-matter",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/the-modern-cpa-tech-stack",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/loss-prevention",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/order-fulfillment-management",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
     }
