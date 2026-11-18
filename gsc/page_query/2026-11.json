@@ -11,8 +11,10 @@
     "2026-11-09": "2026-11-15T22:44:17+00:00",
     "2026-11-10": "2026-11-16T22:13:58+00:00",
     "2026-11-11": "2026-11-16T22:13:58+00:00",
-    "2026-11-12": "2026-11-16T22:13:58+00:00",
-    "2026-11-13": "2026-11-16T22:13:58+00:00"
+    "2026-11-12": "2026-11-18T22:14:17+00:00",
+    "2026-11-13": "2026-11-18T22:14:17+00:00",
+    "2026-11-14": "2026-11-18T22:14:17+00:00",
+    "2026-11-15": "2026-11-18T22:14:17+00:00"
   },
   "rows": [
     {
@@ -832,6 +834,230 @@
       "query": "arbcentrix"
     },
     {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 52,
+      "query": "arbnerfg"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/client-accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-10",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/accounting-services",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-11",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
       "clicks": 1,
       "date": "2026-11-01",
       "impressions": 1,
@@ -918,230 +1144,6 @@
       "page": "https://arbcentrix.com/",
       "position": 1,
       "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/",
-      "position": 52,
-      "query": "arbnerfg"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/about",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/about",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/careers",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/careers",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/client-accounting-services",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/loss-prevention",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-10",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/ystevie-ty",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/about",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/about",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/accounting-services",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/careers",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/careers",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/insights",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/loss-prevention",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1,
-      "query": "arbcentrix"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 1,
-      "query": "arbcentrix philippines"
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-11",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/ystevie-ty",
-      "position": 1,
-      "query": "arbcentrix philippines"
     },
     {
       "clicks": 0,
@@ -1406,6 +1408,166 @@
       "page": "https://arbcentrix.com/recruitment-and-onboarding",
       "position": 1,
       "query": "arbcentrix corp"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-14",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 53,
+      "query": "arb inc"
+    },
+    {
+      "clicks": 1,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/about",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/careers",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1,
+      "query": "arbcentrix philippines"
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-15",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 1,
+      "query": "arbcentrix philippines"
     },
     {
       "clicks": 3,
