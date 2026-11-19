@@ -15,8 +15,9 @@
     "2026-11-13": "2026-11-16T22:13:59+00:00",
     "2026-11-14": "2026-11-16T22:13:59+00:00",
     "2026-11-15": "2026-11-18T22:14:18+00:00",
-    "2026-11-16": "2026-11-18T22:14:18+00:00",
-    "2026-11-17": "2026-11-18T22:14:18+00:00"
+    "2026-11-16": "2026-11-19T22:14:30+00:00",
+    "2026-11-17": "2026-11-19T22:14:30+00:00",
+    "2026-11-18": "2026-11-19T22:14:30+00:00"
   },
   "rows": [
     {
@@ -912,24 +913,6 @@
     },
     {
       "date": "2026-11-15",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 2,
-      "totalUsers": 2
-    },
-    {
-      "date": "2026-11-15",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/about",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-15",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/case-study",
@@ -978,6 +961,24 @@
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/services",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-15",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
@@ -1095,6 +1096,51 @@
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/remote-auditor",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 5,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 5,
+      "totalUsers": 5
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/it-services",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
