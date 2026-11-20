@@ -13,9 +13,10 @@
     "2026-11-11": "2026-11-16T22:13:58+00:00",
     "2026-11-12": "2026-11-18T22:14:17+00:00",
     "2026-11-13": "2026-11-19T22:14:29+00:00",
-    "2026-11-14": "2026-11-19T22:14:29+00:00",
-    "2026-11-15": "2026-11-19T22:14:29+00:00",
-    "2026-11-16": "2026-11-19T22:14:29+00:00"
+    "2026-11-14": "2026-11-20T22:13:54+00:00",
+    "2026-11-15": "2026-11-20T22:13:54+00:00",
+    "2026-11-16": "2026-11-20T22:13:54+00:00",
+    "2026-11-17": "2026-11-20T22:13:54+00:00"
   },
   "rows": [
     {
@@ -1293,6 +1294,69 @@
       "position": 2.11
     },
     {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 16
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 5.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 5.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 2.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.29
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-13",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.88
+    },
+    {
       "clicks": 1,
       "date": "2026-11-01",
       "impressions": 3,
@@ -1412,6 +1476,13 @@
       "position": 3.5
     },
     {
+      "clicks": 1,
+      "date": "2026-11-13",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/",
+      "position": 3
+    },
+    {
       "clicks": 2,
       "date": "2026-11-03",
       "impressions": 10,
@@ -1445,76 +1516,6 @@
       "impressions": 22,
       "page": "https://arbcentrix.com/",
       "position": 5.68
-    },
-    {
-      "clicks": 1,
-      "date": "2026-11-13",
-      "impressions": 11,
-      "page": "https://arbcentrix.com/",
-      "position": 3
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 7,
-      "page": "https://arbcentrix.com/about",
-      "position": 2.29
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 8,
-      "page": "https://arbcentrix.com/careers",
-      "position": 2.88
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/digital-transformation",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/growth-marketing-officer",
-      "position": 16
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/insights",
-      "position": 5.5
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/kevin-mairs",
-      "position": 5.5
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 5,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 3,
-      "page": "https://arbcentrix.com/loss-prevention",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-13",
-      "impressions": 6,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 2.5
     },
     {
       "clicks": 1,
@@ -1760,6 +1761,83 @@
       "impressions": 2,
       "page": "https://arbcentrix.com/ystevie-ty",
       "position": 15.5
+    },
+    {
+      "clicks": 3,
+      "date": "2026-11-17",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/",
+      "position": 10.2
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 6,
+      "page": "https://arbcentrix.com/about",
+      "position": 3.33
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/careers",
+      "position": 3.25
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1.33
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 1.5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1.33
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/maan-sacdalan",
+      "position": 2
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1.33
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 5
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-17",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 2.5
     },
     {
       "clicks": 3,
