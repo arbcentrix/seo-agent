@@ -17,8 +17,9 @@
     "2026-11-15": "2026-11-18T22:14:18+00:00",
     "2026-11-16": "2026-11-19T22:14:30+00:00",
     "2026-11-17": "2026-11-20T22:13:55+00:00",
-    "2026-11-18": "2026-11-20T22:13:55+00:00",
-    "2026-11-19": "2026-11-20T22:13:55+00:00"
+    "2026-11-18": "2026-11-21T22:14:32+00:00",
+    "2026-11-19": "2026-11-21T22:14:32+00:00",
+    "2026-11-20": "2026-11-21T22:14:32+00:00"
   },
   "rows": [
     {
@@ -1031,6 +1032,33 @@
     },
     {
       "date": "2026-11-17",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-17",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/order-fulfillment-management",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-17",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/remote-auditor",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-17",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/",
@@ -1046,24 +1074,6 @@
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 4,
       "totalUsers": 4
-    },
-    {
-      "date": "2026-11-17",
-      "engagedSessions": 2,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Referral",
-      "sessions": 2,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-17",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
     },
     {
       "date": "2026-11-17",
@@ -1085,20 +1095,11 @@
     },
     {
       "date": "2026-11-17",
-      "engagedSessions": 0,
+      "engagedSessions": 2,
       "keyEvents": 0,
-      "landingPage": "/order-fulfillment-management",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-17",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "/remote-auditor",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 2,
       "totalUsers": 1
     },
     {
@@ -1148,16 +1149,7 @@
     },
     {
       "date": "2026-11-19",
-      "engagedSessions": 0,
-      "keyEvents": 0,
-      "landingPage": "",
-      "sessionDefaultChannelGroup": "Unassigned",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-19",
-      "engagedSessions": 0,
+      "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/",
       "sessionDefaultChannelGroup": "Direct",
@@ -1244,6 +1236,60 @@
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Unassigned",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 4,
+      "totalUsers": 4
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 5,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 5,
+      "totalUsers": 5
+    },
+    {
+      "date": "2026-11-20",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
     }
   ]
 }
