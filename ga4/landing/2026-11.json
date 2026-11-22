@@ -18,8 +18,9 @@
     "2026-11-16": "2026-11-19T22:14:30+00:00",
     "2026-11-17": "2026-11-20T22:13:55+00:00",
     "2026-11-18": "2026-11-21T22:14:32+00:00",
-    "2026-11-19": "2026-11-21T22:14:32+00:00",
-    "2026-11-20": "2026-11-21T22:14:32+00:00"
+    "2026-11-19": "2026-11-22T22:14:28+00:00",
+    "2026-11-20": "2026-11-22T22:14:28+00:00",
+    "2026-11-21": "2026-11-22T22:14:28+00:00"
   },
   "rows": [
     {
@@ -1122,15 +1123,6 @@
     },
     {
       "date": "2026-11-18",
-      "engagedSessions": 5,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 5,
-      "totalUsers": 5
-    },
-    {
-      "date": "2026-11-18",
       "engagedSessions": 1,
       "keyEvents": 0,
       "landingPage": "/careers",
@@ -1146,6 +1138,15 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-18",
+      "engagedSessions": 5,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 5,
+      "totalUsers": 5
     },
     {
       "date": "2026-11-19",
@@ -1290,6 +1291,42 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 2,
       "totalUsers": 2
+    },
+    {
+      "date": "2026-11-21",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-21",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 3,
+      "totalUsers": 3
+    },
+    {
+      "date": "2026-11-21",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/trust-center",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-21",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/trust-center",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
     }
   ]
 }
