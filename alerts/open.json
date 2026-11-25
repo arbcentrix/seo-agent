@@ -1,16 +1,4 @@
 {
-  "content_shrink https://arbcentrix.com/insights": {
-    "evidence": {
-      "fraction_lost": 1.0,
-      "words_before": 208,
-      "words_now": 0
-    },
-    "first_seen": "2026-11-25T20:28:46+00:00",
-    "last_seen": "2026-11-25T20:28:46+00:00",
-    "rule": "content_shrink",
-    "severity": "medium",
-    "url": "https://arbcentrix.com/insights"
-  },
   "content_shrink https://arbcentrix.com/recruitment-and-onboarding": {
     "evidence": {
       "fraction_lost": 0.431,
@@ -18,21 +6,10 @@
       "words_now": 918
     },
     "first_seen": "2026-10-26T12:37:25+00:00",
-    "last_seen": "2026-11-25T20:28:46+00:00",
+    "last_seen": "2026-11-25T22:15:40+00:00",
     "rule": "content_shrink",
     "severity": "medium",
     "url": "https://arbcentrix.com/recruitment-and-onboarding"
-  },
-  "status_change https://arbcentrix.com/insights": {
-    "evidence": {
-      "error": "ReadTimeout: HTTPSConnectionPool(host='arbcentrix.com', port=443): Read timed out. (read timeout=30)",
-      "status": null
-    },
-    "first_seen": "2026-11-25T20:28:46+00:00",
-    "last_seen": "2026-11-25T20:28:46+00:00",
-    "rule": "status_change",
-    "severity": "critical",
-    "url": "https://arbcentrix.com/insights"
   },
   "title_meta_regression https://arbcentrix.com/terms": {
     "evidence": {
@@ -40,7 +17,7 @@
       "title": "brand-only: 'Arbcentrix'"
     },
     "first_seen": "2026-10-27T00:29:47+00:00",
-    "last_seen": "2026-11-25T20:28:46+00:00",
+    "last_seen": "2026-11-25T22:15:40+00:00",
     "rule": "title_meta_regression",
     "severity": "high",
     "url": "https://arbcentrix.com/terms"

@@ -18,9 +18,10 @@
     "2026-11-16": "2026-11-22T22:44:11+00:00",
     "2026-11-17": "2026-11-23T23:01:30+00:00",
     "2026-11-18": "2026-11-24T22:14:32+00:00",
-    "2026-11-19": "2026-11-24T22:14:32+00:00",
-    "2026-11-20": "2026-11-24T22:14:32+00:00",
-    "2026-11-21": "2026-11-24T22:14:32+00:00"
+    "2026-11-19": "2026-11-25T22:14:35+00:00",
+    "2026-11-20": "2026-11-25T22:14:35+00:00",
+    "2026-11-21": "2026-11-25T22:14:35+00:00",
+    "2026-11-22": "2026-11-25T22:14:35+00:00"
   },
   "rows": [
     {
@@ -1627,6 +1628,90 @@
       "position": 3.33
     },
     {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/case-study",
+      "position": 47
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/growth-marketing-officer",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/insights",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/trust-center",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 11,
+      "page": "https://arbcentrix.com/about",
+      "position": 2.27
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/tax",
+      "position": 10
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 4
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 2.8
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-18",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
       "clicks": 1,
       "date": "2026-11-01",
       "impressions": 3,
@@ -1837,102 +1922,11 @@
       "position": 3.77
     },
     {
-      "clicks": 4,
-      "date": "2026-11-18",
-      "impressions": 10,
-      "page": "https://arbcentrix.com/",
-      "position": 2
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 11,
-      "page": "https://arbcentrix.com/about",
-      "position": 2.27
-    },
-    {
       "clicks": 2,
       "date": "2026-11-18",
       "impressions": 8,
       "page": "https://arbcentrix.com/careers",
       "position": 1.62
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/case-study",
-      "position": 47
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 4,
-      "page": "https://arbcentrix.com/digital-transformation",
-      "position": 4
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/growth-marketing-officer",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/insights",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/it-services",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 8,
-      "page": "https://arbcentrix.com/locations",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 5,
-      "page": "https://arbcentrix.com/loss-prevention",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/operations-specialist",
-      "position": 1
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 5,
-      "page": "https://arbcentrix.com/recruitment-and-onboarding",
-      "position": 2.8
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 2,
-      "page": "https://arbcentrix.com/tax",
-      "position": 10
-    },
-    {
-      "clicks": 0,
-      "date": "2026-11-18",
-      "impressions": 1,
-      "page": "https://arbcentrix.com/trust-center",
-      "position": 1
     },
     {
       "clicks": 0,
@@ -2145,6 +2139,90 @@
       "position": 2
     },
     {
+      "clicks": 1,
+      "date": "2026-11-22",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/",
+      "position": 7.4
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 7,
+      "page": "https://arbcentrix.com/about",
+      "position": 1
+    },
+    {
+      "clicks": 2,
+      "date": "2026-11-22",
+      "impressions": 8,
+      "page": "https://arbcentrix.com/careers",
+      "position": 2.62
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/digital-transformation",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/insights",
+      "position": 11
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/it-services",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/kevin-mairs",
+      "position": 8
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 5,
+      "page": "https://arbcentrix.com/locations",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 3,
+      "page": "https://arbcentrix.com/loss-prevention",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 1,
+      "page": "https://arbcentrix.com/operations-specialist",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 4,
+      "page": "https://arbcentrix.com/recruitment-and-onboarding",
+      "position": 1
+    },
+    {
+      "clicks": 0,
+      "date": "2026-11-22",
+      "impressions": 2,
+      "page": "https://arbcentrix.com/ystevie-ty",
+      "position": 3
+    },
+    {
       "clicks": 3,
       "date": "2026-11-02",
       "impressions": 15,
@@ -2164,6 +2242,13 @@
       "impressions": 5,
       "page": "https://arbcentrix.com/",
       "position": 10.2
+    },
+    {
+      "clicks": 4,
+      "date": "2026-11-18",
+      "impressions": 10,
+      "page": "https://arbcentrix.com/",
+      "position": 2
     }
   ]
 }
