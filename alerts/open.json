@@ -1,4 +1,256 @@
 {
+  "canonical_changed https://www.arbcentrix.com/": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/"
+  },
+  "canonical_changed https://www.arbcentrix.com/about": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/about"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/about"
+  },
+  "canonical_changed https://www.arbcentrix.com/accounting": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/accounting"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/accounting"
+  },
+  "canonical_changed https://www.arbcentrix.com/audit": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/audit"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/audit"
+  },
+  "canonical_changed https://www.arbcentrix.com/careers": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/careers"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/careers"
+  },
+  "canonical_changed https://www.arbcentrix.com/contact": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/contact"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/contact"
+  },
+  "canonical_changed https://www.arbcentrix.com/customer-care": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/customer-care"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/customer-care"
+  },
+  "canonical_changed https://www.arbcentrix.com/digital-transformation": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/digital-transformation"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/digital-transformation"
+  },
+  "canonical_changed https://www.arbcentrix.com/go-to-market-strategy-and-business-development": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/go-to-market-strategy-and-business-development"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/go-to-market-strategy-and-business-development"
+  },
+  "canonical_changed https://www.arbcentrix.com/kevin-mairs": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/kevin-mairs"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/kevin-mairs"
+  },
+  "canonical_changed https://www.arbcentrix.com/locations": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/locations"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/locations"
+  },
+  "canonical_changed https://www.arbcentrix.com/maan-sacdalan": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/maan-sacdalan"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/maan-sacdalan"
+  },
+  "canonical_changed https://www.arbcentrix.com/order-fulfillment-management": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/order-fulfillment-management"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/order-fulfillment-management"
+  },
+  "canonical_changed https://www.arbcentrix.com/privacy-policy": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/privacy-policy"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/privacy-policy"
+  },
+  "canonical_changed https://www.arbcentrix.com/property-management": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/property-management"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/property-management"
+  },
+  "canonical_changed https://www.arbcentrix.com/recruitment-and-onboarding": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/recruitment-and-onboarding"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/recruitment-and-onboarding"
+  },
+  "canonical_changed https://www.arbcentrix.com/services": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/services"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/services"
+  },
+  "canonical_changed https://www.arbcentrix.com/tax": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/tax"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/tax"
+  },
+  "canonical_changed https://www.arbcentrix.com/terms": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/terms"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/terms"
+  },
+  "canonical_changed https://www.arbcentrix.com/trust-center": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/trust-center"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/trust-center"
+  },
+  "canonical_changed https://www.arbcentrix.com/ystevie-ty": {
+    "evidence": {
+      "canonicals": [
+        "https://arbcentrix.com/ystevie-ty"
+      ]
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "canonical_changed",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/ystevie-ty"
+  },
   "content_shrink https://arbcentrix.com/recruitment-and-onboarding": {
     "evidence": {
       "fraction_lost": 0.431,
@@ -6,10 +258,43 @@
       "words_now": 918
     },
     "first_seen": "2026-10-26T12:37:25+00:00",
-    "last_seen": "2026-11-26T00:28:53+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
     "rule": "content_shrink",
     "severity": "medium",
     "url": "https://arbcentrix.com/recruitment-and-onboarding"
+  },
+  "noindex_added https://www.arbcentrix.com/privacy-policy": {
+    "evidence": {
+      "robots_meta": "noindex",
+      "x_robots_tag": null
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "noindex_added",
+    "severity": "critical",
+    "url": "https://www.arbcentrix.com/privacy-policy"
+  },
+  "noindex_added https://www.arbcentrix.com/terms": {
+    "evidence": {
+      "robots_meta": "noindex",
+      "x_robots_tag": null
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "noindex_added",
+    "severity": "critical",
+    "url": "https://www.arbcentrix.com/terms"
+  },
+  "title_meta_regression https://arbcentrix.com/insights/growth-shows-up-in-the-details": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://arbcentrix.com/insights/growth-shows-up-in-the-details"
   },
   "title_meta_regression https://arbcentrix.com/terms": {
     "evidence": {
@@ -17,9 +302,238 @@
       "title": "brand-only: 'Arbcentrix'"
     },
     "first_seen": "2026-10-27T00:29:47+00:00",
-    "last_seen": "2026-11-26T00:28:53+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
     "rule": "title_meta_regression",
     "severity": "high",
     "url": "https://arbcentrix.com/terms"
+  },
+  "title_meta_regression https://www.arbcentrix.com/": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/"
+  },
+  "title_meta_regression https://www.arbcentrix.com/about": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/about"
+  },
+  "title_meta_regression https://www.arbcentrix.com/accounting": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/accounting"
+  },
+  "title_meta_regression https://www.arbcentrix.com/audit": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/audit"
+  },
+  "title_meta_regression https://www.arbcentrix.com/careers": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/careers"
+  },
+  "title_meta_regression https://www.arbcentrix.com/contact": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/contact"
+  },
+  "title_meta_regression https://www.arbcentrix.com/customer-care": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/customer-care"
+  },
+  "title_meta_regression https://www.arbcentrix.com/digital-transformation": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/digital-transformation"
+  },
+  "title_meta_regression https://www.arbcentrix.com/go-to-market-strategy-and-business-development": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/go-to-market-strategy-and-business-development"
+  },
+  "title_meta_regression https://www.arbcentrix.com/kevin-mairs": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/kevin-mairs"
+  },
+  "title_meta_regression https://www.arbcentrix.com/locations": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/locations"
+  },
+  "title_meta_regression https://www.arbcentrix.com/maan-sacdalan": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/maan-sacdalan"
+  },
+  "title_meta_regression https://www.arbcentrix.com/order-fulfillment-management": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/order-fulfillment-management"
+  },
+  "title_meta_regression https://www.arbcentrix.com/privacy-policy": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/privacy-policy"
+  },
+  "title_meta_regression https://www.arbcentrix.com/property-management": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/property-management"
+  },
+  "title_meta_regression https://www.arbcentrix.com/recruitment-and-onboarding": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/recruitment-and-onboarding"
+  },
+  "title_meta_regression https://www.arbcentrix.com/services": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/services"
+  },
+  "title_meta_regression https://www.arbcentrix.com/tax": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/tax"
+  },
+  "title_meta_regression https://www.arbcentrix.com/terms": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/terms"
+  },
+  "title_meta_regression https://www.arbcentrix.com/trust-center": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/trust-center"
+  },
+  "title_meta_regression https://www.arbcentrix.com/ystevie-ty": {
+    "evidence": {
+      "meta_description": "brand-only: 'Arbcentrix'",
+      "title": "brand-only: 'Arbcentrix'"
+    },
+    "first_seen": "2026-11-26T04:30:19+00:00",
+    "last_seen": "2026-11-26T04:30:19+00:00",
+    "rule": "title_meta_regression",
+    "severity": "high",
+    "url": "https://www.arbcentrix.com/ystevie-ty"
   }
 }
