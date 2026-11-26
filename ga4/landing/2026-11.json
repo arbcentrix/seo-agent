@@ -22,8 +22,9 @@
     "2026-11-20": "2026-11-23T23:01:31+00:00",
     "2026-11-21": "2026-11-24T22:14:34+00:00",
     "2026-11-22": "2026-11-25T22:14:36+00:00",
-    "2026-11-23": "2026-11-25T22:14:36+00:00",
-    "2026-11-24": "2026-11-25T22:14:36+00:00"
+    "2026-11-23": "2026-11-26T22:14:05+00:00",
+    "2026-11-24": "2026-11-26T22:14:05+00:00",
+    "2026-11-25": "2026-11-26T22:14:05+00:00"
   },
   "rows": [
     {
@@ -1333,24 +1334,6 @@
     },
     {
       "date": "2026-11-22",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 7,
-      "totalUsers": 7
-    },
-    {
-      "date": "2026-11-22",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Organic Search",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-22",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/careers",
@@ -1366,6 +1349,24 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 2,
       "totalUsers": 2
+    },
+    {
+      "date": "2026-11-22",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 7,
+      "totalUsers": 7
+    },
+    {
+      "date": "2026-11-22",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
     },
     {
       "date": "2026-11-23",
@@ -1425,7 +1426,7 @@
       "date": "2026-11-24",
       "engagedSessions": 0,
       "keyEvents": 0,
-      "landingPage": "",
+      "landingPage": "(not set)",
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 1,
       "totalUsers": 1
@@ -1501,6 +1502,78 @@
       "sessionDefaultChannelGroup": "Direct",
       "sessions": 4,
       "totalUsers": 4
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 9,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 14,
+      "totalUsers": 13
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/accounting",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/audit",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/growth-shows-up-in-the-details",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 3,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/insights/growth-shows-up-in-the-details",
+      "sessionDefaultChannelGroup": "Referral",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-25",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/tax",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
     }
   ]
 }
