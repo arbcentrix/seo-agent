@@ -23,8 +23,9 @@
     "2026-11-21": "2026-11-24T22:14:34+00:00",
     "2026-11-22": "2026-11-25T22:14:36+00:00",
     "2026-11-23": "2026-11-26T22:14:05+00:00",
-    "2026-11-24": "2026-11-26T22:14:05+00:00",
-    "2026-11-25": "2026-11-26T22:14:05+00:00"
+    "2026-11-24": "2026-11-27T22:14:12+00:00",
+    "2026-11-25": "2026-11-27T22:14:12+00:00",
+    "2026-11-26": "2026-11-27T22:14:12+00:00"
   },
   "rows": [
     {
@@ -1379,24 +1380,6 @@
     },
     {
       "date": "2026-11-23",
-      "engagedSessions": 3,
-      "keyEvents": 0,
-      "landingPage": "/",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 6,
-      "totalUsers": 6
-    },
-    {
-      "date": "2026-11-23",
-      "engagedSessions": 1,
-      "keyEvents": 0,
-      "landingPage": "/careers",
-      "sessionDefaultChannelGroup": "Direct",
-      "sessions": 1,
-      "totalUsers": 1
-    },
-    {
-      "date": "2026-11-23",
       "engagedSessions": 0,
       "keyEvents": 0,
       "landingPage": "/careers",
@@ -1417,10 +1400,28 @@
       "date": "2026-11-23",
       "engagedSessions": 1,
       "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-23",
+      "engagedSessions": 1,
+      "keyEvents": 0,
       "landingPage": "/operations-specialist",
       "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 1,
       "totalUsers": 1
+    },
+    {
+      "date": "2026-11-23",
+      "engagedSessions": 3,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 6,
+      "totalUsers": 6
     },
     {
       "date": "2026-11-24",
@@ -1572,6 +1573,78 @@
       "keyEvents": 0,
       "landingPage": "/tax",
       "sessionDefaultChannelGroup": "Direct",
+      "sessions": 2,
+      "totalUsers": 2
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "(not set)",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 5,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 8,
+      "totalUsers": 8
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/",
+      "sessionDefaultChannelGroup": "Organic Social",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 1,
+      "keyEvents": 0,
+      "landingPage": "/about",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/careers",
+      "sessionDefaultChannelGroup": "Organic Search",
+      "sessions": 2,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 0,
+      "keyEvents": 0,
+      "landingPage": "/insights/reinventing-the-partner-role",
+      "sessionDefaultChannelGroup": "Direct",
+      "sessions": 1,
+      "totalUsers": 1
+    },
+    {
+      "date": "2026-11-26",
+      "engagedSessions": 2,
+      "keyEvents": 0,
+      "landingPage": "/locations",
+      "sessionDefaultChannelGroup": "Organic Search",
       "sessions": 2,
       "totalUsers": 2
     }
