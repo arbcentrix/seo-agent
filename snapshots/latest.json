@@ -1,7 +1,7 @@
 {
   "base_url": "https://arbcentrix.com",
   "build_signature": "7012f5c9a75522b1",
-  "fetched_at": "2026-11-28T12:28:27+00:00",
+  "fetched_at": "2026-11-28T16:28:34+00:00",
   "graph": {
     "inlinks": {
       "https://arbcentrix.com/": [
@@ -2193,6 +2193,7 @@
       "last_modified": "Thu, 26 Nov 2026 02:35:11 GMT",
       "meta_description": "Arbcentrix",
       "noindex": false,
+      "not_modified": true,
       "redirects": [],
       "robots_meta": "max-image-preview:large",
       "script_srcs": [
@@ -10123,26 +10124,11 @@
     "build_signature": "7012f5c9a75522b1",
     "build_signature_before": "7012f5c9a75522b1",
     "carried": 68,
-    "changed": {
-      "https://arbcentrix.com/accounting": [
-        "canonicals",
-        "h1",
-        "h2",
-        "has_booking",
-        "has_form",
-        "internal_links",
-        "meta_description",
-        "robots_meta",
-        "status",
-        "title",
-        "tracking_ids",
-        "word_count"
-      ]
-    },
+    "changed": {},
     "fetched": 15,
     "mode": "quiet",
     "new_pages": [],
-    "not_modified": 14,
+    "not_modified": 15,
     "reasons": [],
     "removed_pages": []
   }
